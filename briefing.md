@@ -7,7 +7,7 @@
 ## 1. IDENTIDADE DO PROJETO
 
 **Nome do criador:** Rafael (Instagram: @orafarangel)
-**Tagline central:** *"Sabedoria de milênios. Ação de 30 segundos."*
+**Tagline central:** *"Sabedoria de milênios. Ação de 30 segundos. Mudança para sempre."*
 **Plataformas:** Instagram, TikTok, YouTube, GitHub
 **Idioma principal:** Português brasileiro
 **Status atual:** Criador em fase de construção de marca. Já validou o conceito com um reel de 494K plays com apenas 737 seguidores — 670x a base de seguidores.
@@ -20,7 +20,7 @@ Rafael é um **tradutor de sabedoria clássica para comportamento prático**.
 
 O projeto existe para resolver um problema específico: a maioria do conteúdo de filosofia, desenvolvimento pessoal e espiritualidade no Brasil entrega **inspiração sem ação**. A pessoa assiste, se sente bem, e no dia seguinte não mudou nada.
 
-Rafael usa textos filosóficos e espirituais — Bíblia, Estoicismo, Budismo, Taoísmo, Logoterapia, Filosofia Oriental — não como doutrina religiosa, mas como **ferramentas de diagnóstico da condição humana moderna**. O objetivo não é discutir religião ou filosofia como fim. O objetivo é extrair o princípio eterno e transformá-lo em uma micro-ação ancorada na rotina de qualquer pessoa.
+Rafael usa textos filosóficos e espirituais — Bíblia, Estoicismo, Budismo, Taoísmo, Logoterapia, Filosofia Oriental — não como doutrina religiosa, mas como **ferramentas de diagnóstico da condição humana moderna**. Os grandes livros seculares e milenares são a fundação e os pilares, mas a fonte não se restringe a eles: conhecimento contemporâneo de peso (Viktor Frankl, BJ Fogg, neurociência, economia comportamental) entra com o mesmo estatuto. O objetivo não é discutir religião ou filosofia como fim. O objetivo é extrair o princípio eterno e transformá-lo em uma micro-ação ancorada na rotina de qualquer pessoa.
 
 A fórmula que rege todo o conteúdo é baseada na ciência comportamental de BJ Fogg:
 
@@ -60,9 +60,9 @@ Nenhum criador brasileiro combina sistematicamente os três elementos:
 
 ---
 
-## 4. AS TRÊS INFLUÊNCIAS ESTRUTURAIS
+## 4. AS INFLUÊNCIAS ESTRUTURAIS
 
-O projeto é a alquimia de três referências:
+O projeto é a alquimia de três referências, mais uma técnica de linguagem que atravessa todas:
 
 ### 📚 MABEL C. DIAS — Canal Artétipos (396K seguidores no Instagram)
 - **O que Rafael extrai:** profundidade, autoridade intelectual, diagnóstico na capa do reel, tom de professor que respeita a inteligência do público
@@ -78,6 +78,11 @@ O projeto é a alquimia de três referências:
 - **O que Rafael extrai:** a ciência que garante que a pessoa não falhe. O Anchor Prompt: acoplar novo comportamento em hábito existente. A ideia de que motivação flutua, mas o gatilho não.
 - **Aplicação:** todo reel termina com uma instrução no formato *"Depois de [hábito que você já tem], faça [micro-ação de 30 segundos]"*. Isso é o que transforma o reel de conteúdo em ferramenta.
 
+### 🪜 S. I. HAYAKAWA — Escada da Abstração (técnica transversal)
+- **O que Rafael extrai:** da semântica de Hayakawa (*Language in Thought and Action*), a Escada da Abstração como técnica deliberada de comunicação. A ansiedade do público mora no topo da escada — o abstrativismo total ("ser uma pessoa melhor", "encontrar propósito") paralisa. Rafael desce a escada degrau por degrau, afunilando o abstrato em entregas e avanços materializados, objetivos.
+- **Por que importa:** é a descida controlada da abstração que respeita e viabiliza a metodologia de Fogg. O Prompt final só funciona porque o caminho até ele saiu da abstração de forma progressiva.
+- **Aplicação:** o INSIGHT é o topo da escada; o PROMPT é o chão. O trajeto entre os dois é a assinatura da marca. Ver [`framework/escada-da-abstracao.md`](framework/escada-da-abstracao.md).
+
 ---
 
 ## 5. TEMPLATE DE CONTEÚDO — FÓRMULA RAFAEL × ALQUIMIA
@@ -85,10 +90,10 @@ O projeto é a alquimia de três referências:
 Todo reel, vídeo ou post segue obrigatoriamente estes 4 tempos:
 
 **1. 🩹 DOR (primeiros 2 segundos)**
-Nomeia o problema real que a pessoa vive hoje. Não é abstrato. É específico e reconhecível. Exemplo: "Você acorda e já está pensando em tudo que pode dar errado."
+Nomeia o problema real que a pessoa vive hoje. Não é abstrato. É específico e reconhecível. A estrutura de comunicação é o método GaryVee: pirâmide invertida, conclusão na frente, sem preâmbulo. Exemplo: "Você acorda e já está pensando em tudo que pode dar errado."
 
 **2. 📖 FONTE (3–10 segundos)**
-Uma tradição filosófica ou espiritual como ferramenta de diagnóstico. Pode ser Provérbios 23:7, Marco Aurélio, Viktor Frankl, Lao Tzu, budismo Zen — o que melhor iluminar aquele problema específico. A fonte não é pregação. É evidência de que a humanidade já resolveu esse problema antes.
+Conhecimento de peso como ferramenta de diagnóstico. Pode ser Provérbios 23:7, Marco Aurélio, Lao Tzu, budismo Zen — ou pensamento contemporâneo de peso: Viktor Frankl, BJ Fogg, neurociência, economia comportamental. Os livros milenares são a fundação, mas a fonte não se restringe a eles — vale o que melhor iluminar aquele problema específico. A fonte não é pregação. É evidência de que alguém sério já resolveu esse problema antes, seja há dois mil anos ou em Stanford.
 
 **3. 🧠 INSIGHT (10–40 segundos)**
 O princípio destilado. Direto, sem fluff, no tom GaryVee. Uma ideia que o espectador consegue repetir para um amigo em uma frase.
@@ -100,6 +105,8 @@ Exemplos:
 - "Depois de apagar o alarme, antes de pegar o celular, pense por 30 segundos no maior obstáculo de hoje e como você vai responder."
 - "Depois de beber seu primeiro copo d'água, escreva UMA palavra de como a pessoa que você quer ser agiria hoje."
 - "Depois de lavar o rosto à noite, nomeie uma coisa que você fez bem hoje."
+
+**O motor entre o tempo 3 e o tempo 4:** a descida da Escada da Abstração (Hayakawa). O INSIGHT está no alto da escada; o PROMPT é o chão concreto. Esse trajeto é a assinatura da marca — ver [`framework/escada-da-abstracao.md`](framework/escada-da-abstracao.md).
 
 ---
 
@@ -192,7 +199,7 @@ O gap entre saber e fazer. Entre entender o princípio e executar o comportament
 ## 9. BIO PROPOSTA
 
 **Versão curta (Instagram):**
-*"Sabedoria de milênios. Ação de 30 segundos. Estoicismo · Bíblia · Filosofia Oriental → 1 micro-hábito por reel."*
+*"Sabedoria de milênios. Ação de 30 segundos. Mudança para sempre. Estoicismo · Bíblia · Filosofia Oriental → 1 micro-hábito por reel."*
 
 **Versão expandida:**
 *"Traduzo Estoicismo, Bíblia e Filosofia Oriental em micro-ações que você consegue fazer hoje. Porque saber não é suficiente — você precisa de um gatilho."*
@@ -212,4 +219,4 @@ O reel mais viral do perfil (@orafarangel) atingiu **494.000 plays com apenas 73
 
 ## 11. FRASE-SÍNTESE PARA QUALQUER IA QUE FOR TRABALHAR NESTE PROJETO
 
-*Rafael é o criador que transforma sabedoria filosófica e espiritual de milênios (Bíblia, Estoicismo, Budismo, Taoísmo) em micro-ações práticas de 30 segundos usando a ciência comportamental de BJ Fogg. Ele comunica com a profundidade de Mabel C. Dias, a urgência e transparência de GaryVee, e entrega o Prompt que nenhum concorrente entrega. Seu nicho é o Ryan Holiday em português. Seu público são brasileiros de 25 a 42 anos que já sabem o que precisam fazer mas não fazem. Seu diferencial é fechar o ciclo completo: Motivação + Capacidade + Gatilho.*
+*Rafael é o criador que transforma sabedoria de peso — dos textos milenares (Bíblia, Estoicismo, Budismo, Taoísmo) ao pensamento contemporâneo (Frankl, Fogg, neurociência) — em micro-ações práticas de 30 segundos usando a ciência comportamental de BJ Fogg e a Escada da Abstração de S. I. Hayakawa para descer do princípio abstrato à ação concreta. Ele comunica com a profundidade de Mabel C. Dias, a urgência e transparência de GaryVee, e entrega o Prompt que nenhum concorrente entrega. Seu nicho é o Ryan Holiday em português. Seu público são brasileiros de 25 a 42 anos que já sabem o que precisam fazer mas não fazem. Seu diferencial é fechar o ciclo completo: Motivação + Capacidade + Gatilho. Sabedoria de milênios. Ação de 30 segundos. Mudança para sempre.*

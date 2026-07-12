@@ -4,6 +4,7 @@
 |---|---|
 | [`bio.md`](bio.md) | Bios oficiais por plataforma |
 | [`voz-e-tom.md`](voz-e-tom.md) | Como o @orafarangel fala — e como não fala |
+| [`briefing-branding.md`](briefing-branding.md) | Briefing para o profissional de branding: posicionamento, influências, protocolo e guardrails da identidade |
 
 ## Identidade visual (Canva)
 

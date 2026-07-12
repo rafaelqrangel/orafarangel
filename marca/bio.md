@@ -2,7 +2,7 @@
 
 ## Instagram (versão curta)
 
-> Sabedoria de milênios. Ação de 30 segundos.
+> Sabedoria de milênios. Ação de 30 segundos. Mudança para sempre.
 > Estoicismo · Bíblia · Filosofia Oriental → 1 micro-hábito por reel.
 
 ## Versão expandida (YouTube / TikTok / site)
@@ -11,4 +11,4 @@
 
 ## GitHub (bio do perfil)
 
-> Construo a marca @orafarangel em público. Sabedoria de milênios → micro-ações de 30 segundos. O método é open source: framework Rafael × Fogg neste repositório.
+> Construo a marca @orafarangel em público. Sabedoria de milênios → micro-ações de 30 segundos → mudança para sempre. O método é open source: framework Rafael × Fogg neste repositório.
