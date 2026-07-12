@@ -5,6 +5,7 @@
 | [`bio.md`](bio.md) | Bios oficiais por plataforma |
 | [`voz-e-tom.md`](voz-e-tom.md) | Como o @orafarangel fala — e como não fala |
 | [`briefing-branding.md`](briefing-branding.md) | Briefing para o profissional de branding: posicionamento, influências, protocolo e guardrails da identidade |
+| [`proposta-identidade-v1.md`](proposta-identidade-v1.md) | Direção de identidade validada (paleta, tipografia, símbolo) — gerada e testada no NotebookLM contra Eva Heller |
 
 ## Identidade visual (Canva)
 
