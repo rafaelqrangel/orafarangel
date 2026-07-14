@@ -42,9 +42,9 @@
 
 O **afunilamento**: triângulo técnico apontando para baixo — a Descida da Escada da Abstração virando assinatura gráfica. Avatar em Azul Petróleo sobre Branco (ou invertido), reconhecível a 40px.
 
-## Sistema dos 6 pilares
+## Sistema dos 5 territórios
 
-Fundo sempre consistente (Branco ou Azul Petróleo). A variação por pilar fica em **tags retangulares de canto ou fios geométricos finos** — nunca mudando a cor inteira do template. Preserva a unidade da marca-mãe.
+Fundo sempre consistente (Branco ou Azul Petróleo). A variação por território (Corpo · Mente · Emoção · Relações · Sentido) fica em **tags retangulares de canto ou fios geométricos finos** — nunca mudando a cor inteira do template. Preserva a unidade da marca-mãe.
 
 ## Aplicação nos 4 tempos
 

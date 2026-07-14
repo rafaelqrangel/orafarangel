@@ -4,14 +4,14 @@
 
 ## Cadência sugerida
 
-| Dia | Slot | Pilar sugerido |
+| Dia | Slot | Território sugerido |
 |---|---|---|
-| Segunda | Reel 1 | Pilar 2 (Hábito) — começar a semana com ação |
-| Quarta | Reel 2 | Pilares 1, 3 ou 5 (rotação de profundidade) |
-| Sexta/Sábado | Reel 3 | Pilar 6 (Contexto) — surfar a conversa do momento |
+| Segunda | Reel 1 | 🧠 Mente ou 🫀 Corpo — os ganchos de maior busca (foco, burnout) para começar a semana |
+| Quarta | Reel 2 | 💓 Afeto, 🤝 Relações ou 🧭 Sentido (rotação de profundidade) |
+| Sexta/Sábado | Reel 3 | 🚪 Porta de entrada — surfar o evento do momento |
 
 ## Programação
 
-| Data | Conteúdo | Pilar | Status |
+| Data | Conteúdo | Território | Status |
 |---|---|---|---|
 | | | | |

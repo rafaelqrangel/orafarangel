@@ -69,7 +69,7 @@ As soluções são suas. As fronteiras são estas:
 - **Contraste entre o clássico e o técnico.** A dualidade da marca pede coexistência de dois registros — por exemplo, uma serifada com lastro histórico convivendo com uma sans de precisão. Como resolver isso é decisão sua, mas a tensão deve existir.
 - **Legibilidade acima de tudo.** A capa do reel é lida em miniatura, no feed, em 1 segundo. Tipografia de display que não performa em 9:16 pequeno está eliminada por definição.
 - **Elementos de sistema.** A marca é open source e documentada em repositório público. Traços que remetam a framework, diagrama, estrutura (sem virar clichê tech) são bem-vindos.
-- **Espaço para 6 pilares.** O conteúdo orbita 6 pilares temáticos (Mente, Hábito, Visão, Coletivo, Emoção, Contexto — ver [`pilares/`](../pilares/)). O sistema visual pode prever codificação por pilar (cor, ícone ou marcador), desde que a marca-mãe permaneça inconfundível.
+- **Espaço para 5 territórios.** O conteúdo se organiza em 5 territórios da vida (Corpo, Mente, Emoção, Relações, Sentido — ver [`pilares/`](../pilares/)). O sistema visual pode prever codificação por território (cor, ícone ou marcador), desde que a marca-mãe permaneça inconfundível.
 
 **Territórios proibidos (eliminatórios):**
 - Dourado/roxo gospel, pomba, luz celestial — a marca NÃO é canal religioso
@@ -109,7 +109,7 @@ Frases curtas, voz ativa, segunda pessoa. Termos filosóficos sempre traduzidos 
 
 - [ ] Logo principal + variação horizontal/vertical + símbolo isolado + versões positivo/negativo
 - [ ] Avatar para redes (testado em 40px)
-- [ ] Paleta com códigos (HEX) e regras de uso, incluindo eventual codificação dos 6 pilares
+- [ ] Paleta com códigos (HEX) e regras de uso, incluindo eventual codificação dos 5 territórios
 - [ ] Tipografia: título, corpo e legenda — **obrigatoriamente fontes disponíveis no Canva**
 - [ ] Sistema de capa de reel: template editável no Canva, com variações por pilar
 - [ ] Template dos 4 tempos (frames de DOR, FONTE, INSIGHT e PROMPT)

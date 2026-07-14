@@ -110,34 +110,37 @@ Exemplos:
 
 ---
 
-## 6. PILARES DE CONTEÚDO
+## 6. ARQUITETURA DE CONTEÚDO — 5 TERRITÓRIOS × 1 MOTOR × 1 PORTA
 
-O conteúdo de Rafael orbita em torno de seis pilares temáticos, cada um com fontes filosóficas específicas:
+O conteúdo se organiza em três camadas (estrutura validada contra as fontes em 13/07/2026 — detalhes em [`pilares/`](pilares/)):
 
-**🔥 Pilar 1 — Mente & Pensamento**
-Fontes: Provérbios 23:7, Marco Aurélio (Meditações), Viktor Frankl (Logoterapia)
-Temas: controle dos pensamentos, identidade, diálogo interno
+**🏛️ Os 5 territórios (o quê — onde a mudança acontece).** Base acadêmica: modelo biopsicossocial de George Engel estendido pela dimensão noológica de Viktor Frankl (soma, psique, noos).
 
-**⚙️ Pilar 2 — Hábito & Comportamento**
-Fontes: BJ Fogg (Tiny Habits), James Clear (Atomic Habits), Budismo Zen
-Temas: formação de hábitos, ambiente, consistência vs. motivação
+**🫀 Território 1 — Corpo** (biológico)
+Fontes: Zen, Taoísmo, Mlodinow (neurociência), Do-In
+Temas: energia, sono, exaustão, dopamina · Ganchos: burnout, dopamina
 
-**🎯 Pilar 3 — Visão & Propósito**
-Fontes: Josué 1:8, Sêneca (Sobre a Brevidade da Vida), Frankl
-Temas: visão de longo prazo, propósito, projetos que se sustentam
+**🧠 Território 2 — Mente** (cognitivo)
+Fontes: Provérbios 23:7, Marco Aurélio, Beck, Wu-Hsin
+Temas: diálogo interno, atenção, crenças, identidade · Ganchos: foco, saúde mental
 
-**🤝 Pilar 4 — Coletivo & Liderança**
-Fontes: Provérbios, Lao Tzu (Tao Te Ching), eventos do mundo real como espelho
-Temas: trabalho em equipe, liderança servil, interdependência
+**💓 Território 3 — Afeto** (emocional; rótulo público: "Emoção")
+Fontes: Epicteto, Romanos 8:6, Frankl, Mlodinow
+Temas: emoção, sentimento e humor (distinção de Damásio documentada no pilar) · Gancho: ansiedade
 
-**😤 Pilar 5 — Emoção & Resiliência**
-Fontes: Estoicismo (Epicteto, Marco Aurélio), Romanos 8:6, Taoísmo
-Temas: gestão emocional, adversidade, adaptação
+**🤝 Território 4 — Relações** (social)
+Fontes: Lao Tzu, Provérbios
+Temas: família, equipe, liderança, interdependência · Ganchos: conflito, liderança
 
-**🌍 Pilar 6 — Contexto & Mundo Real**
-Fontes: eventos atuais (esporte, política, cultura) usados como espelho filosófico
-Temas: princípios atemporais aplicados a situações contemporâneas
-*(Nota: Rafael já usou Copa do Mundo não como futebol, mas como laboratório de visão de longo prazo e trabalho coletivo. Esse pilar é o ponto de entrada para audiência fria.)*
+**🧭 Território 5 — Sentido** (noológico)
+Fontes: Frankl, Sêneca, Josué 1:8, Stanford (Burnett/Evans)
+Temas: propósito, finitude, coerência existencial · Ganchos: propósito, vazio
+
+**⚙️ O motor (como — transversal a todos os territórios):** Beck (o diagnóstico do pensamento automático) → Hayakawa (a descida da abstração) → Fogg (o fechamento em micro-ação). O antigo "pilar Hábito" vive aqui: todo conteúdo de todo território termina em prompt. Ver [`framework/`](framework/).
+
+**🚪 A porta de entrada (por onde — a audiência fria entra):** a dor buscada (ansiedade, burnout, foco), o evento do momento (Copa como espelho filosófico) e a adversidade (circunstância difícil reconhecível). O antigo "pilar Contexto" vive aqui. Ver [`conteudo/estrategia-descoberta.md`](conteudo/estrategia-descoberta.md).
+
+**Resiliência** é competência que o motor desenvolve (não emoção); **adversidade** é vocabulário de porta (não afeto).
 
 ---
 

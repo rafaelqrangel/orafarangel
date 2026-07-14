@@ -1,6 +1,6 @@
 # @orafarangel
 
-> **Sabedoria de milênios. Ação de 30 segundos.**
+> **Sabedoria de milênios. Ação de 30 segundos. Mudança para sempre.**
 
 Este é o repositório aberto da marca **@orafarangel** — o framework completo, público e versionado de como transformar filosofia clássica e espiritualidade (Bíblia, Estoicismo, Budismo, Taoísmo, Logoterapia) em **micro-ações práticas de 30 segundos**, usando a ciência comportamental de BJ Fogg.
 
@@ -29,8 +29,8 @@ A maioria do conteúdo de desenvolvimento pessoal no Brasil entrega inspiração
 ```
 orafarangel/
 ├── briefing.md            ← briefing completo de posicionamento (fonte da verdade)
-├── framework/             ← o método: fórmula B=M+A+P e template dos 4 tempos
-├── pilares/               ← os 6 pilares de conteúdo, com fontes e temas
+├── framework/             ← o motor: B=M+A+P, template dos 4 tempos e Escada da Abstração
+├── pilares/               ← os 5 territórios da vida (Corpo, Mente, Afeto, Relações, Sentido)
 ├── conteudo/              ← banco de ideias, roteiros e produção
 └── marca/                 ← bio, voz, tom e identidade
 ```
@@ -45,4 +45,4 @@ Instagram (@orafarangel) · TikTok · YouTube · GitHub
 
 ---
 
-*Sabedoria de milênios. Ação de 30 segundos.*
+*Sabedoria de milênios. Ação de 30 segundos. Mudança para sempre.*
