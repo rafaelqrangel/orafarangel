@@ -43,10 +43,11 @@ A marca vive na tensão entre três escalas de tempo: **o milenar** (a bibliotec
 
 | Papel | Fonte | Peso | Uso |
 |---|---|---|---|
-| Citação / palavra de peso | Playfair Display ou Lora | Bold | A FONTE (Marco Aurélio, Provérbios), momentos de lastro histórico |
-| Título / headline | Inter ou Montserrat | SemiBold–Black | DOR de capa, títulos de página, UI |
+| Título / headline / DOR de capa | Lora (padrão) ou Playfair Display (display grande) | **Bold/Black apenas** | A Voz Antiga assume TODOS os títulos — capas, thumbnails, headlines de página. Quebra o padrão sans-bold do feed (ref: @abarbaratorres). Nunca em peso fino, nunca sobre meio-tom |
+| Citação / palavra de peso | Playfair Display ou Lora | Bold | A FONTE (Marco Aurélio, Provérbios), lastro histórico |
+| Sistema / UI / PROMPT | Inter ou Montserrat | Medium–Bold | Tags, handle, card do PROMPT, botões, navegação — a Voz Moderna é a infraestrutura |
 | Corpo | Inter | Regular–Medium | Texto corrido, legendas |
-| A tensão é proposital | — | — | Serifada e sans convivem na mesma peça: é o encontro dos dois tempos da marca |
+| A tensão é proposital | — | — | Título serifado + sistema sans na mesma peça: o encontro dos dois tempos da marca em toda superfície |
 
 Escala digital sugerida: 48/32/24/18/16/14px, line-height 1.2 (títulos) e 1.6 (corpo). Legibilidade em miniatura é eliminatória: um título de capa precisa ser lido em 1 segundo no feed.
 
