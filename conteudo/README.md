@@ -12,6 +12,10 @@ conteudo/
 
 ## Fluxo de produção
 
+**⚡ Modo circuito (recomendado):** digite `/pauta` + uma frase no Claude Code. O circuito classifica o território, gera 2 versões nos 4 tempos, itera com você e desdobra o pacote completo (Instagram, TikTok, YouTube, teleprompter, Higgsfield, prompts de capa), salvando tudo aqui. Skill em [`.claude/skills/pauta/SKILL.md`](../.claude/skills/pauta/SKILL.md).
+
+**Modo manual:**
+
 1. **Capturar** — toda ideia entra no `banco-de-ideias.md` (dor + território, uma linha)
 2. **Roteirizar** — copie `roteiros/_modelo-roteiro.md`, renomeie (`YYYY-MM-DD-slug.md`) e preencha os 4 tempos
 3. **Validar** — rode o [checklist pré-publicação](../framework/template-4-tempos.md#checklist-pré-publicação)
