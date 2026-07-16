@@ -12,8 +12,8 @@ A capa muda de modo conforme a **função** do conteúdo — mas os elementos de
 
 O padrão Huberman/GaryVee, vestido com a nossa paleta:
 
-- Sua foto P&B ou dessaturada, câmera direta, expressão coerente com a DOR, sobre fundo azul petróleo `#0C2340`
-- Texto: 3 a 6 palavras MAX, serifada Bold (Lora/Playfair), branco, ocupando ~60% da largura
+- Fundo creme `#FFF8F1` dominante (salta no modo escuro do YouTube); sua foto P&B ou dessaturada, câmera direta, expressão coerente com a DOR
+- Texto: 3 a 6 palavras MAX, serifada Bold (Lora/Playfair), azul petróleo `#0C2340`, ocupando ~60% da largura. Variante escura (fundo petróleo, texto branco) permitida para alternância
 - Tag de território terracota no canto superior
 - A expressão do rosto é conteúdo: grave para dor pesada, leve para pauta prática
 
@@ -22,7 +22,7 @@ O padrão Huberman/GaryVee, vestido com a nossa paleta:
 O padrão GaryVee vertical: o frame do próprio vídeo + a DOR em caixa:
 
 - Foto sua do próprio vídeo (full-bleed, leve dessaturação)
-- Caixa branca arredondada com a DOR em azul petróleo, serifada Bold (inversão da caixa preta do GaryVee — nossa marca é clara)
+- Caixa creme `#FFF8F1` arredondada com a DOR em azul petróleo, serifada Bold (inversão da caixa preta do GaryVee — nossa marca é clara e quente)
 - Tag no topo, `▼ @orafarangel` discreto
 
 ### Modo 3 — EDITORIAL (conteúdo de porta: evento do momento / adversidade)
