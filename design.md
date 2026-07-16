@@ -1,72 +1,150 @@
 # design.md — @orafarangel
 
-> Especificação de identidade visual para agentes de codificação e design, no formato design.md. Qualquer interface, artefato ou peça gráfica gerada neste projeto deve derivar TODAS as decisões visuais deste arquivo. Fundamentos e validação: [`marca/proposta-identidade-v1.md`](marca/proposta-identidade-v1.md) e [`marca/briefing-branding.md`](marca/briefing-branding.md).
+> Especificação de identidade visual para agentes de codificação e design. Qualquer interface, artefato ou peça gráfica gerada neste projeto deve derivar TODAS as decisões visuais deste arquivo. Estrutura baseada no design system do designingyour.life (Stanford — fonte do território Sentido da marca), com a camada de cor e tipografia substituída pelos tokens oficiais @orafarangel. Fundamentos e validação: [`marca/proposta-identidade-v1.md`](marca/proposta-identidade-v1.md) · [`marca/capas-sistema.md`](marca/capas-sistema.md).
 
-## Conceito
+## 1. Conceito e atmosfera
 
-A marca vive na tensão entre três escalas de tempo: **o milenar** (a biblioteca antiga, o mármore), **o imediato** (o laboratório de comportamento, o cronômetro) e **o permanente** (a mudança consolidada). O movimento proprietário é **a Descida**: do abstrato ao concreto, do conceito ao chão — visualmente, um afunilamento (largo no alto, estreito e afiado embaixo). Personalidade: o Sábio com os pés no chão — calma, método, sobriedade intelectual com temperatura humana. Tagline: *"Sabedoria de milênios. Ação de 30 segundos. Mudança para sempre."*
+A marca vive na tensão entre três escalas de tempo: **o milenar** (a biblioteca antiga), **o imediato** (o laboratório de comportamento) e **o permanente** (a mudança consolidada). O movimento proprietário é **a Descida**: do abstrato ao concreto — visualmente, um afunilamento. Atmosfera: calma, método e sobriedade intelectual com temperatura humana; espaço em branco generoso como sala de contemplação; curvas orgânicas suavizando a estrutura geométrica. Tagline: *"Sabedoria de milênios. Ação de 30 segundos. Mudança para sempre."*
 
-## Tokens de cor
+## 2. Tokens de cor
 
 ```css
 :root {
   /* Primária — autoridade calma, inteligência, ciência */
-  --azul-petroleo: #0C2340;      /* tipografia, marca estrutural, fundos de peso */
+  --azul-petroleo: #0C2340;        /* texto principal, títulos, superfícies escuras */
+  --azul-petroleo-90: #1B3A5F;     /* hover/camadas sobre azul */
 
   /* Secundária — o gatilho, a ação, o "pé no chão" */
-  --terracota: #C05C3E;          /* CTAs, frame do PROMPT, tags, destaques — máx ~10% da área */
+  --terracota: #C05C3E;            /* CTAs, links de ação, frame do PROMPT, tags — máx ~10% da área */
+  --terracota-escuro: #9A4832;     /* hover/active de elementos terracota */
+  --terracota-15: rgba(192,92,62,0.15); /* fundos de badge/botão secundário */
 
-  /* Apoio */
-  --branco: #FFFFFF;             /* fundo dominante (~70% da área) */
-  --cinza-slate: #E5E9EC;        /* fios, bordas, tabelas, apoio — NUNCA fundo de texto */
+  /* Fundos */
+  --branco: #FFFFFF;               /* fundo primário (dominante, ~70%) */
+  --creme: #FFF8F1;                /* fundo secundário quente — zonas de seção, inputs, contraste gentil */
 
-  /* Derivadas permitidas (apenas para UI digital) */
-  --azul-petroleo-90: #1B3A5F;   /* hover/superfícies sobre azul */
-  --terracota-escuro: #9A4832;   /* hover de CTA terracota */
+  /* Sistema */
+  --cinza-slate: #E5E9EC;          /* fios, bordas, divisores — NUNCA fundo de texto */
+  --cinza-texto: rgba(12,35,64,0.72); /* texto secundário/mudo (azul petróleo rebaixado, nunca cinza puro) */
+
+  /* Semânticas — SOMENTE estados de UI, nunca expressão de marca */
+  --erro: #CF2E2E;
+  --aviso: #B8860B;
+  --sucesso: #2E6B4F;
 }
 ```
 
 ### Regras de cor
 
-1. **Proporção 70/20/10:** branco domina ~70% de qualquer composição; azul petróleo ~20% (texto e estrutura); terracota ~10% (somente ação e destaque). Motivo: o branco dominante evita o acorde marrom+cinza ("academia empoeirada") — o risco nº 1 mapeado na validação com Eva Heller.
-2. **Terracota é semântico:** quando aparece, significa "hora de agir". Botões de ação, o card do PROMPT, tags de território. Nunca decorativo.
-3. **Cinza slate nunca atrás de texto** — apenas fios, bordas, divisores, fundos de célula vazia.
-4. **Proibidas (eliminatórias):** dourado, roxo/violeta, amarelo puro, vermelho puro, neon, pastéis etéreos, gradientes de qualquer tipo.
-5. Texto sobre azul petróleo: branco ou cinza slate. Texto sobre terracota: branco. Texto sobre branco: azul petróleo (nunca preto puro).
+1. **Proporção 70/20/10:** branco+creme dominam ~70% de qualquer composição; azul petróleo ~20% (texto e estrutura); terracota ~10% (somente ação e destaque). O claro dominante evita o acorde "academia empoeirada" — risco nº 1 da validação Heller.
+2. **Terracota é semântico:** quando aparece, significa "hora de agir". Nunca decorativo.
+3. **Creme define zonas** (seções secundárias, inputs) no lugar de bordas pesadas — é a temperatura da marca em superfícies digitais.
+4. **Cinza slate nunca atrás de texto** — só fios, bordas, divisores.
+5. Texto sobre azul petróleo: branco ou creme. Sobre terracota: branco. Sobre branco/creme: azul petróleo (nunca preto puro).
+6. **Proibidas (eliminatórias):** dourado, roxo/violeta, rosa, amarelo e vermelho puros como expressão de marca, neon, gradientes. Semânticas de UI (erro/aviso/sucesso) são exceção funcional, nos tons rebaixados acima.
 
-## Tipografia
+## 3. Tipografia
 
 ```css
---font-display-serif: "Playfair Display", "Lora", Georgia, serif;   /* a Voz Antiga */
---font-sans: "Inter", "Montserrat", -apple-system, sans-serif;      /* a Voz Moderna */
+--font-display: "Playfair Display", "Lora", Georgia, serif;  /* a Voz Antiga — títulos */
+--font-serif-texto: "Lora", Georgia, serif;                  /* serifada de trabalho (capas, títulos menores) */
+--font-sans: "Inter", "Montserrat", -apple-system, sans-serif; /* a Voz Moderna — UI, corpo, sistema */
 ```
 
-| Papel | Fonte | Peso | Uso |
-|---|---|---|---|
-| Título / headline / DOR de capa | Lora (padrão) ou Playfair Display (display grande) | **Bold/Black apenas** | A Voz Antiga assume TODOS os títulos — capas, thumbnails, headlines de página. Quebra o padrão sans-bold do feed (ref: @abarbaratorres). Nunca em peso fino, nunca sobre meio-tom |
-| Citação / palavra de peso | Playfair Display ou Lora | Bold | A FONTE (Marco Aurélio, Provérbios), lastro histórico |
-| Sistema / UI / PROMPT | Inter ou Montserrat | Medium–Bold | Tags, handle, card do PROMPT, botões, navegação — a Voz Moderna é a infraestrutura |
-| Corpo | Inter | Regular–Medium | Texto corrido, legendas |
-| A tensão é proposital | — | — | Título serifado + sistema sans na mesma peça: o encontro dos dois tempos da marca em toda superfície |
+| Papel | Fonte | Tamanho | Peso | Line-height | Notas |
+|---|---|---|---|---|---|
+| Display / Hero | Playfair Display | 64–96px | Bold | 1.1 | Headlines de página; impacto máximo |
+| H1 | Playfair Display ou Lora | 44–56px | Bold | 1.15 | Títulos de seção |
+| H2/H3 | Lora | 24–32px | Bold | 1.2 | Subseções |
+| Título de capa/thumbnail | Lora Bold (padrão) / Playfair Bold (display) | — | **Bold/Black apenas** | 1.15 | ≤ 6 palavras, nunca sobre meio-tom |
+| Corpo | Inter | 16–18px | Regular–Medium | 1.6 | Leitura confortável |
+| UI / botões / tags | Inter | 14–16px | Medium–SemiBold | 1.4 | A Voz Moderna é a infraestrutura |
+| Caption | Inter | 13–14px | Medium | 1.5 | Apoio, metadados |
 
-Escala digital sugerida: 48/32/24/18/16/14px, line-height 1.2 (títulos) e 1.6 (corpo). Legibilidade em miniatura é eliminatória: um título de capa precisa ser lido em 1 segundo no feed.
+**Princípios:** a tensão serifada×sans é proposital (os dois tempos da marca em toda superfície); contraste por peso antes de tamanho; nunca introduzir terceira família; line-height do corpo ≥ 1.5.
 
-## Espaçamento e grid
+## 4. Componentes
 
-- Base 8px (4px para micro-ajustes). Espaço em branco generoso é parte da identidade — a marca respira.
-- Composições tendem ao **afunilamento vertical**: conteúdo mais largo no topo, convergindo para um fechamento estreito e acionável embaixo (o PROMPT, o CTA).
-- Cantos: raio 8–12px em cards e botões. Sem sombras dramáticas; elevação por contraste e fio, não por blur.
+### Botões
 
-## Assinaturas gráficas
+```css
+/* Primário — a ação (terracota, semântico) */
+.btn-primario { background:#C05C3E; color:#FFF; font:600 16px Inter; padding:14px 36px;
+  border-radius:16px; border:0; }
+.btn-primario:hover { background:#9A4832; }
 
-1. **O afunilamento (▼):** triângulo técnico apontando para baixo — símbolo da Descida (Escada da Abstração). Aparece pequeno e discreto junto ao handle @orafarangel.
-2. **Tag de território:** retângulo pequeno terracota, texto branco em caps (CORPO · MENTE · EMOÇÃO · RELAÇÕES · SENTIDO), canto superior da peça.
-3. **Card do PROMPT:** bloco terracota, tipografia branca, formato ficha técnica: `DEPOIS DE [ÂNCORA] ➜ EU VOU [MICRO-AÇÃO DE 30s]`. É o frame feito para print — o elemento mais importante de qualquer peça.
+/* Secundário */
+.btn-secundario { background:rgba(192,92,62,0.15); color:#9A4832; border:2px solid #C05C3E;
+  border-radius:16px; padding:14px 36px; }
+.btn-secundario:hover { background:#C05C3E; color:#FFF; }
 
-## Territórios proibidos (teste eliminatório)
+/* Ghost */
+.btn-ghost { background:transparent; color:#0C2340; border:1px solid #0C2340;
+  border-radius:16px; padding:14px 28px; }
+.btn-ghost:hover { background:#FFF8F1; }
 
-A peça nunca pode evocar: **igreja/gospel** (dourado, luz celestial), **coach motivacional** (neon, fogo, seta pra cima), **new age** (pastel, mandala, manuscrito místico), **academia empoeirada** (sépia, ornamento, brasão), **autoajuda de feed** (frase sobre foto de paisagem). Se evocar qualquer um, refazer.
+/* Pill (ênfase, ex. CTA de hero) */
+.btn-pill { background:#0C2340; color:#FFF; border-radius:80px; padding:12px 32px; }
+.btn-pill:hover { background:#C05C3E; }
+```
 
-## Racional
+### Cards e containers
 
-O azul petróleo carrega o acorde da inteligência e da concentração (Heller: azul 25% inteligência, 23% concentração); o terracota traz a temperatura humana e o impulso de ação sem o ruído do laranja vibrante; o branco garante a clareza e a legibilidade de 1 segundo que o Instagram exige; o cinza slate existe só como infraestrutura silenciosa. A dupla serifada×sans materializa a tese da marca: sabedoria antiga operada com precisão moderna. Paleta validada por teste de estresse contra *A Psicologia das Cores* (Eva Heller) em 12/07/2026 — veredito: manter com as regras de aplicação acima.
+- Card padrão: fundo `#FFFFFF` (ou `#FFF8F1` em página branca), raio **24px**, padding 32px, sem borda — zonas definidas por cor de fundo, não por linha.
+- Card escuro (ênfase): fundo `#0C2340`, texto branco, raio generoso (32–80px em destaques).
+- Card do PROMPT (assinatura da marca): fundo `#C05C3E`, texto branco, raio 24px, formato ficha técnica: `DEPOIS DE [ÂNCORA] ➜ EU VOU [MICRO-AÇÃO]`.
+- Modal: branco, raio 16px, sombra `0 8px 32px rgba(0,0,0,.12)`, padding 48px.
+
+### Inputs
+
+- Fundo `#FFF8F1`, texto `#0C2340`, raio 24px (32px em campos grandes), padding 14px 20px, sombra inset sutil `inset 2px 2px 2px rgba(0,0,0,.06)`.
+- Placeholder: `--cinza-texto`. Focus: borda/anel `#C05C3E` + sombra externa suave.
+- O campo "Do que vamos falar hoje?" (Etapa 2): estilo de input grande — 20px, altura ~96px, raio 32px, creme.
+
+### Navegação e links
+
+- Nav: transparente, Inter 16px, cor `rgba(12,35,64,0.8)`; hover: cor `#C05C3E` + border-bottom 2px; ativo: `#0C2340` weight 600.
+- Link inline: `#C05C3E` sem sublinhado; hover: sublinhado + `#9A4832`.
+
+### Badges / tags
+
+- Tag de território (assinatura): fundo `#C05C3E`, texto branco caps Inter 600, raio 8px, padding 4–6px 12px.
+- Badge neutro: fundo `--terracota-15`, texto `#9A4832`, raio 8px.
+
+## 5. Layout
+
+- **Base 8px** (4px para micro). Padding mínimo de container: 16px; padrão 24–32px; separação entre seções 32–64px.
+- Container máx **1200px**; grid 12 colunas, gutter 24px (16px tablet); mobile single-column com margens de 16px.
+- **Whitespace é elemento de design:** vertical > horizontal, favorecendo a leitura descendente — coerente com a Descida da marca. Zonas definidas por creme×branco, não por bordas.
+- **Afunilamento como padrão de composição:** heros e seções tendem a abrir largos e convergir para um fechamento estreito e acionável (o CTA, o PROMPT).
+
+### Escala de raios
+
+8px (badges, tags) · 12px (utilitários) · **16px (botões — padrão)** · **24px (cards, inputs — padrão)** · 32px (campos grandes) · 80px (pill/ênfase, usar com parcimônia) · imagens: ~10% para o corte orgânico.
+
+## 6. Profundidade
+
+Sombras mínimas e propositais, sempre suaves (opacidade ≤ 0.15): nível 0 flat (padrão) · inset em inputs · `0 4px 12px rgba(0,0,0,.08)` cards flutuantes · `0 8px 32px rgba(0,0,0,.12)` modais. Elevação preferencialmente por camadas de cor (branco/creme/azul), não por sombra.
+
+## 7. Do's & Don'ts
+
+**Do:** duas famílias tipográficas sempre (serifada título + sans sistema) · terracota só para ação · creme para zonas quentes · raio 16/24 como padrão · focus states visíveis (anel terracota) · touch targets ≥ 48px · contraste WCAG 4.5:1 no corpo.
+
+**Don't:** terceira família de fontes · cores fora da paleta · sombras duras/escuras · layouts apertados (padding < 16px) · preto puro em texto (usar `#0C2340`) · cinza slate atrás de texto · gradientes · pill 80px banalizado · evocar os territórios proibidos (gospel, coach, new age, academia, autoajuda de feed).
+
+## 8. Responsivo
+
+Breakpoints: mobile ≤ 600px (single-column, margens 16px, hero com padding vertical 32px) · tablet 601–1024px (2 colunas, hamburger < 768px) · desktop ≥ 1025px (3+ colunas, container 1200px centrado). Tipografia: Display 96→56→36px; H1 56→40→30px; corpo fixo 16px. Line-height proporcional constante.
+
+## 9. Guia rápido para agentes
+
+- CTA primário: terracota `#C05C3E` (hover `#9A4832`)
+- Texto e títulos: azul petróleo `#0C2340` — títulos SEMPRE serifados Bold
+- Fundo primário: branco · secundário/inputs: creme `#FFF8F1` · bordas: slate `#E5E9EC`
+- Card escuro: `#0C2340` · Card de ação/PROMPT: terracota
+- Assinaturas da marca: tag de território terracota · ▼ @orafarangel · afunilamento como composição
+- Na dúvida de proporção: 70 claro / 20 azul / 10 terracota
+
+## 10. Racional
+
+O azul petróleo carrega o acorde da inteligência e concentração (Heller); o terracota é o dinamismo do laranja aterrado pelo marrom — o gatilho sem o grito do coach; o creme dá a temperatura que impede a frieza corporativa do azul+branco+cinza; o branco garante a clareza de 1 segundo que o feed exige. A dupla serifada×sans materializa a tese da marca: sabedoria antiga operada com precisão moderna. Paleta validada contra *A Psicologia das Cores* (Eva Heller) em 12/07/2026; estrutura de componentes herdada do design system do designingyour.life (Stanford) em 16/07/2026, com a camada cromática e tipográfica substituída pelos tokens da marca.
