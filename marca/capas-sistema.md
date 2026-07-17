@@ -51,3 +51,16 @@ O padrão @abarbaratorres, que casa perfeitamente com a Voz Antiga:
 ## Regra de ouro
 
 A capa é a DOR, não a solução. Vocabulário de descoberta no texto (ansiedade, burnout, foco), vocabulário de marca só dentro do vídeo. E texto da capa ≤ 6 palavras, sempre.
+
+## Feed do Instagram: post e carrossel (1080×1350)
+
+**Post único (quote):** creme, tag de território, frase-INSIGHT serifada em azul (palavra-chave pode ir em terracota), crédito da fonte em sans terracota-escuro, handle. É o formato de arquivo/vitrine.
+
+**Carrossel (4-7 slides) — a sequência espelha os 4 tempos:**
+
+1. **Capa** = a DOR serifada gigante em creme, com "arraste ➜" em terracota no rodapé
+2. **Conteúdo** (1 a 4 slides) = fundo branco, numeração terracota + fio slate no topo, título serifado + corpo sans ≤ 20 palavras/slide
+3. **Fonte** = o duotone milenar (é aqui que ele vive): foto clássica escurecida, citação serifada branca + atribuição
+4. **Final** = o card do PROMPT em terracota cheio: DEPOIS DE [âncora] ➜ EU VOU [micro-ação], "Printa este card", CTA follow
+
+Artes-mestras em [`templates/`](templates/).
