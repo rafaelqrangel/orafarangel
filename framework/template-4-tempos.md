@@ -3,22 +3,25 @@
 Todo reel, vídeo ou post segue **obrigatoriamente** esta estrutura. Sem exceção.
 
 ```
-🩹 DOR (0–2s)  →  📖 FONTE (3–10s)  →  🧠 INSIGHT (10–40s)  →  ⚡ PROMPT (últimos 10s)
+SAÍDA (0–2s)  →  FONTE (3–10s)  →  INSIGHT (10–40s)  →  PROMPT (últimos 10s)
 ```
+
+**O Prisma da Solução rege o template** (ver [`marca/voz-e-tom.md`](../marca/voz-e-tom.md)): o conteúdo fala pelo ângulo da superação. A dor aparece dentro da SAÍDA como contexto de reconhecimento, nunca como morada do texto.
 
 ---
 
-## 1. 🩹 DOR — primeiros 2 segundos
+## 1. SAÍDA — primeiros 2 segundos
 
-Nomeia o problema real que a pessoa vive **hoje**. Não é abstrato. É específico e reconhecível.
+Anuncia que existe superação para uma dor específica e reconhecível — e credencia a superação no mesmo fôlego: sabedoria milenar agregada à ciência de ponta. A dor entra como oração subordinada (a pessoa ainda precisa se reconhecer), mas o núcleo da frase é o antídoto.
 
-**Estrutura de comunicação: método GaryVee.** Pirâmide invertida — a conclusão vem na frente, sem preâmbulo, sem contexto introdutório. O primeiro segundo já entrega o núcleo.
+**Estrutura de comunicação: método GaryVee.** Pirâmide invertida — a conclusão (existe saída, e ela é testada) vem na frente, sem preâmbulo.
 
-- ✅ "Você acorda e já está pensando em tudo que pode dar errado."
-- ✅ "Você sabe exatamente o que precisa fazer. E não faz."
-- ❌ "A vida moderna nos afasta da nossa essência." *(abstrato demais — ninguém se reconhece)*
+- ✅ "Existe um antídoto para a autossabotagem. Ele tem 2 mil anos de teste."
+- ✅ "Dá para desligar a ansiedade de manhã em 30 segundos. Um imperador romano já fazia."
+- ❌ "Você estraga tudo que dá certo." *(mora no problema — era o formato antigo)*
+- ❌ "5 hacks para destravar sua vida" *(promessa de coach, sem credencial nem método)*
 
-**Regra da capa:** o texto da capa do reel É a dor (modelo Mabel). A pessoa precisa se diagnosticar no primeiro frame.
+**Regra da capa:** o texto da capa É a promessa de superação, com a dor visível dentro dela ("Como vencer a autossabotagem"). A pessoa precisa enxergar a saída no primeiro frame — e ela se diagnostica no caminho.
 
 ## 2. 📖 FONTE — 3 a 10 segundos
 

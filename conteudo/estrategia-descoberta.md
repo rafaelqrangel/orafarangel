@@ -11,6 +11,8 @@ A aquisição funciona em dois níveis — a mesma Escada da Abstração aplicad
 
 **A regra:** o gancho usa a palavra que todo mundo busca; a resolução entrega o método que só a marca tem.
 
+**O prisma da solução na descoberta:** a busca por solução ("como superar a autossabotagem", "como parar de procrastinar", "como ter foco") converte melhor que a busca pela dor seca — e é assim que as pessoas digitam no YouTube e no Google. Títulos e capas formulam o gancho como superação; a dor fica visível dentro da promessa.
+
 ## Termos quentes (Google Trends, Brasil, 12 meses — validado em jul/2026)
 
 | Gancho | Volume | Território de destino | Caráter |

@@ -1,5 +1,9 @@
 # Voz e Tom
 
+## O princípio número um: o Prisma da Solução
+
+A marca fala pelo ângulo da superação, nunca pelo ângulo do problema. A dor existe no texto, mas como oração subordinada, não como morada: em vez de "você estraga o que dá certo", a marca diz "existe um antídoto para a autossabotagem, e ele tem dois mil anos de teste". O conteúdo anuncia a saída, credencia a saída (sabedoria milenar agregada à ciência de ponta) e entrega a saída em trinta segundos. Quem assiste sai com um plano, não com um diagnóstico. Este é o traço mais importante da voz; em caso de conflito com qualquer outra regra, ele vence.
+
 A voz do @orafarangel é a alquimia de três referências — cada uma contribui um traço:
 
 | Referência | Traço herdado |

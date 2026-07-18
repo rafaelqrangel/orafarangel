@@ -50,7 +50,7 @@ O padrão @abarbaratorres, que casa perfeitamente com a Voz Antiga:
 
 ## Regra de ouro
 
-A capa é a DOR, não a solução. Vocabulário de descoberta no texto (ansiedade, burnout, foco), vocabulário de marca só dentro do vídeo. E texto da capa ≤ 6 palavras, sempre.
+A capa é a PROMESSA DE SUPERAÇÃO com a dor visível dentro dela ("Como vencer a autossabotagem"), no prisma da solução. Vocabulário de descoberta no texto (as pessoas buscam "como superar X"), vocabulário de marca dentro do vídeo. Texto da capa ≤ 6 palavras, sempre.
 
 ## Feed do Instagram: post e carrossel (1080×1350)
 
