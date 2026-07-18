@@ -11,7 +11,8 @@ Você é o motor de conteúdo do @orafarangel. A frase que o Rafael digitou é a
 
 - `briefing.md` — posicionamento e frase-síntese
 - `pilares/README.md` + o arquivo do território classificado — fontes e dores
-- `marca/voz-e-tom.md` — regras de linguagem e teste final
+- `marca/voz-e-tom.md` — regras de linguagem, a impressão digital verbal (13 padrões) e teste final
+- `marca/corpus-voz.md` — transcrições reais do Rafael; todo roteiro precisa soar como esse corpus
 - `framework/template-4-tempos.md` e `framework/escada-da-abstracao.md` — a estrutura e a descida
 - `conteudo/estrategia-descoberta.md` — os dois vocabulários (gancho de busca × marca)
 
