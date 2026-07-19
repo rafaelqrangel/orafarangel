@@ -47,7 +47,7 @@ Registro de referência: filosofia falada com elegância coloquial, no nível de
 
 ### Registro
 
-- Oralidade carioca fluida e culta sem gravata: "cê", "aonde que", "tá", "não é?", "sabe?", "pô", "cara". Um marcador por parágrafo, não por frase. Alterna "teu" e "seu" sem cerimônia.
+- Oralidade carioca fluida e culta sem gravata: "aonde que", "tá", "não é?", "sabe?", "pô", "cara". Sem "cê" escrito — na grafia é sempre "você". Um marcador por parágrafo, não por frase. Alterna "teu" e "seu" sem cerimônia.
 - Autorrevelação como evidência ("eu sou flamenguista", "41 anos que eu tenho"), espiritualidade orgânica sem púlpito, gíria própria de entusiasmo ("baita", "deu sufoco", "uma aula de como ser bizarro").
 - **Fecho: imperativo + justificativa aforística.** "Então vá se divertir, porque o mundo é seu." "Então vamos nessa."
 
@@ -58,7 +58,7 @@ Registro de referência: filosofia falada com elegância coloquial, no nível de
 | "Existe um antídoto. Ele tem dois mil anos de teste." | Período único que flui, com a credencial dentro da oração |
 | "Uma parábola já mostrava o mecanismo. Um homem recebeu..." | "Uma parábola conta de um homem que recebeu..." |
 | "A ciência fechou a conta." | A referência entra com naturalidade professoral, sem punchline |
-| "Faça trinta segundos da tarefa que você vem adiando." | "Cê vai ter a chance, por trinta segundos, de fazer algo diferente." |
+| "Faça trinta segundos da tarefa que você vem adiando." | "Você vai ter a chance, por trinta segundos, de fazer algo diferente." |
 
 ## O que a marca NÃO é (guardrails)
 
