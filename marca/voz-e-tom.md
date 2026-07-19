@@ -21,23 +21,44 @@ A voz do @orafarangel é a alquimia de três referências — cada uma contribui
 - ❌ Tom de sermão ou proselitismo religioso — as tradições são ferramentas equivalentes, sem hierarquia
 - ❌ Promessa vazia ("isso vai mudar sua vida") — a promessa é sempre a micro-ação, verificável em 30 segundos
 
-## A impressão digital verbal (extraída do corpus real — ver [`corpus-voz.md`](corpus-voz.md))
+## A estrutura da fala (análise linguística do corpus real — ver [`corpus-voz.md`](corpus-voz.md))
 
-Como o Rafael de fato fala, padrão por padrão. Qualquer roteiro escrito em nome dele precisa soar assim:
+Registro de referência: filosofia falada com elegância coloquial, no nível de um Clóvis de Barros. Ele manda a real; o Rafael também. Nada de copy americana traduzida.
 
-1. **Abre encenando a objeção do ouvinte em voz de personagem.** "Ah, eu sou estressado. Ah, yoga não é para mim." Primeiro ele dá voz ao pensamento da pessoa, depois desmonta.
-2. **Inventário em rajada de perguntas concretas.** "Como é que é teu chefe? Como é que tá tua casa? Você tem tempo para tomar um café?" Perguntas curtas, físicas, que fazem a pessoa auditar a própria vida.
-3. **Antíteses que viram conceito.** Reclamar × clamar. Constância e não intensidade. Reativo × ativo. "Não deu para ganhar. Mas eles ganharam, na verdade." O contraste é a unidade de pensamento dele.
-4. **Metáforas domésticas e físicas.** Tijolinhos, gargalos, pontos frios que precisam de calor, fugir da própria sombra, desatar nós. Nunca metáfora abstrata quando existe uma de cozinha ou de obra.
-5. **Permissão antes da cobrança.** "Tá com filho pequeno em casa? Tudo bem." "Eu sei que é difícil." Ele acolhe a circunstância antes de pedir o movimento.
-6. **Números pequenos e concretos.** Dois minutos. Cinco de esteira. Dez de caminhada. Trinta segundos. Nunca "um pouco", sempre a quantidade.
-7. **Marcadores orais no lugar certo.** "né?", "sabe?", "cara", "pô", "enfim, gente", "olha". Um por parágrafo, não um por frase. Alterna "teu" e "seu" sem cerimônia.
-8. **Repetição enfática deliberada.** "Uma coisa é certa: ... Uma coisa é certa: ..." "Eu nunca torci tanto... eu nunca torci tanto."
-9. **Autorrevelação como evidência.** "Eu sou flamenguista." "41 anos que eu tenho." "Vou comprar a camisa do Cabo Verde." Ele se documenta em vez de se exemplificar de forma genérica.
-10. **Espiritualidade orgânica, sem púlpito.** "Parecia que estava sendo guiado por Deus." "Conversando com o universo." Entra como observação natural, nunca como doutrina.
-11. **Pergunta filosófica no meio do coloquial.** "Mas o que não é o mundo, senão os nossos próprios olhos?" Uma por texto, no ponto de virada.
-12. **Fecho de convocação curta.** "Então vamos nessa." "Bora." "Vamos nos estressar menos, porque a vida não vale isso." Nunca fecho de reflexão vaga.
-13. **Gíria própria de entusiasmo.** "Baita de um jogo." "Deu sufoco." "Uma aula de como ser bizarro" (bizarro = excepcional).
+### Sintaxe
+
+- **Períodos longos e hipotáticos, numa respiração só.** As orações se encadeiam por "que", "quando", "porque", "e aí". Proibido o staccato de impacto ("Existe um antídoto. Ele tem dois mil anos."). O jeito dele: "Há dois mil anos, uma parábola conta de um homem que recebeu um tesouro do patrão..." — relativa emendada no fluxo, presente narrativo.
+- **Espiral, não pirâmide seca.** Abre com pergunta reflexiva que ele faz a si mesmo ("Eu me pergunto aonde que a gente para de se divertir?"), repete a pergunta reformulada, e circula o conceito adicionando camada a cada volta.
+- **Repetição com variação como motor rítmico.** "Se divertir / se permitir a diversão / dar permissão." Anáfora de "quando", de "uma coisa é certa".
+- **Gradação em gerúndio para processos.** "E aí você vai empobrecendo, e aí você vai morrendo, e aí você vai envelhecendo."
+
+### Semântica
+
+- **A etimologia é o motor intelectual.** Diversão vem de desvio. Rotina vem de rota. Sabotagem vem de sabot. Ele escava a palavra e encontra a filosofia dentro dela. Sempre que houver etimologia disponível, ela é o caminho do INSIGHT.
+- **Definição por negação e redefinição.** "Envelhecer não é ganhar idade. Envelhecer é tornar-se pobre de espírito."
+- **Metáforas domésticas para aplicar, nunca como punchline.** Tijolinhos, gargalos, padaria no caminho de casa. Proibida a metáfora-slogan de vendedor ("a ciência fechou a conta", "a pegadinha da conta").
+
+### Pragmática
+
+- **Convite, não comando.** Errado: "faça trinta segundos da tarefa que você vem adiando". Certo: "cê vai ter a chance, por trinta segundos, de fazer algo diferente". A fala abre porta, não dá ordem.
+- **Permissão antes da cobrança.** "Tá com filho pequeno em casa? Tudo bem."
+- **Dança de pessoas.** "A gente" para a verdade universal, "você" para a aplicação, "eu" para o testemunho.
+- **Cumplicidade com o ouvinte.** "A gente conhece gente velha de 25 anos, não é?"
+
+### Registro
+
+- Oralidade carioca fluida e culta sem gravata: "cê", "aonde que", "tá", "não é?", "sabe?", "pô", "cara". Um marcador por parágrafo, não por frase. Alterna "teu" e "seu" sem cerimônia.
+- Autorrevelação como evidência ("eu sou flamenguista", "41 anos que eu tenho"), espiritualidade orgânica sem púlpito, gíria própria de entusiasmo ("baita", "deu sufoco", "uma aula de como ser bizarro").
+- **Fecho: imperativo + justificativa aforística.** "Então vá se divertir, porque o mundo é seu." "Então vamos nessa."
+
+### Correções registradas (o que a IA escreve × como o Rafael fala)
+
+| Sintaxe de IA (proibida) | A fala do Rafael |
+|---|---|
+| "Existe um antídoto. Ele tem dois mil anos de teste." | Período único que flui, com a credencial dentro da oração |
+| "Uma parábola já mostrava o mecanismo. Um homem recebeu..." | "Uma parábola conta de um homem que recebeu..." |
+| "A ciência fechou a conta." | A referência entra com naturalidade professoral, sem punchline |
+| "Faça trinta segundos da tarefa que você vem adiando." | "Cê vai ter a chance, por trinta segundos, de fazer algo diferente." |
 
 ## O que a marca NÃO é (guardrails)
 
