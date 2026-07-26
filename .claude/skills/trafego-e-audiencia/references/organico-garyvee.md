@@ -8,6 +8,8 @@ A gramática de toda presença social da marca: dar, dar, dar, e só então pedi
 
 Regra do soco: quando pedir, peça de verdade e sem vergonha. Right hook envergonhado ("se você quiser, talvez, quem sabe...") desperdiça os jabs que o precederam. O CTA da marca já é assim: "Me segue em @orafarangel."
 
+O CTA técnico de conversão (quando houver captura ativa): pedir comentário com uma palavra-chave para receber o material no direct, ou apontar para o link da bio. Comentário-gatilho tem bônus duplo, porque converte e ao mesmo tempo empurra o alcance do post.
+
 ## Documentar em vez de criar
 
 A jornada é o conteúdo. Rafael constrói a marca em público, com IA e GitHub abertos — isso É conteúdo de porta (território Porta no banco de ideias), e é o tipo que constrói a relação mais forte, porque audiência que acompanha processo cria vínculo que audiência de resultado não cria. Bastidor não precisa de produção: precisa de honestidade e frequência.

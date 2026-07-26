@@ -33,6 +33,14 @@ Eves é taxativo: título e thumbnail se decidem antes de gravar, porque são a 
 - Shorts alimentam descoberta e convertem pouco inscrito fiel; são a porta, não a casa. Derivar 3-5 Shorts de cada longo (cortes dos degraus da escada), sempre com CTA para o vídeo completo.
 - "Estoicismo para dormir" e formatos de escuta longa são jogo próprio: retenção altíssima por natureza (a pessoa dorme ouvindo), competição baixa, monetização por watch time. Trilho paralelo que não canibaliza o canal principal.
 
+## Baldes de vídeo (content buckets)
+
+Eves: agrupamentos temáticos coerentes fazem o algoritmo entender a conexão entre os vídeos e sugerir o próximo da casa em vez do vídeo do vizinho — a toca de coelho de consumo contínuo. No nosso canal, os baldes já existem por arquitetura: os 5 territórios viram 5 playlists (Corpo, Mente, Emoção, Relações, Sentido), cada uma com padrão visual consistente de capa (os modos de `marca/capas-sistema.md` garantem isso) e metadados correlacionados — palavras-chave da mesma família no título e na primeira linha da descrição, antes do corte do "mostrar mais". Vídeo novo sempre entra num balde e aponta para o irmão mais forte do mesmo balde no card final e na descrição.
+
+## Teste de ganchos (o laboratório dos irmãos Harmon)
+
+Antes de apostar produção grande num ângulo, teste barato: grave 3 aberturas diferentes de 3 segundos para o mesmo roteiro, rode como anúncio de orçamento mínimo para o mesmo público e deixe o comportamento decidir — vence quem segura os 3 primeiros segundos e puxa mais clique. O gancho vencedor vira a SAÍDA da versão orgânica definitiva. É o jeito mais barato que existe de comprar certeza.
+
 ## A roda de dados de Eves
 
 Ideate a partir de dados (pesquisa de palavra-chave, vídeos que performaram no nicho), lance, meça (CTR, retenção por segundo, origem de tráfego no YouTube Studio), aprenda e realimente a próxima ideação. Cada vídeo publicado registra performance no roteiro correspondente em `conteudo/roteiros/`, como o modelo já prevê. Depois de 10 vídeos, os padrões do próprio canal valem mais que qualquer benchmark externo.

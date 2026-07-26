@@ -2,14 +2,21 @@
 
 A tese central de Brunson (DotCom Secrets, Expert Secrets): tráfego sem funil é aluguel de atenção; funil transforma atenção em relação e relação em receita, degrau por degrau. Ninguém pula do primeiro vídeo para a compra — a escada de valor existe para que cada degrau custe pouco e entregue muito.
 
-## A escada de valor do @orafarangel (estado atual e próximo degrau)
+## A escada de valor do @orafarangel (do estado atual ao desenho completo)
 
-1. **Isca (gratuito, hoje):** reels, Shorts, carrosséis — o PROMPT de 30 segundos é a isca perfeita porque entrega transformação verificável de graça.
+O funil de quatro etapas desenhado com o Rafael em jul/2026. As etapas 1 e 2 já existem; 3 e 4 são o roteiro de construção, na ordem.
+
+1. **Entrada (gratuito, hoje):** reels, Shorts e carrosséis nos ganchos quentes dos 5 territórios — o PROMPT de 30 segundos é a isca perfeita porque entrega transformação verificável de graça. CTA técnico para conversão: pedir comentário com palavra-chave para receber material no direct, ou link da bio.
 2. **Compromisso leve (gratuito, hoje):** o vídeo longo do YouTube e o repositório aberto — quem chega aqui já comprou a ideia do método.
-3. **Captura (próximo degrau a construir):** um ativo próprio fora do aluguel das plataformas — lista de e-mail ou canal do WhatsApp, com uma isca de troca digna (ex.: o guia dos 30 primeiros prompts, o método em PDF bonito). Regra de ouro: audiência em plataforma é audiência emprestada; a lista é o único ativo de tráfego que ninguém pode desligar.
-4. **Oferta futura:** produto digital, comunidade ou curso — só depois que os degraus anteriores estiverem rodando. Vender cedo demais quebra a confiança que o Prisma da Solução constrói.
+3. **Captura (o próximo degrau a construir):** página minimalista de utilidade ultraespecífica — vídeo curto de até 45 segundos no formato quem-o quê-por quê-como, e uma troca digna pelo e-mail (ex.: o guia com as primeiras fichas Fogg de comportamento). O visitante vira lead próprio. Regra de ouro: audiência em plataforma é audiência emprestada; a lista é o único ativo que ninguém pode desligar.
+4. **Frontend auto-liquidável (SLO), quando houver captura rodando:** na página de obrigado, uma oferta de entrada barata (faixa de R$ 27 a R$ 47, ex.: um livro digital de prompts comportamentais). O objetivo dela não é lucro, e sim pagar o custo de aquisição do lead — quem compra o barato prova intenção real e sobe de degrau. A regra de Kennedy e Brunson que rege a escala: vence o negócio que pode gastar mais para adquirir um cliente.
+5. **Backend de alto valor (mentoria/curso, por último):** produtos caros não se vendem em página fria. A venda muda de ambiente: página de estudo de caso em vídeo, formulário de aplicação rigoroso que qualifica a dor, e fechamento em conversa individual.
 
-Quando Rafael perguntar sobre monetização, a resposta certa quase sempre é: primeiro o degrau 3. Sem captura, todo crescimento é castelo em terreno alugado.
+Quando Rafael perguntar sobre monetização, a resposta certa quase sempre é: primeiro o degrau 3. Sem captura, todo crescimento é castelo em terreno alugado. E vender alto valor cedo demais quebra a confiança que o Prisma da Solução constrói.
+
+## O funil de sombra (shadow funnel)
+
+O comprador do nosso público (25-45, inteligente, cético) raramente clica e compra: ele vê o anúncio ou o reel, não age, e dias depois pesquisa o nome do Rafael no Google, encontra o GitHub aberto, lê o método, assiste mais um vídeo e só então entra. Duas consequências práticas: primeiro, tudo que a busca pelo nome encontra é parte do funil (o repositório público é um ativo de conversão, não só de transparência — manter README, bio e fixados como um "hub" que conta a história certa); segundo, a atribuição é omnichannel — o retorno de uma campanha se mede também no aumento de busca direta pelo nome e no tráfego orgânico durante o período, não só no clique do anúncio.
 
 ## Hook, Story, Offer
 

@@ -1,6 +1,14 @@
-# Tráfego pago — quando e como pagar por atenção
+# Tráfego pago — quando e como pagar por atenção (com o rigor de Hopkins)
 
 Princípio desta casa: pago amplifica o que o orgânico validou. Anúncio não conserta criativo fraco; ele multiplica o que já funciona. Enquanto o orgânico não der sinal claro (um reel que performa 5x a média, um vídeo com retenção acima da média do canal), o dinheiro fica no bolso.
+
+## O trilho Hopkins (Scientific Advertising, 1923 — e ainda mandando)
+
+Três leis que governam todo real investido:
+
+1. **O anúncio é um vendedor em escala.** Julgue-o como julgaria um vendedor: pelo que ele vende, não pelo que ele parece. Anúncio bonito que não converte é vendedor simpático que não fecha.
+2. **O tribunal de última instância é o comportamento do comprador**, medido até o centavo. Nenhuma decisão de campanha se toma por opinião em volta da mesa: rastreie tudo (pixel nas páginas, UTM nos links, origem de tráfego no Studio) e deixe o dado decidir. Sem rastreamento instalado, não há campanha — há doação para a plataforma.
+3. **O apelo positivo vence.** Hopkins mediu na prática: mostrar o que a pessoa deseja se tornar converte na ordem de 4 para 1 sobre o medo e o desespero. No anúncio, o Prisma da Solução não é só ética da marca, é a tática que mais converte — a tensão negativa serve ao clique da manchete, mas a oferta vende sempre o futuro desejado.
 
 ## Quando faz sentido pagar (nesta ordem de prioridade)
 
