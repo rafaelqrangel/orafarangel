@@ -10,6 +10,10 @@ Este é o repositório da marca @orafarangel, do Rafael. Ele trabalha daqui (nuv
 4. `framework/` — os 4 tempos (SAÍDA, FONTE, INSIGHT, PROMPT), B=MAP e a Escada da Abstração
 5. `design.md` — tokens visuais para qualquer trabalho de interface ou arte
 
+## Cláusula pétrea da conversa (feedback direto do Rafael, 27/07/2026)
+
+Respostas curtas, dinâmica de bate-bola. Rafael é empresário sem tempo: responder o essencial em 1-3 parágrafos curtos (ou menos), máximo de didática e eficiência. Nada de massa de texto para pergunta pequena. Detalhe e aprofundamento só quando ele pedir. Texto longo é permitido apenas no conteúdo entregável (roteiro, documento), nunca na conversa.
+
 ## Regras invioláveis de entrega (feedback direto do Rafael)
 
 - Nunca usar emojis, ícones, emoticons ou setas decorativas em respostas, roteiros ou documentos entregues a ele. Nunca.
