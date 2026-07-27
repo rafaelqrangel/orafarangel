@@ -45,9 +45,13 @@ O segundo formato é a resposta ao tédio da meditação guiada: narrativa imers
 
 Episódios de 15 a 25 minutos, voz e desenho de som. O mercado valida a fresta: a escuta longa noturna é a maior oportunidade aberta que encontramos nos dados ("estoicismo para dormir": 50 mil buscas mensais com competição 27), os sleep stories internacionais (Calm) provam o formato há uma década, e ninguém no Brasil faz storytelling imersivo de verdade nessa faixa. O Lume pode ser a porta de descoberta do Alumia inteiro.
 
+### A Biblioteca Alumia (subprojeto)
+
+O terceiro formato é a biblioteca de livros do universo Alumia na web, no espírito das páginas de tópico do Blinkist mas com a promessa invertida: destilado como mapa que envia ao livro, nunca como substituto dele. Cada entrada traz o conceito central, a aplicabilidade, a BRASA extraída do livro e o link de compra com comissão de afiliado da Amazon. Conceito completo em [`biblioteca.md`](biblioteca.md).
+
 ## Monetização (esboço, na ordem de construção)
 
-Fase um: audiência e captura — podcast e canal crescendo com e-mail capturado desde o primeiro dia, porque audiência de plataforma é audiência emprestada (regra da skill trafego-e-audiencia, que governa a distribuição deste projeto também). Fase dois: a biblioteca premium do Lume (assinatura de jornadas imersivas) e infoprodutos de prática. Fase três: o degrau alto — imersões, comunidade, mentoria. A estrutura jurídica que recebe tudo isso usa a grafia Alumias, conforme o anexo.
+Fase um: audiência e captura — podcast e canal crescendo com e-mail capturado desde o primeiro dia, porque audiência de plataforma é audiência emprestada (regra da skill trafego-e-audiencia, que governa a distribuição deste projeto também), com a Biblioteca Alumia gerando a primeira receita (afiliado) e as primeiras páginas de SEO desde cedo. Fase dois: a biblioteca premium do Lume (assinatura de jornadas imersivas) e infoprodutos de prática. Fase três: o degrau alto — imersões, comunidade, mentoria. A estrutura jurídica que recebe tudo isso usa a grafia Alumias, conforme o anexo.
 
 ## Riscos e cuidados
 
