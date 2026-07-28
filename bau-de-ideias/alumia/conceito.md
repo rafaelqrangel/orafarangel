@@ -28,7 +28,7 @@ Gente inteligente com fome de profundidade e alergia a guru: quem sente que o de
 
 ## Os formatos de lançamento
 
-### O podcast temático (Spotify e YouTube)
+### O AlumiaCast — o podcast temático (Spotify e YouTube)
 
 Do complexo ao simples, um conceito por episódio: o que é (sem enrolação), de onde vem de verdade (a tradição real, sem lenda de marketing), onde se aplica, e como começa hoje. Episódios de 20 a 40 minutos. Exemplos de pauta: o que os herméticos chamavam de mentalismo; a noite escura da alma sem romantização; wu wei sem mistificação; o que a alquimia realmente operava.
 
