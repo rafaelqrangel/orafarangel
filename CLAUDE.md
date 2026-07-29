@@ -22,6 +22,7 @@ Este é o repositório da marca @orafarangel, do Rafael. Ele trabalha daqui (nuv
 ## Fluxo de trabalho
 
 - A skill `/pauta` (em `.claude/skills/pauta/`) é o circuito de produção de conteúdo. Roteiros aprovados vão para `conteudo/roteiros/`, o banco de ideias em `conteudo/banco-de-ideias.md` acompanha o status.
+- A skill `sound-designer-mindfulness` (em `.claude/skills/sound-designer-mindfulness/`) é o arquiteto sonoro: trilha, ambiência, cue sheet, prompts de geração e especificação de mixagem para meditação guiada, storytelling sonoro e vídeo. Entra depois do roteiro aprovado, quando o texto vira áudio. Ela carrega a regra dos três níveis de evidência: vocabulário simbólico só como moldura de sentido, nunca como fisiologia.
 - Commit e push diretos na main, mensagens em português. O repositório é público de propósito: o método é open source.
 - Ativos visuais ficam na pasta do Canva "@orafarangel — Identidade Visual" (link no `marca/README.md`); as artes-mestras versionadas em `marca/templates/`.
 - O NotebookLM do Rafael (notebook "orafarangel") é o cérebro de pesquisa com as fontes bibliográficas; só é acessível de sessões locais no Mac via Claude in Chrome. Sessões na nuvem: pedir ao Rafael o que precisar de lá.
