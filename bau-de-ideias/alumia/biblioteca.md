@@ -8,23 +8,23 @@ Uma biblioteca viva na web: os livros que alimentam o universo Alumia, cada um d
 
 ## A diferença que vira posicionamento (o anti-Blinkist)
 
-O Blinkist vende o resumo como substituto do livro: quinze minutos e você não precisa mais ler. A Biblioteca Alumia inverte a promessa, e a inversão é a alma do posicionamento: aqui o destilado é mapa, não substituto. Cada página responde o que o livro ensina, onde isso se aplica na vida real e qual é a BRASA (a prática mínima extraída dele), e então diz com todas as letras: se este mapa te serviu, o território é o livro — compre e leia. Isso é mais honesto com o leitor, mais coerente com uma marca que combate atalho de pseudo-sabedoria, e comercialmente melhor: quem se sente enviado ao livro clica no link de afiliado com intenção de compra, e conversão de afiliado vive de intenção.
+O Blinkist vende o resumo como substituto do livro: quinze minutos e você não precisa mais ler. A Biblioteca Alumia inverte a promessa, e a inversão é a alma do posicionamento: aqui o destilado é mapa, não substituto. Cada página responde o que o livro ensina, onde isso se aplica na vida real e qual é a prática mínima extraída dele, e então diz com todas as letras: se este mapa te serviu, o território é o livro — compre e leia. Isso é mais honesto com o leitor, mais coerente com uma marca que combate atalho de pseudo-sabedoria, e comercialmente melhor: quem se sente enviado ao livro clica no link de afiliado com intenção de compra, e conversão de afiliado vive de intenção.
 
 ## A anatomia de cada entrada da biblioteca
 
 Cada livro é uma página (ou card, na fase inicial) com estrutura fixa, herdada do motor do Alumia:
 
 1. **O livro:** capa, autor, tradição a que pertence (hermetismo, estoicismo, cabala, taoísmo, psicologia profunda).
-2. **TREVA:** o que este livro parece ser de fora (o mito, a fama, o mal-entendido comum).
-3. **CLARÃO:** o conceito central em uma frase repetível.
+2. **A confusão:** o que este livro parece ser de fora (o mito, a fama, o mal-entendido comum).
+3. **O insight:** o conceito central em uma frase repetível.
 4. **Aplicabilidade:** onde isso encosta na vida real — trabalho, relações, emoções, decisões.
-5. **BRASA:** a prática de 30 segundos extraída do livro, no formato Fogg.
+5. **A prática:** os 30 segundos extraídos do livro, no formato Fogg.
 6. **Para quem é (e para quem ainda não é):** honestidade de curadoria que constrói autoridade.
 7. **O link de compra** (afiliado Amazon), com a divulgação de afiliado exigida pelo programa.
 
 ## Por que isso é um ativo de tráfego, não só uma página
 
-A biblioteca é o tipo de ativo que a skill trafego-e-audiencia chama de hub do funil de sombra: o ouvinte do podcast que pesquisa antes de confiar encontra um acervo sério, e o buscador frio encontra as páginas pelo SEO de cauda longa de livros — "resumo do livro X", "livro X vale a pena", "por onde começar em hermetismo" são buscas perenes, de intenção altíssima e competição fraca em português no nosso recorte. Cada episódio do podcast aponta para a página do livro citado (o LUME do episódio vira entrada da biblioteca), e cada página da biblioteca captura e-mail e aponta de volta para o episódio. O ciclo fecha: conteúdo gera busca, busca gera comissão e lista, lista sustenta o projeto.
+A biblioteca é o tipo de ativo que a skill trafego-e-audiencia chama de hub do funil de sombra: o ouvinte do podcast que pesquisa antes de confiar encontra um acervo sério, e o buscador frio encontra as páginas pelo SEO de cauda longa de livros — "resumo do livro X", "livro X vale a pena", "por onde começar em hermetismo" são buscas perenes, de intenção altíssima e competição fraca em português no nosso recorte. Cada episódio do podcast aponta para a página do livro citado (a fonte citada no episódio vira entrada da biblioteca), e cada página da biblioteca captura e-mail e aponta de volta para o episódio. O ciclo fecha: conteúdo gera busca, busca gera comissão e lista, lista sustenta o projeto.
 
 ## Monetização e regras
 

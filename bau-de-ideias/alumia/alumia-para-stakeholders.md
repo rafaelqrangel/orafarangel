@@ -81,7 +81,7 @@ Jobs To Be Done parte de uma ideia simples: as pessoas não compram produtos, el
 | Entender sem ser enganado | Episódio em quatro tempos: o mito, a fonte real, o insight, a prática | A fonte é sempre creditada e verificável, e a estrutura se repete, o que cria confiança de método |
 | Aplicar sem reorganizar a vida | Micro-hábito de trinta segundos, ancorado em um hábito existente | Método de design comportamental de BJ Fogg (Stanford): comportamento acontece quando motivação, capacidade e gatilho convergem, e a capacidade é a alavanca mais barata |
 | Aprofundar quando quiser | Biblioteca de livros comentados com link de compra | Trata o destilado como mapa que envia ao livro, não como substituto dele |
-| Desacelerar à noite | Série Lume: narrativa imersiva em segunda pessoa | Ocupa a mente com história em vez de exigir silêncio mental, que é onde a meditação guiada perde o iniciante |
+| Desacelerar à noite | Travessia: narrativa imersiva em segunda pessoa, 22 minutos | Ocupa a mente com história em vez de exigir silêncio mental, que é onde a meditação guiada perde o iniciante |
 
 ## 5. A evidência que temos, e o que ainda é aposta
 
@@ -89,7 +89,7 @@ Separar o que é medido do que é hipótese é o que mantém a conversa honesta.
 
 **Medido (dados de busca no YouTube Brasil, jul/2026).** A demanda existe e é grande: estoicismo tem 482 mil buscas mensais, autoconhecimento 71 mil, lei da atração 142 mil, procrastinação 113 mil. As frestas de baixa competição também são reais: Viktor Frankl (27 mil buscas, competição 25 de 100), como ser estoico (competição 17), estoicismo para dormir (50 mil buscas, competição 27). O formato de referência é validado: o canal Corvo Seco, com narração sem rosto no mesmo território, tem 575 mil inscritos e gerou 9,4 milhões de visualizações nos últimos doze meses mesmo sem publicar vídeo longo no período, o que demonstra o caráter evergreen do catálogo.
 
-**Hipótese ainda não testada.** Que essa demanda aceita rigor com prática, e não apenas conteúdo contemplativo. Que o público paga por assinatura de conteúdo imersivo em português. Que uma operação de uma pessoa sustenta cadência semanal sem perder qualidade. O piloto de quatro episódios existe para testar a primeira hipótese antes de qualquer investimento maior.
+**Hipótese ainda não testada.** Que essa demanda aceita rigor com prática, e não apenas conteúdo contemplativo. Que o público paga por assinatura de conteúdo imersivo em português na faixa de R$ 24,90 por mês. Que uma operação de uma pessoa sustenta cadência semanal sem perder qualidade. O piloto de quatro episódios existe para testar a primeira hipótese antes de qualquer investimento maior.
 
 ## 6. Como o negócio ganha dinheiro
 

@@ -1,7 +1,7 @@
 # AlumiaCast, episódio 1
 
 **Título:** Seu corpo achou que a reunião era um assalto
-**Duração alvo:** 24 minutos
+**Duração alvo:** 21 minutos
 **Data:** 29/07/2026
 **Formato:** narração sem rosto, voz e som ambiente
 
@@ -26,7 +26,7 @@ Marcações: (…) pausa curta · (……) pausa longa · MAIÚSCULA é palavra 
 
 ---
 
-### TREVA — 0:00 a 3:30
+### DOR — 0:00 a 3:00
 
 Você saiu de uma reunião de trinta minutos (…) e o seu corpo está do jeito que ficaria se você tivesse sido assaltado na rua.
 
@@ -60,7 +60,7 @@ Esse é o círculo. E é dele que a gente vai falar.
 
 ---
 
-### LUME — 3:30 a 10:00
+### FONTE — 3:00 a 9:00
 
 Vamos por partes, porque tem duas coisas aqui, e as duas têm nome.
 
@@ -100,7 +100,7 @@ Então quando eu digo que a gente vai trabalhar o corpo (…) eu não estou troc
 
 ---
 
-### CLARÃO — 10:00 a 17:00
+### INSIGHT — 9:00 a 15:30
 
 Se você for guardar uma frase desse episódio, guarda essa:
 
@@ -138,7 +138,7 @@ E o resultado disso, olha, não é você virar uma pessoa que fala mais alto na 
 
 ---
 
-### BRASA — 17:00 a 22:00
+### PROMPT — 15:30 a 21:00
 
 Agora a parte prática, e eu quero que seja pequena de propósito.
 
@@ -178,7 +178,7 @@ No próximo episódio eu quero falar de uma coisa que quase todo mundo faz e qua
 
 E se você quiser ir mais fundo em vez de só entender, existe aqui um quadro chamado Travessia. É outro tipo de episódio: em vez de eu te explicar, você atravessa. É para escutar na cama, com a luz apagada.
 
-A primeira travessia está no ar junto com esse episódio.
+A primeira Travessia está no ar junto com esse episódio.
 
 Até lá.
 
@@ -192,5 +192,5 @@ Até lá.
 
 **Som:** ambiente mínimo, sem música dramática. O silêncio entre as frases faz parte do conteúdo.
 
-**Cortes derivados:** o bloco do CLARÃO sobre errar o alvo (sono e comunicação como sintoma) é o corte mais forte para Reels e Shorts. O trecho "seu corpo não sabe a diferença entre um chefe e uma onça" é o segundo.
+**Cortes derivados:** o bloco do INSIGHT sobre errar o alvo (sono e comunicação como sintoma) é o corte mais forte para Reels e Shorts. O trecho "seu corpo não sabe a diferença entre um chefe e uma onça" é o segundo.
 

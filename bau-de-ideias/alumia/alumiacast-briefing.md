@@ -10,14 +10,14 @@ O formato de produção segue a escola do canal Corvo Seco (575 mil inscritos, m
 
 ## A estrutura editorial de todo episódio
 
-Quatro tempos fixos, do obscuro ao praticável:
+Episódios de 21 minutos em quatro tempos fixos:
 
-1. **TREVA** — o conceito na forma obscura em que o mundo o deixou: o jargão, o mito, o mal-entendido que afasta as pessoas dele.
-2. **LUME** — a fonte real que carrega o fogo: quem escreveu, quando, em que contexto, o que dizia de fato. Sem lenda de marketing.
-3. **CLARÃO** — o insight destilado em uma frase repetível.
-4. **BRASA** — a prática mínima que fica acesa no dia: o micro-hábito no formato "depois de [âncora], [ação de 30 segundos]" (método BJ Fogg).
+1. **DOR** (0:00 a 3:00) — a cena concreta em que o ouvinte se reconhece.
+2. **FONTE** (3:00 a 9:00) — a evidência real, milenar e contemporânea, com crédito. Sem lenda de marketing.
+3. **INSIGHT** (9:00 a 15:30) — o princípio destilado em uma frase repetível.
+4. **PROMPT** (15:30 a 21:00) — a micro-ação de 30 segundos ancorada em hábito existente (método BJ Fogg).
 
-Há uma segunda linha de episódios, a série **Lume**: jornadas imersivas de mindfulness com storytelling em segunda pessoa, onde o ensinamento é vivido dentro da história em vez de explicado, fechando com uma âncora de 30 segundos. Mira a fresta de escuta longa noturna (validada com dados: alta demanda, competição baixa).
+Há uma segunda linha de episódios, o quadro **Travessia**: jornadas imersivas de mindfulness com storytelling em segunda pessoa, onde o ensinamento é vivido dentro da história em vez de explicado, fechando com uma âncora de 30 segundos. Mira a fresta de escuta longa noturna (validada com dados: alta demanda, competição baixa).
 
 ## O pipeline de produção (etapas que a IA deve estruturar e automatizar)
 
@@ -37,7 +37,7 @@ Regra mestra: todo tráfego é de três tipos — o que se controla (pago), o qu
 2. **Captura (o degrau prioritário):** página minimalista trocando material de valor (guia de práticas, trilha de leitura) pelo e-mail. Nada se constrói acima disso antes de isso rodar.
 3. **Receita imediata (paralela):** a Biblioteca Alumia — páginas dos livros citados nos episódios, com o conceito destilado, a prática extraída e link de afiliado Amazon. O destilado é mapa que envia ao livro, nunca substituto; curadoria acima de comissão, sempre.
 4. **Frontend auto-liquidável (quando a captura rodar):** oferta de entrada barata (R$ 27 a 47) na página de obrigado, com objetivo de pagar o custo de aquisição, não de lucrar.
-5. **Backend (por último):** assinatura da série Lume, imersões, mentoria. Venda de alto valor sempre com mudança de ambiente: formulário de aplicação e conversa individual, nunca página fria.
+5. **Backend (por último):** assinatura do acervo de Travessias, imersões, mentoria. Venda de alto valor sempre com mudança de ambiente: formulário de aplicação e conversa individual, nunca página fria.
 
 Atenção ao funil de sombra: o ouvinte cético pesquisa o nome antes de confiar. Tudo que a busca pelo nome encontra (repositório aberto, redes, biblioteca) é parte do funil e deve contar a mesma história.
 
@@ -46,7 +46,7 @@ Atenção ao funil de sombra: o ouvinte cético pesquisa o nome antes de confiar
 - Apelo positivo na oferta, sempre: vende-se o que a pessoa deseja se tornar; a tensão negativa serve só ao gancho, subordinada dentro da promessa de saída (Prisma da Solução).
 - Nenhuma decisão de verba sem rastreamento instalado e teste A/B; o tribunal é o comportamento medido, não a opinião.
 - Proibido: promessa de iluminação, abundância garantida, jargão de coach, clickbait que o episódio não paga.
-- Todo episódio termina em prática verificável. Sem BRASA, não é AlumiaCast.
+- Todo episódio termina em prática verificável. Sem PROMPT, não é AlumiaCast.
 - Métrica-guia: retenção e satisfação antes de views; lista própria antes de inscritos.
 
 ## Estado atual e primeiras entregas

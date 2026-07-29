@@ -30,28 +30,28 @@ Gente inteligente com fome de profundidade e alergia a guru: quem sente que o de
 
 ### O AlumiaCast — o podcast temático (Spotify e YouTube)
 
-Do complexo ao simples, um conceito por episódio: o que é (sem enrolação), de onde vem de verdade (a tradição real, sem lenda de marketing), onde se aplica, e como começa hoje. Episódios de 20 a 40 minutos. Exemplos de pauta: o que os herméticos chamavam de mentalismo; a noite escura da alma sem romantização; wu wei sem mistificação; o que a alquimia realmente operava.
+Do complexo ao simples, um conceito por episódio: o que é (sem enrolação), de onde vem de verdade (a tradição real, sem lenda de marketing), onde se aplica, e como começa hoje. Exemplos de pauta: o que os herméticos chamavam de mentalismo; a noite escura da alma sem romantização; wu wei sem mistificação; o que a alquimia realmente operava.
 
-A estrutura proprietária, irmã dos 4 tempos da marca-mãe, com nomes do universo do lume:
+Episódios de 21 minutos, na estrutura dos 4 tempos do ecossistema, com marcação de tempo sugerida:
 
-1. **TREVA** — o conceito na forma obscura em que o mundo o deixou (o jargão, o mito, a confusão que afasta as pessoas dele).
-2. **LUME** — a fonte real que carrega o fogo: quem escreveu, quando, em que contexto, o que dizia de fato.
-3. **CLARÃO** — o insight destilado em uma frase repetível.
-4. **BRASA** — a prática mínima que fica acesa no dia a dia: o micro-hábito no formato Fogg, porque ensinamento sem prática é fumaça.
+1. **DOR** (0:00 a 3:00) — a cena concreta em que o ouvinte se reconhece.
+2. **FONTE** (3:00 a 9:00) — a evidência real, milenar e contemporânea, com crédito.
+3. **INSIGHT** (9:00 a 15:30) — o princípio destilado em uma frase repetível.
+4. **PROMPT** (15:30 a 21:00) — a micro-ação de 30 segundos ancorada em hábito existente.
 
 ### Travessia — o quadro imersivo
 
 O segundo formato é a resposta ao tédio da meditação guiada. O método está em [`travessia-metodo.md`](travessia-metodo.md), e o nome é o próprio acrônimo das nove etapas do percurso: narrativa imersiva em segunda pessoa, onde a mente entra na cena e vive o ensinamento por dentro. A travessia de um deserto que ensina desapego sem nunca dizer a palavra desapego; uma casa de cômodos que são memórias; um rio que só deixa atravessar quem solta o que carrega. O ensinamento não é explicado, é vivido — e no fim de cada jornada fica uma âncora: um gesto de 30 segundos que traz o estado de volta no dia seguinte.
 
-Episódios de 15 a 25 minutos, voz e desenho de som. O mercado valida a fresta: a escuta longa noturna é a maior oportunidade aberta que encontramos nos dados ("estoicismo para dormir": 50 mil buscas mensais com competição 27), os sleep stories internacionais (Calm) provam o formato há uma década, e ninguém no Brasil faz storytelling imersivo de verdade nessa faixa. A Travessia pode ser a porta de descoberta do Alumia inteiro.
+Travessia completa de 22 minutos e Travessia pocket de 10, em voz e desenho de som. O mercado valida a fresta: a escuta longa noturna é a maior oportunidade aberta que encontramos nos dados ("estoicismo para dormir": 50 mil buscas mensais com competição 27), os sleep stories internacionais (Calm) provam o formato há uma década, e ninguém no Brasil faz storytelling imersivo de verdade nessa faixa. A Travessia pode ser a porta de descoberta do Alumia inteiro.
 
 ### A Biblioteca Alumia (subprojeto)
 
-O terceiro formato é a biblioteca de livros do universo Alumia na web, no espírito das páginas de tópico do Blinkist mas com a promessa invertida: destilado como mapa que envia ao livro, nunca como substituto dele. Cada entrada traz o conceito central, a aplicabilidade, a BRASA extraída do livro e o link de compra com comissão de afiliado da Amazon. Conceito completo em [`biblioteca.md`](biblioteca.md).
+O terceiro formato é a biblioteca de livros do universo Alumia na web, no espírito das páginas de tópico do Blinkist mas com a promessa invertida: destilado como mapa que envia ao livro, nunca como substituto dele. Cada entrada traz o conceito central, a aplicabilidade, a prática de 30 segundos extraída do livro e o link de compra com comissão de afiliado da Amazon. Conceito completo em [`biblioteca.md`](biblioteca.md).
 
 ## Monetização (esboço, na ordem de construção)
 
-Fase um: audiência e captura — podcast e canal crescendo com e-mail capturado desde o primeiro dia, porque audiência de plataforma é audiência emprestada (regra da skill trafego-e-audiencia, que governa a distribuição deste projeto também), com a Biblioteca Alumia gerando a primeira receita (afiliado) e as primeiras páginas de SEO desde cedo. Fase dois: a biblioteca premium do Lume (assinatura de jornadas imersivas) e infoprodutos de prática. Fase três: o degrau alto — imersões, comunidade, mentoria. A estrutura jurídica que recebe tudo isso usa a grafia Alumias, conforme o anexo.
+Fase um: audiência e captura — podcast e canal crescendo com e-mail capturado desde o primeiro dia, porque audiência de plataforma é audiência emprestada (regra da skill trafego-e-audiencia, que governa a distribuição deste projeto também), com a Biblioteca Alumia gerando a primeira receita (afiliado) e as primeiras páginas de SEO desde cedo. Fase dois: o acervo premium de Travessias (assinatura a R$ 24,90 por mês ou R$ 199,90 por ano) e infoprodutos de prática. Fase três: o degrau alto — imersões, comunidade, mentoria. A estrutura jurídica que recebe tudo isso usa a grafia Alumias, conforme o anexo.
 
 ## Riscos e cuidados
 
@@ -64,5 +64,5 @@ Fase um: audiência e captura — podcast e canal crescendo com e-mail capturado
 
 1. Garantir os handles (@alumia ou variação) no YouTube, Spotify, Instagram e TikTok, e verificar registro de marca no INPI nas duas grafias.
 2. Identidade verbal e visual própria: paleta, tipografia e assinatura sonora do podcast.
-3. Piloto de validação: três episódios temáticos (TREVA a BRASA) e um episódio do Lume.
+3. Piloto de validação: três episódios nos 4 tempos e uma Travessia completa.
 4. Pesquisa de palavras-chave do universo Alumia no vidIQ antes de nomear os episódios do piloto.

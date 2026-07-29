@@ -1,6 +1,6 @@
-# Business Model Canvas — Alumia (v7)
+# Business Model Canvas — Alumia (v8)
 
-> Versão 7, 29/07/2026. Incorpora o método TRAVESSIA e o episódio 1 escrito. Assinatura oficial definida: "Menos alarme, mais presença." Consolida A Única Coisa (Gary Keller): o Alumia é um sistema de autogoverno da mente acelerada. Um segmento, uma proposta, dois momentos do dia. Corrige a v3, que tratava plataformas pagantes como segmento de cliente e usava linguagem que só o autor entendia.
+> Versão 8, 29/07/2026. Decisões fechadas com o fundador: durações definitivas, nome único Travessia (Lume descontinuado), estrutura do episódio nos 4 tempos DOR-FONTE-INSIGHT-PROMPT, e preço da assinatura com base em benchmark de mercado. Assinatura oficial definida: "Menos alarme, mais presença." Consolida A Única Coisa (Gary Keller): o Alumia é um sistema de autogoverno da mente acelerada. Um segmento, uma proposta, dois momentos do dia. Corrige a v3, que tratava plataformas pagantes como segmento de cliente e usava linguagem que só o autor entendia.
 
 ## A assinatura oficial
 
@@ -59,8 +59,8 @@ O que a pessoa recebe, na prática:
 
 | Momento | O que entregamos | O que ela ganha |
 |---|---|---|
-| À noite | **Travessia noturna**: 20 minutos de narrativa nas nove etapas do método, sem exigir silêncio mental nem disciplina | Dorme sem remédio e sem tédio |
-| Durante o dia | Episódio de 22 a 28 minutos, mais a **Travessia curta** de 6 minutos e a prática de 30 segundos | Entra na reunião sem travar e responde sem se arrepender |
+| À noite | **Travessia completa**: 22 minutos de narrativa nas nove etapas do método, sem exigir silêncio mental nem disciplina | Dorme sem remédio e sem tédio |
+| Durante o dia | Episódio de 21 minutos, mais a **Travessia pocket** de 10 minutos e a prática de 30 segundos | Entra na reunião sem travar e responde sem se arrepender |
 | Quando quer se aprofundar | O livro difícil explicado em 20 minutos, com fonte creditada e indicação honesta | Sabe onde investir a leitura |
 
 **Por que escolheria o Alumia e não outro:** fonte verificável, linguagem sem jargão e instrução executável, sempre juntos. Aplicativo de meditação entrega prática sem entendimento, canal de filosofia entrega entendimento sem prática, e coach não entrega nenhum dos dois com fonte.
@@ -91,18 +91,22 @@ Como a marca se relaciona com o público, em cada estágio:
 
 | Fonte | Como funciona | Quem paga | Preço |
 |---|---|---|---|
-| Assinatura das Travessias | Mensalidade recorrente | O cliente | R$ 19 a 29 por mês, a validar |
+| Assinatura das Travessias | Mensalidade ou anuidade recorrente | O cliente | **R$ 24,90 por mês ou R$ 199,90 por ano** |
 | Produto de entrada | Pagamento único | O cliente | R$ 27 a 47 |
-| Mentoria e imersão | Serviço, por aplicação | O cliente | Alto valor, volume baixo |
+| Mentoria e imersão | Serviço, por aplicação | O cliente | R$ 3.000 a 5.000, volume baixo |
 | Comissão de livros | Percentual sobre venda originada | A Amazon | Definido pelo programa |
 | Anúncio nas plataformas | Divisão de receita por exibição | YouTube e serviços de streaming | CPM da plataforma |
 | Patrocínio de episódio | Inserção paga | Marcas | Por inserção ou pacote |
 
 **A fonte que sustenta o negócio no longo prazo é a assinatura**, porque é a única que cresce sem depender de tráfego novo todo mês.
 
+**Racional do preço (benchmark de jul/2026, Brasil):** Headspace cobra R$ 19,90 por mês, Zen cobra R$ 24,90 (anual R$ 199,90) e Calm cobra R$ 28,90 (anual R$ 199,90). O Alumia entra a R$ 24,90 no mensal, entre Headspace e Calm, para se posicionar de igual para igual com apps globais sem parecer barato. O anual a R$ 199,90 acompanha o teto da categoria e derruba o custo percebido para R$ 16,60 por mês, o que protege contra o corte de custos. Cobrar abaixo de R$ 19,90 é o risco maior, porque transforma o produto em serviço supérfluo aos olhos do cliente.
+
+**O freemium já existe:** o AlumiaCast é gratuito para sempre, com o episódio semanal e uma Travessia por mês. A assinatura abre o acervo completo.
+
 ## Estado de execução (29/07/2026)
 
-Definidos: a assinatura oficial, a estrutura do episódio (TREVA, LUME, CLARÃO, BRASA), o método TRAVESSIA em nove etapas e a duração de referência de cada formato, com base nas taxas de conclusão do Spotify. Escrito: o episódio 1, "Seu corpo achou que a reunião era um assalto", com roteiro de teleprompter em [`episodios/`](episodios/). Mapeada: a primeira temporada com quatro temas seguintes. Pendentes: handles nas plataformas, identidade visual própria, captura de e-mail e gravação do lote de estreia.
+Definidos: a assinatura oficial, a estrutura do episódio (DOR, FONTE, INSIGHT, PROMPT), o método TRAVESSIA em nove etapas e a duração de referência de cada formato, com base nas taxas de conclusão do Spotify. Escrito: o episódio 1, "Seu corpo achou que a reunião era um assalto", com roteiro de teleprompter em [`episodios/`](episodios/). Mapeada: a primeira temporada com quatro temas seguintes. Pendentes: handles nas plataformas, identidade visual própria, captura de e-mail e gravação do lote de estreia.
 
 ---
 
@@ -110,7 +114,7 @@ Definidos: a assinatura oficial, a estrutura do episódio (TREVA, LUME, CLARÃO,
 
 ## 6. Atividades-Chave
 
-- Produzir os dois formatos a partir do mesmo tema: o episódio de 22 a 28 minutos e a Travessia (ver [`travessia-metodo.md`](travessia-metodo.md)).
+- Produzir os três formatos a partir do mesmo tema: o episódio de 21 minutos, a Travessia completa de 22 e a Travessia pocket de 10 (ver [`travessia-metodo.md`](travessia-metodo.md)).
 - Checar fontes e curar a bibliografia, que é o que sustenta a confiança.
 - Otimizar para busca: palavra-chave, título e descrição antes de publicar.
 - Operar a lista de e-mail e as sequências.
