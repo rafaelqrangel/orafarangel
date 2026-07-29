@@ -23,6 +23,10 @@ Respostas curtas, dinâmica de bate-bola. Rafael é empresário sem tempo: respo
 - Na grafia é sempre "você", nunca "cê".
 - Escrever em português brasileiro.
 
+## Regra obrigatória dos episódios do AlumiaCast
+
+Todo episódio padrão do AlumiaCast tem 21 minutos na divisão 3-5-4-9, conforme `bau-de-ideias/alumia/formato-episodio.md`. Nenhum roteiro entra em `bau-de-ideias/alumia/episodios/` sem declarar os blocos no cabeçalho e sem retomar a prática no último minuto.
+
 ## Fluxo de trabalho
 
 - A skill `/pauta` (em `.claude/skills/pauta/`) é o circuito de produção de conteúdo. Roteiros aprovados vão para `conteudo/roteiros/`, o banco de ideias em `conteudo/banco-de-ideias.md` acompanha o status.

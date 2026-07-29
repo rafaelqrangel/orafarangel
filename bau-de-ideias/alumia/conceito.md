@@ -32,12 +32,12 @@ Gente inteligente com fome de profundidade e alergia a guru: quem sente que o de
 
 Do complexo ao simples, um conceito por episódio: o que é (sem enrolação), de onde vem de verdade (a tradição real, sem lenda de marketing), onde se aplica, e como começa hoje. Exemplos de pauta: o que os herméticos chamavam de mentalismo; a noite escura da alma sem romantização; wu wei sem mistificação; o que a alquimia realmente operava.
 
-Episódios de 21 minutos, na estrutura dos 4 tempos do ecossistema, com marcação de tempo sugerida:
+Episódios de 21 minutos na divisão obrigatória **3-5-4-9**, detalhada em [`formato-episodio.md`](formato-episodio.md):
 
-1. **DOR** (0:00 a 3:00) — a cena concreta em que o ouvinte se reconhece.
-2. **FONTE** (3:00 a 9:00) — a evidência real, milenar e contemporânea, com crédito.
-3. **INSIGHT** (9:00 a 15:30) — o princípio destilado em uma frase repetível.
-4. **PROMPT** (15:30 a 21:00) — a micro-ação de 30 segundos ancorada em hábito existente.
+1. **Despertar intelectual** (3 min, 0:00 a 3:00) — o gancho, o conceito apresentado de forma provocativa.
+2. **Impacto na pele** (5 min, 3:00 a 8:00) — a história que humaniza e abre o sentimento, com a fonte real.
+3. **Estrutura do micro-hábito** (4 min, 8:00 a 12:00) — a engenharia da prática de 30 segundos.
+4. **A mente em ação e o chamado** (9 min, 12:00 a 21:00) — a expansão para o sentido e o chamado à responsabilidade, retomando a prática no último minuto.
 
 ### Travessia — o quadro imersivo
 
