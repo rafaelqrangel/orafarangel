@@ -1,112 +1,141 @@
-# Business Model Canvas — Alumia (v2, com pé no chão)
+# Business Model Canvas — Alumia (v3)
 
-> Versão 2, 29/07/2026. Reescreve a v1 depois da crítica do fundador: a primeira versão vendia a beleza do conteúdo, não a dor do cliente. Esta parte das necessidades básicas, usa dados de busca reais (vidIQ, Brasil, jul/2026) e fontes verificáveis de prevalência.
+> Versão 3, 29/07/2026. Preenchido na ordem canônica (direita, esquerda, base), com vocabulário padrão do Strategyzer, separação entre usuário e pagante, e jornada de canal mapeada por fase. Substitui a v2, que misturava nota estratégica com item de canvas.
 
-## A correção de rota
+---
 
-A v1 dizia que o produto era "destrancar a sabedoria hermética". Isso descreve a matéria-prima, não o trabalho que o cliente precisa fazer. Ninguém acorda querendo entender hermetismo.
+# LADO DIREITO — O MERCADO
 
-As indústrias que se sustentam orbitam necessidades básicas (comer e beber, higiene, dormir e acordar, interação social) e quase todas operam a serviço do ego, num gradiente que vai do essencial ao supérfluo. Filosofia não é uma necessidade básica. Ela só vira negócio quando serve a uma delas.
+## 1. Segmentos de Clientes
 
-O Alumia se posiciona em duas dessas necessidades, e a filosofia entra como insumo invisível:
+Tipo de mercado: **segmentado**, com uma camada **multilateral** (o usuário do conteúdo e o pagante nem sempre são a mesma pessoa).
 
-1. **Dormir e acordar.** Conteúdo que ajuda a pessoa a desligar a cabeça e adormecer.
-2. **Interação social e status.** Repertório, clareza e autocontrole para a pessoa ser ouvida, respeitada e não se sabotar diante de quem importa.
+| Avatar | Quem é | Papel | Dor de entrada |
+|---|---|---|---|
+| **Insone Vera, 38** | Analista, mora em capital, deita 23h e dorme 1h. Já tomou remédio e não quer depender | Usuária e pagante | 31,7% dos adultos brasileiros têm sintomas de insônia (Vigitel 2025) |
+| **Gestor Bruno, 42** | Coordenador em empresa média, apresenta para diretoria, trava e se arrepende do que falou | Usuário e pagante | Cluster comunicação, carisma e oratória: 114 mil buscas/mês no YouTube BR |
+| **Leitor Marcelo, 45** | Comprou dez livros de filosofia, terminou dois | Usuário e pagante | Autoconhecimento: 71 mil buscas/mês |
+| **Amazon (programa de afiliados)** | Paga comissão por venda originada | **Pagante, não usuário** | Precisa de tráfego qualificado com intenção de compra |
+| **Marcas patrocinadoras** (fase 2) | Colchão, sono, saúde mental, educação | **Pagante, não usuário** | Precisam de audiência atenta e contexto seguro |
 
-A tradição milenar é o que garante a qualidade e a diferenciação do produto, do mesmo modo que a origem do grão importa no café. O cliente compra o café, não a botânica.
+**Decisor e comprador coincidem** em todos os avatares B2C: compra individual, sem terceiro aprovando.
 
-## As duas dores, com número
+**Fora do escopo:** quem busca previsão, oráculo, cura energética ou aconselhamento religioso.
 
-### Dor 1 — não conseguir dormir
+## 2. Proposta de Valor
 
-O Vigitel 2025 (Ministério da Saúde) mediu que **31,7% dos adultos brasileiros apresentam sintomas de insônia**, chegando a 36,2% entre mulheres, e que **20,2% dormem menos de seis horas por noite**. É uma dor física, diária, com consequência imediata no dia seguinte, e as pessoas já gastam dinheiro com ela (medicação, aplicativos, chás, colchões).
+Tipos de valor entregues, na taxonomia do canvas: **getting the job done**, **conveniência e usabilidade**, **acessibilidade**, **redução de risco**.
 
-Demanda de busca no YouTube Brasil: insônia soma 58 mil buscas mensais, sono 40 mil, e o guarda-chuva "dormir" 150 mil no mundo. O formato de escuta longa noturna tem competição baixa em português (o cruzamento "estoicismo para dormir" tem 50 mil buscas com competição 27 de 100).
+| Para | Job a ser feito | Proposta | Tipo de valor |
+|---|---|---|---|
+| Insone Vera | Desligar a cabeça e adormecer | Narrativa de 20 minutos que ocupa a mente até apagar, sem exigir silêncio mental, disciplina ou app | Getting the job done + conveniência |
+| Gestor Bruno | Ser levado a sério e não se descontrolar | Uma ideia de peso por semana que rende conversa, e uma prática de 30 segundos para o momento crítico | Getting the job done + redução de risco social |
+| Leitor Marcelo | Saber onde investir a leitura | O livro difícil destrinchado em 20 minutos, com fonte creditada e recomendação honesta | Acessibilidade + redução de risco de compra |
+| Amazon | Vender livros | Tráfego com intenção de compra, vindo de recomendação editorial com contexto | Performance |
+| Patrocinador | Alcançar audiência atenta | Contexto sóbrio, sem sensacionalismo, com escuta longa e alta retenção | Marca e risco reduzido |
 
-**O que a pessoa contrata hoje:** remédio, aplicativo de meditação, ruído branco, série no automático, rolagem no celular. **Por que demite:** remédio tem efeito colateral e culpa, meditação guiada é monótona e a mente escapa, tela estimula e piora.
+**Diferencial declarado:** fonte verificável, linguagem sem jargão e instrução executável em toda peça. Nenhum concorrente do nicho entrega os três juntos de forma sistemática.
 
-**O que o Alumia vende:** uma narrativa em segunda pessoa que ocupa a mente até ela apagar, sem exigir silêncio mental nem disciplina. O ensinamento fica embutido na história, e a pessoa não precisa saber disso para o produto funcionar.
+## 3. Canais
 
-### Dor 2 — não ser levado a sério quando fala
+Mapeados por fase da jornada, indicando se são próprios ou de parceiro.
 
-A necessidade de status não é vaidade, é motivo humano fundamental: a revisão de [Anderson, Hildreth e Howland (Psychological Bulletin, 2015)](https://pubmed.ncbi.nlm.nih.gov/25774679/), sobre centenas de estudos, mostra que o desejo por status atravessa culturas, gêneros e idades, e que bem-estar, autoestima e saúde física e mental variam conforme o status que a pessoa recebe do grupo.
-
-Demanda de busca no Brasil: comunicação 42 mil, carisma 37 mil, oratória 35 mil, persuasão 17 mil, autoconfiança 16 mil, como ser mais confiante 14 mil. O cluster soma mais de 160 mil buscas mensais. E ansiedade, que é o inimigo direto dessa performance social, tem 175 mil buscas mensais no Brasil, com 97% do volume vindo daqui.
-
-**O que a pessoa contrata hoje:** cursos de oratória, coach, terapia, vídeos de linguagem corporal, livros de comunicação. **Por que demite:** curso de oratória ensina técnica de palco e não resolve a reunião de terça, coach entrega frase e não método, e nada disso funciona no momento em que o coração dispara.
-
-**O que o Alumia vende:** repertório que dá o que dizer (a ideia que faz a pessoa parecer profunda numa conversa) e autocontrole que evita o vexame (a prática de trinta segundos antes da reunião difícil, quando a raiva sobe, quando a crítica chega).
-
-## Os nove blocos
-
-### 1. Segmentos de clientes
-
-**Núcleo A, o Insone.** Adulto que deita e não desliga. Um em cada três adultos brasileiros está aqui. Chega de madrugada, no celular, e é o segmento mais barato de alcançar porque a dor é diária e a busca é ativa.
-
-**Núcleo B, o Profissional que precisa ser ouvido.** Entre 30 e 50 anos, cargo de gestão ou negócio próprio, cuja renda depende de convencer gente. Perde oportunidade por travar, por reagir mal, ou por não ter o que dizer numa mesa de gente mais lida.
-
-**Núcleo C, o Leitor Frustrado.** Compra livro de filosofia e não termina, ou termina e não aplica. É o menor dos três, porém o de maior valor por cabeça, porque compra livro, curso e mentoria.
-
-**Não é cliente:** quem busca previsão, oráculo ou cura energética.
-
-### 2. Proposta de valor
-
-**Para o Insone:** histórias que fazem você dormir sem remédio e sem tédio. Vinte minutos de narrativa calma que ocupa a mente até ela soltar.
-
-**Para o Profissional:** o que dizer e como não se descontrolar. Uma ideia de peso por episódio, que rende conversa, e uma prática de trinta segundos para os momentos em que você não pode perder a linha.
-
-**Para o Leitor Frustrado:** o mapa antes do território. O livro difícil destrinchado em vinte minutos, com a indicação honesta de qual comprar e por onde começar.
-
-**O que sustenta as três:** fonte real e creditada, linguagem sem jargão, e sempre uma instrução executável. A repetição desse padrão é o produto.
-
-### 3. Canais
-
-Spotify e YouTube como vitrine e descoberta, com o formato de escuta longa mirando explicitamente a busca noturna. Biblioteca de livros comentados na web capturando busca de cauda longa e gerando comissão. Lista de e-mail como o único ativo próprio. Cortes curtos no Instagram e TikTok para alcance. GitHub aberto como prova de método para o cliente cético.
-
-### 4. Relacionamento
-
-Resposta pessoal a todo comentário no primeiro ano, porque comentário respondido é alcance e é pauta. Sequência de e-mail entregando prática antes de vender. Venda de alto valor apenas com conversa individual. Transparência sobre afiliação e sobre método.
-
-### 5. Fontes de receita
-
-| Ordem | Fonte | O que destrava |
+| Fase | Canal | Tipo |
 |---|---|---|
-| 1 | Comissão de afiliado nos livros comentados | Caixa imediato e presença em busca, sem depender de audiência grande |
-| 2 | Monetização de plataforma (YouTube e streaming) | Renda de catálogo, cresce sozinha com o acervo |
-| 3 | Oferta de entrada barata (R$ 27 a 47) | Paga o custo de aquisição de lead e qualifica quem tem cartão na mão |
-| 4 | Assinatura da biblioteca de áudio para dormir | Recorrência, o ativo de maior valor, e a dor mais diária dos três núcleos |
-| 5 | Mentoria e imersão | Margem alta, volume baixo, só com qualificação |
-| 6 | Patrocínio | Só depois de audiência, e só marca que passe no filtro |
+| **Consciência** | Busca no YouTube e Spotify, cortes em Instagram e TikTok, participação em canais do nicho | Parceiro |
+| **Avaliação** | Episódios completos gratuitos, biblioteca de livros comentados, repositório aberto no GitHub | Próprio e parceiro |
+| **Compra** | Página de produto com checkout, link de afiliado da Amazon, formulário de aplicação para mentoria | Próprio e parceiro |
+| **Entrega** | Área de assinante para o acervo de áudio, e-mail com as práticas, feed do podcast | Próprio |
+| **Pós-venda** | Sequência de e-mail, comentários respondidos, comunidade de assinantes (fase 2) | Próprio |
 
-### 6. Recursos principais
+**Canal crítico:** a lista de e-mail, único ponto da jornada que não depende de plataforma de terceiro.
 
-O método documentado (que torna a produção delegável), a voz e a curadoria do fundador, o catálogo evergreen que rende por anos, a lista própria, e o pipeline assistido por IA que permite operar sem equipe.
+## 4. Relacionamento com Clientes
 
-### 7. Atividades-chave
+Definido por segmento e por fase (conquistar, manter, crescer), com o tipo canônico nomeado.
 
-Curadoria e checagem de fonte, roteiro e gravação, publicação dupla com cortes derivados, pesquisa de palavra-chave antes de cada título, construção contínua da lista, e leitura semanal de retenção e origem de tráfego para realimentar a pauta.
+| Segmento | Conquistar | Manter | Crescer |
+|---|---|---|---|
+| Insone Vera | Autosserviço (acha e dá play) | Serviço automatizado (novo episódio semanal no feed, sequência de e-mail) | Comunidade de assinantes |
+| Gestor Bruno | Autosserviço | Serviço automatizado + assistência pessoal (comentários respondidos no primeiro ano) | Assistência pessoal dedicada (mentoria) |
+| Leitor Marcelo | Autosserviço | Curadoria por e-mail (trilhas de leitura) | Cocriação (sugere e vota próximos livros) |
+| Amazon | Contrato de programa | Autosserviço via painel | Volume |
+| Patrocinador | Prospecção direta | Assistência pessoal dedicada | Renovação por resultado |
 
-### 8. Parcerias-chave
+## 5. Fontes de Receita
 
-Plataformas de distribuição, programa de afiliados da Amazon, ferramentas de IA e produção, infraestrutura de site e e-mail, e participações cruzadas com canais do nicho de sono, saúde mental e comunicação.
+| Fonte | Mecanismo | Precificação | Segmento pagante |
+|---|---|---|---|
+| Comissão de livros | **Corretagem** (brokerage) | Percentual sobre venda, definido pelo programa | Amazon |
+| Monetização de plataforma | **Publicidade** | CPM da plataforma | Anunciantes via YouTube e streaming |
+| Produto de entrada | **Venda de ativo** (pagamento único) | R$ 27 a 47 | Vera, Bruno, Marcelo |
+| Acervo de áudio para dormir | **Assinatura** | Mensal ou anual com desconto, faixa a validar entre R$ 19 e 29 por mês | Vera principalmente |
+| Mentoria e imersão | **Taxa de serviço** | Alto valor, por aplicação | Bruno principalmente |
+| Patrocínio de episódio | **Publicidade direta** | Por inserção ou pacote mensal | Marcas |
 
-### 9. Estrutura de custos
+**Modelo dominante no longo prazo:** assinatura recorrente, porque é a única fonte que cresce sem depender de tráfego novo todo mês.
 
-Custo dominante é o tempo do fundador. Custo financeiro fixo baixo, na casa de centenas de reais por mês entre hospedagem, e-mail, IA e domínio. Variáveis pontuais em identidade visual e, mais adiante, tráfego pago apenas para amplificar o que o orgânico já validou.
+---
 
-## O que o cliente demite ao contratar o Alumia
+# LADO ESQUERDO — A INFRAESTRUTURA
 
-| Ele para de usar | Porque o Alumia entrega |
-|---|---|
-| Remédio para dormir e rolagem noturna | Uma história que apaga a luz sem efeito colateral |
-| Aplicativo de meditação abandonado na segunda semana | Nada para configurar, nada para manter, só apertar o play |
-| Curso de oratória caro que não muda a reunião de terça | Uma ideia por semana que rende conversa, e uma prática para o momento crítico |
-| Resumo de livro raso e sem fonte | Destilado com fonte creditada e indicação honesta de leitura |
+## 6. Atividades-Chave
 
-## Como saber se está funcionando (noventa dias)
+Somente o que é indispensável para entregar as propostas acima.
 
-Três números decidem, e nenhum deles é inscrito ou curtida: retenção média acima de 50% nos episódios longos, taxa de conversão da audiência para a lista de e-mail, e primeiras comissões da biblioteca. Se a retenção sustentar e a lista crescer, avança para assinatura. Se não, o custo do experimento foi tempo e algumas centenas de reais.
+| Atividade | Categoria | Serve a qual proposta |
+|---|---|---|
+| Produção de episódios (pesquisa, roteiro, gravação, edição) | Produção | Todas |
+| Checagem de fonte e curadoria bibliográfica | Resolução de problemas | Diferencial de confiança |
+| Otimização para busca (palavra-chave, título, metadados) | Plataforma | Consciência e avaliação |
+| Operação da lista de e-mail e das sequências | Plataforma | Manter e crescer |
+| Gestão da biblioteca de livros comentados | Produção | Receita de corretagem |
 
-## Fontes
+## 7. Recursos Principais
 
-Volumes de busca: vidIQ, YouTube Brasil, consultado em 26 e 29/07/2026 (revalidar por trimestre). Prevalência de insônia: Vigitel 2025, Ministério da Saúde. Motivo de status: Anderson, Hildreth e Howland, Psychological Bulletin, 2015.
+| Recurso | Categoria | Por que é vantagem |
+|---|---|---|
+| Método documentado e versionado (quatro tempos + micro-hábito) | Intelectual | Torna a produção replicável e delegável |
+| Catálogo de episódios evergreen | Intelectual | Rende tráfego por anos sem republicação |
+| Lista de e-mail | Intelectual | Único canal de acesso direto ao cliente |
+| Marcas Alumia, AlumiaCast e Alumias | Intelectual | Ativo registrável |
+| Voz, curadoria e autoridade do fundador | Humano | Diferencial de confiança e gargalo simultâneo |
+| Pipeline de produção assistido por IA | Intelectual e tecnológico | Permite cadência semanal sem equipe |
+
+## 8. Parcerias-Chave
+
+| Parceiro | O que fornece ou absorve | Tipo |
+|---|---|---|
+| YouTube e Spotify | Distribuição, hospedagem e público, sem custo fixo | Comprador e fornecedor |
+| Amazon Associados | Infraestrutura de venda e pagamento de comissão | Comprador e fornecedor |
+| Ferramentas de IA (roteiro, imagem, áudio) | Substituem equipe de produção | Fornecedor |
+| Provedores de e-mail, site e checkout | Infraestrutura própria de baixo custo | Fornecedor |
+| Canais de sono, saúde mental e comunicação | Audiência qualificada por troca, sem custo de mídia | Aliança estratégica |
+| Narrador ou editor terceirizado (fase 2) | Absorve o gargalo do fundador | Fornecedor |
+
+---
+
+# BASE — OS NÚMEROS
+
+## 9. Estrutura de Custos
+
+Modelo **orientado a valor** com disciplina de custo baixo. As sete maiores despesas, derivadas das atividades, recursos e parceiros acima.
+
+| # | Custo | Natureza | Origem |
+|---|---|---|---|
+| 1 | Tempo do fundador em pesquisa, roteiro e gravação | Fixo implícito (custo de oportunidade, o maior de todos) | Atividade de produção |
+| 2 | Assinaturas de ferramentas de IA | Fixo | Pipeline de produção |
+| 3 | Hospedagem de podcast, site e domínio | Fixo | Canais próprios |
+| 4 | Plataforma de e-mail | Fixo, cresce por faixa de contatos | Relacionamento |
+| 5 | Edição e narração terceirizadas (fase 2) | Variável | Escala de produção |
+| 6 | Taxas de checkout e impostos sobre venda | Variável | Receita de produto e assinatura |
+| 7 | Identidade visual e registro de marca | Investimento pontual | Recursos intelectuais |
+| 8 | Tráfego pago para amplificar criativo validado | Variável e opcional | Consciência |
+
+**Ponto de equilíbrio inicial:** os custos fixos somam ordem de centenas de reais por mês, cobertos por poucas dezenas de assinantes ou por comissão e publicidade de plataforma combinadas.
+
+---
+
+## Fontes dos dados
+
+Volumes de busca: vidIQ, YouTube Brasil, jul/2026 (revalidar por trimestre). Prevalência de insônia: Vigitel 2025, Ministério da Saúde. Status como motivo humano fundamental: Anderson, Hildreth e Howland, Psychological Bulletin, 2015.
