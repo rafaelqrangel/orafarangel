@@ -1,6 +1,6 @@
-# Business Model Canvas — Alumia (v6)
+# Business Model Canvas — Alumia (v7)
 
-> Versão 6, 29/07/2026. Assinatura oficial definida: "Menos alarme, mais presença." Consolida A Única Coisa (Gary Keller): o Alumia é um sistema de autogoverno da mente acelerada. Um segmento, uma proposta, dois momentos do dia. Corrige a v3, que tratava plataformas pagantes como segmento de cliente e usava linguagem que só o autor entendia.
+> Versão 7, 29/07/2026. Incorpora o método TRAVESSIA e o episódio 1 escrito. Assinatura oficial definida: "Menos alarme, mais presença." Consolida A Única Coisa (Gary Keller): o Alumia é um sistema de autogoverno da mente acelerada. Um segmento, uma proposta, dois momentos do dia. Corrige a v3, que tratava plataformas pagantes como segmento de cliente e usava linguagem que só o autor entendia.
 
 ## A assinatura oficial
 
@@ -59,8 +59,8 @@ O que a pessoa recebe, na prática:
 
 | Momento | O que entregamos | O que ela ganha |
 |---|---|---|
-| À noite | Narrativa de 20 minutos que ocupa a mente até ela soltar, sem exigir silêncio mental nem disciplina | Dorme sem remédio e sem tédio |
-| Durante o dia | Uma ideia de peso por semana, mais uma prática de 30 segundos para o momento crítico | Entra na reunião sem travar e responde sem se arrepender |
+| À noite | **Travessia noturna**: 20 minutos de narrativa nas nove etapas do método, sem exigir silêncio mental nem disciplina | Dorme sem remédio e sem tédio |
+| Durante o dia | Episódio de 22 a 28 minutos, mais a **Travessia curta** de 6 minutos e a prática de 30 segundos | Entra na reunião sem travar e responde sem se arrepender |
 | Quando quer se aprofundar | O livro difícil explicado em 20 minutos, com fonte creditada e indicação honesta | Sabe onde investir a leitura |
 
 **Por que escolheria o Alumia e não outro:** fonte verificável, linguagem sem jargão e instrução executável, sempre juntos. Aplicativo de meditação entrega prática sem entendimento, canal de filosofia entrega entendimento sem prática, e coach não entrega nenhum dos dois com fonte.
@@ -91,7 +91,7 @@ Como a marca se relaciona com o público, em cada estágio:
 
 | Fonte | Como funciona | Quem paga | Preço |
 |---|---|---|---|
-| Assinatura do acervo noturno | Mensalidade recorrente | O cliente | R$ 19 a 29 por mês, a validar |
+| Assinatura das Travessias | Mensalidade recorrente | O cliente | R$ 19 a 29 por mês, a validar |
 | Produto de entrada | Pagamento único | O cliente | R$ 27 a 47 |
 | Mentoria e imersão | Serviço, por aplicação | O cliente | Alto valor, volume baixo |
 | Comissão de livros | Percentual sobre venda originada | A Amazon | Definido pelo programa |
@@ -100,13 +100,17 @@ Como a marca se relaciona com o público, em cada estágio:
 
 **A fonte que sustenta o negócio no longo prazo é a assinatura**, porque é a única que cresce sem depender de tráfego novo todo mês.
 
+## Estado de execução (29/07/2026)
+
+Definidos: a assinatura oficial, a estrutura do episódio (TREVA, LUME, CLARÃO, BRASA), o método TRAVESSIA em nove etapas e a duração de referência de cada formato, com base nas taxas de conclusão do Spotify. Escrito: o episódio 1, "Seu corpo achou que a reunião era um assalto", com roteiro de teleprompter em [`episodios/`](episodios/). Mapeada: a primeira temporada com quatro temas seguintes. Pendentes: handles nas plataformas, identidade visual própria, captura de e-mail e gravação do lote de estreia.
+
 ---
 
 # LADO ESQUERDO — A INFRAESTRUTURA
 
 ## 6. Atividades-Chave
 
-- Produzir os episódios: pesquisa, roteiro, gravação e edição.
+- Produzir os dois formatos a partir do mesmo tema: o episódio de 22 a 28 minutos e a Travessia (ver [`travessia-metodo.md`](travessia-metodo.md)).
 - Checar fontes e curar a bibliografia, que é o que sustenta a confiança.
 - Otimizar para busca: palavra-chave, título e descrição antes de publicar.
 - Operar a lista de e-mail e as sequências.
