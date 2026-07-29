@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Alumia — Menos alarme, mais presença</title>
+<meta name="description" content="Um sistema prático de autogoverno que desarma o alerta do estresse no corpo. Podcast, travessias imersivas e práticas de 30 segundos.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Lora:wght@400;500;600&family=Questrial&display=swap" rel="stylesheet">
+<style>
+:root{
+  --navy:#122A55; --charcoal:#040C18; --midnight:#02070E;
+  --amber:#FDC366; --bronze:#EB983C; --bronze-dark:#E08B2E; --gold-muted:#E2C24A;
+  --cream:#F3ECDA; --cream-light:#E8D4A0; --white:#FFFFFF;
+  --brown-dark:#1A1206;
+  --surface:rgba(255,255,255,.04);
+  --border:rgba(235,152,60,.1);
+  --border-hi:rgba(235,152,60,.3);
+  --glow:rgba(235,152,60,.22) 0 0 0 1px, rgba(235,152,60,.26) 0 16px 48px 0;
+  --f-display:'Cinzel',Georgia,serif;
+  --f-body:'Lora',Georgia,serif;
+  --f-ui:'Questrial',-apple-system,BlinkMacSystemFont,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{background:var(--charcoal);color:var(--cream);font-family:var(--f-body);
+  font-size:18.88px;line-height:1.55;overflow-x:hidden;-webkit-font-smoothing:antialiased;}
+h1,h2,h3,h4,h5{font-family:var(--f-display);font-weight:600;line-height:1.12;}
+a{color:inherit;text-decoration:none;}
+
+#ceu{position:fixed;inset:0;z-index:0;pointer-events:none;}
+.wrap{position:relative;z-index:1;}
+.container{max-width:1200px;margin:0 auto;padding:0 40px;}
+
+/* NAV */
+nav{position:fixed;top:0;left:0;right:0;height:64px;z-index:50;
+  display:flex;align-items:center;justify-content:space-between;padding:16px 40px;
+  background:rgba(4,12,24,.72);backdrop-filter:blur(14px);
+  border-bottom:1px solid var(--border);transition:background .3s;}
+.marca{font-family:var(--f-display);font-size:22px;font-weight:600;letter-spacing:.14em;
+  color:var(--cream);display:flex;align-items:center;gap:10px;}
+.marca .anel{width:16px;height:16px;border:2.5px solid var(--bronze);border-radius:50%;
+  border-bottom-color:transparent;transform:rotate(45deg);}
+.nav-links{display:flex;gap:8px;align-items:center;}
+.nav-links a{font-family:var(--f-ui);font-size:14.72px;font-weight:700;
+  padding:8px 16px;border-radius:10px;transition:background .2s,color .2s;}
+.nav-links a:hover{background:rgba(235,152,60,.08);}
+.nav-links a.cta{background:var(--bronze);color:var(--brown-dark);box-shadow:var(--glow);}
+.nav-links a.cta:hover{background:var(--bronze-dark);}
+@media(max-width:860px){.nav-links a:not(.cta){display:none;}nav{padding:12px 20px;}}
+
+/* HERO */
+header.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;
+  align-items:center;text-align:center;padding:140px 40px 90px;position:relative;}
+.selo{font-family:var(--f-ui);font-size:13.33px;letter-spacing:.28em;text-transform:uppercase;
+  color:var(--amber);border:1px solid var(--border);border-radius:999px;padding:9px 22px;
+  margin-bottom:40px;background:var(--surface);}
+h1{font-size:clamp(38px,7.2vw,70.4px);letter-spacing:.01em;max-width:15ch;margin-bottom:30px;}
+h1 em{font-style:normal;color:var(--amber);}
+.hero p.lead{font-size:clamp(18px,2.2vw,22px);max-width:58ch;color:var(--cream-light);margin-bottom:44px;}
+.botoes{display:flex;gap:16px;flex-wrap:wrap;justify-content:center;}
+.btn{font-family:var(--f-ui);font-size:14.72px;font-weight:700;line-height:23.552px;
+  padding:15px 48px;border-radius:10px;border:none;cursor:pointer;transition:all .22s;}
+.btn-p{background:var(--bronze);color:var(--brown-dark);box-shadow:var(--glow);}
+.btn-p:hover{background:var(--bronze-dark);box-shadow:rgba(235,152,60,.34) 0 0 0 1px,rgba(235,152,60,.34) 0 16px 48px 0;}
+.btn-p:active{box-shadow:rgba(235,152,60,.1) 0 1px 0 0 inset;}
+.btn-s{background:var(--surface);color:var(--cream);border:1px solid var(--border);}
+.btn-s:hover{background:rgba(235,152,60,.08);border-color:var(--border-hi);}
+.rolagem{position:absolute;bottom:34px;font-family:var(--f-ui);font-size:12px;
+  letter-spacing:.22em;text-transform:uppercase;color:rgba(243,236,218,.42);
+  animation:flutua 2.6s ease-in-out infinite;}
+@keyframes flutua{0%,100%{transform:translateY(0);opacity:.42}50%{transform:translateY(7px);opacity:.9}}
+
+/* SEÇÕES */
+section{padding:96px 0;position:relative;scroll-margin-top:72px;}
+section.navy{background:linear-gradient(180deg,rgba(18,42,85,0) 0%,rgba(18,42,85,.55) 22%,rgba(18,42,85,.55) 78%,rgba(18,42,85,0) 100%);}
+.rotulo{font-family:var(--f-ui);font-size:13.33px;letter-spacing:.26em;text-transform:uppercase;
+  color:var(--bronze);margin-bottom:20px;display:flex;align-items:center;gap:16px;}
+.rotulo::after{content:"";flex:1;height:1px;background:var(--border);max-width:180px;}
+h2{font-size:clamp(28px,4.6vw,57.6px);margin-bottom:26px;max-width:22ch;}
+h3{font-size:clamp(22px,2.8vw,33.6px);margin-bottom:14px;}
+p.corpo{max-width:64ch;color:var(--cream-light);}
+p.corpo + p.corpo{margin-top:22px;}
+p.corpo strong{color:var(--cream);font-weight:600;}
+
+.reveal{opacity:0;transform:translateY(26px);transition:opacity .8s ease,transform .8s ease;}
+.reveal.vis{opacity:1;transform:none;}
+
+/* LOOP */
+.loop-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:52px;}
+.no{background:var(--surface);border:1px solid var(--border);border-radius:12px;
+  padding:24px 18px;cursor:pointer;transition:all .3s;text-align:left;}
+.no:hover{border-color:var(--border-hi);background:rgba(235,152,60,.06);transform:translateY(-4px);}
+.no.on{border-color:var(--bronze);background:rgba(235,152,60,.1);}
+.no .n{font-family:var(--f-ui);font-size:12px;letter-spacing:.2em;color:var(--bronze);}
+.no .t{font-family:var(--f-display);font-size:17px;margin-top:10px;color:var(--cream);}
+.no .d{font-size:14.4px;color:rgba(243,236,218,.6);margin-top:8px;line-height:1.45;}
+.loop-fecho{margin-top:26px;font-family:var(--f-ui);font-size:14px;letter-spacing:.06em;
+  color:var(--bronze);text-align:center;}
+@media(max-width:900px){.loop-grid{grid-template-columns:repeat(2,1fr);}}
+@media(max-width:520px){.loop-grid{grid-template-columns:1fr;}}
+
+/* PREMISSA */
+.premissa{border-top:1px solid var(--border);border-bottom:1px solid var(--border);
+  padding:70px 0;text-align:center;}
+.premissa .frase{font-family:var(--f-display);font-size:clamp(26px,4.4vw,48px);
+  color:var(--amber);line-height:1.2;max-width:20ch;margin:0 auto 26px;}
+.premissa p{max-width:62ch;margin:0 auto;color:var(--cream-light);}
+
+/* RESPIRO */
+.respiro{display:grid;grid-template-columns:1fr 1fr;gap:60px;align-items:center;}
+@media(max-width:900px){.respiro{grid-template-columns:1fr;gap:40px;}}
+.orbe-area{display:flex;flex-direction:column;align-items:center;gap:26px;}
+.orbe-caixa{width:280px;height:280px;display:flex;align-items:center;justify-content:center;position:relative;}
+.orbe{width:120px;height:120px;border-radius:50%;
+  background:radial-gradient(circle at 34% 30%,#FFE0AC,var(--bronze) 62%,#B96C20);
+  box-shadow:0 0 62px rgba(235,152,60,.42);transition:transform 4s cubic-bezier(.4,0,.4,1);}
+.orbe.inspira{transform:scale(1.75);}
+.orbe.expira{transform:scale(1);transition-duration:8s;}
+.halo{position:absolute;width:120px;height:120px;border-radius:50%;
+  border:1px solid rgba(235,152,60,.34);transition:transform 4s cubic-bezier(.4,0,.4,1);}
+.halo.inspira{transform:scale(2.1);}
+.halo.expira{transform:scale(1);transition-duration:8s;}
+.instr{font-family:var(--f-display);font-size:23px;color:var(--cream);min-height:34px;text-align:center;}
+.contador{font-family:var(--f-ui);font-size:13px;letter-spacing:.2em;text-transform:uppercase;
+  color:rgba(243,236,218,.5);}
+.ficha{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:28px 30px;margin-top:30px;}
+.ficha .rot{font-family:var(--f-ui);font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--bronze);}
+.ficha .txt{font-family:var(--f-display);font-size:21px;color:var(--cream);margin-top:12px;line-height:1.35;}
+
+/* FORMATOS */
+.abas{display:flex;gap:10px;margin:44px 0 34px;flex-wrap:wrap;}
+.aba{font-family:var(--f-ui);font-size:14.72px;font-weight:700;padding:13px 26px;border-radius:10px;
+  background:var(--surface);border:1px solid var(--border);color:var(--cream);cursor:pointer;transition:all .22s;}
+.aba:hover{background:rgba(235,152,60,.08);}
+.aba.on{background:var(--bronze);color:var(--brown-dark);border-color:transparent;box-shadow:var(--glow);}
+.painel{display:none;}
+.painel.on{display:block;animation:entra .5s ease;}
+@keyframes entra{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.barra{display:flex;height:78px;border-radius:12px;overflow:hidden;border:1px solid var(--border);margin-bottom:8px;}
+.bloco{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;
+  cursor:pointer;transition:all .3s;border-right:1px solid rgba(4,12,24,.5);position:relative;min-width:42px;}
+.bloco:last-child{border-right:none;}
+.bloco .num{font-family:var(--f-display);font-size:26px;font-weight:700;}
+.bloco .min{font-family:var(--f-ui);font-size:11px;letter-spacing:.14em;text-transform:uppercase;opacity:.75;}
+.bloco:hover{filter:brightness(1.16);}
+.bloco.on{filter:brightness(1.22);box-shadow:inset 0 -5px 0 0 var(--cream);}
+.legenda{display:flex;justify-content:space-between;font-family:var(--f-ui);font-size:12px;
+  letter-spacing:.1em;color:rgba(243,236,218,.45);margin-bottom:30px;}
+.detalhe{background:var(--surface);border:1px solid var(--border);border-left:3px solid var(--bronze);
+  border-radius:10px;padding:26px 30px;min-height:150px;}
+.detalhe h4{font-family:var(--f-display);font-size:22px;color:var(--amber);margin-bottom:6px;}
+.detalhe .vib{font-family:var(--f-ui);font-size:12px;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--bronze);margin-bottom:14px;}
+.detalhe p{font-size:16.5px;color:var(--cream-light);max-width:70ch;}
+.soma{font-family:var(--f-ui);font-size:13px;letter-spacing:.14em;color:var(--bronze);margin-top:18px;}
+
+/* ETAPAS */
+.etapas{margin-top:46px;border-top:1px solid var(--border);}
+.etapa{border-bottom:1px solid var(--border);}
+.etapa button{width:100%;background:none;border:none;color:var(--cream);cursor:pointer;
+  display:flex;align-items:center;gap:24px;padding:22px 8px;text-align:left;font-family:var(--f-body);
+  transition:background .2s;}
+.etapa button:hover{background:rgba(235,152,60,.05);}
+.etapa .letra{font-family:var(--f-display);font-size:30px;font-weight:700;color:var(--bronze);
+  width:34px;flex-shrink:0;}
+.etapa .nome{font-family:var(--f-display);font-size:20px;flex:1;}
+.etapa .mais{font-family:var(--f-ui);font-size:22px;color:var(--bronze);transition:transform .3s;}
+.etapa.on .mais{transform:rotate(45deg);}
+.etapa .conteudo{max-height:0;overflow:hidden;transition:max-height .42s ease;}
+.etapa.on .conteudo{max-height:230px;}
+.etapa .conteudo p{padding:0 8px 24px 82px;color:var(--cream-light);font-size:16.5px;max-width:76ch;}
+@media(max-width:600px){.etapa .conteudo p{padding-left:8px;}}
+
+/* PLANOS */
+.planos{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:48px;}
+@media(max-width:820px){.planos{grid-template-columns:1fr;}}
+.plano{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:38px 34px;
+  transition:all .3s;}
+.plano:hover{border-color:var(--border-hi);}
+.plano.destaque{border-color:rgba(235,152,60,.42);background:rgba(235,152,60,.06);}
+.plano .tipo{font-family:var(--f-ui);font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--bronze);}
+.plano .preco{font-family:var(--f-display);font-size:44px;font-weight:600;color:var(--cream);margin:16px 0 4px;}
+.plano .preco small{font-size:17px;color:var(--cream-light);font-family:var(--f-body);}
+.plano .obs{font-size:14.4px;color:rgba(243,236,218,.6);margin-bottom:24px;}
+.plano ul{list-style:none;display:flex;flex-direction:column;gap:12px;margin-bottom:28px;}
+.plano li{font-size:16px;color:var(--cream-light);padding-left:24px;position:relative;}
+.plano li::before{content:"";position:absolute;left:0;top:9px;width:8px;height:8px;
+  border-radius:50%;background:var(--bronze);}
+.plano .btn{width:100%;padding:15px 20px;}
+
+/* FORM */
+.captura{background:rgba(2,7,14,.6);border:1px solid var(--border);border-radius:14px;
+  padding:52px 46px;text-align:center;max-width:720px;margin:0 auto;}
+.captura h3{margin-bottom:12px;text-wrap:balance;hyphens:none;}
+.captura p{color:var(--cream-light);max-width:48ch;margin:0 auto 30px;font-size:17px;}
+form{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;}
+input[type=email]{background:var(--surface);border:1px solid var(--border);border-radius:10px;
+  padding:15px 16px;color:var(--cream);font-family:var(--f-body);font-size:15.4px;
+  min-width:290px;flex:1;max-width:360px;transition:all .22s;}
+input[type=email]::placeholder{color:rgba(243,236,218,.45);}
+input[type=email]:focus{outline:none;border-color:var(--border-hi);box-shadow:rgba(235,152,60,.1) 0 0 0 2px;}
+.msg{margin-top:20px;font-family:var(--f-ui);font-size:14px;min-height:22px;}
+.msg.ok{color:var(--gold-muted);}
+.msg.erro{color:var(--bronze);}
+.nota-lgpd{font-size:13px;color:rgba(243,236,218,.4);margin-top:18px;}
+
+footer{border-top:1px solid var(--border);padding:52px 0 60px;background:var(--midnight);}
+.rodape{display:flex;justify-content:space-between;align-items:center;gap:28px;flex-wrap:wrap;}
+.rodape .ass{font-family:var(--f-display);font-size:16px;color:var(--amber);letter-spacing:.06em;}
+.rodape .fine{font-size:13px;color:rgba(243,236,218,.4);max-width:60ch;}
+</style>
+</head>
+<body>
+<canvas id="ceu"></canvas>
+
+<nav id="nav">
+  <a href="#topo" class="marca"><span class="anel"></span>ALUMIA</a>
+  <div class="nav-links">
+    <a href="#inimigo">O inimigo</a>
+    <a href="#pratica">A prática</a>
+    <a href="#formatos">Formatos</a>
+    <a href="#assinatura">Assinatura</a>
+    <a href="#lista" class="cta">Receber as práticas</a>
+  </div>
+</nav>
+
+<div class="wrap">
+
+<header class="hero" id="topo">
+  <span class="selo">Sistema prático de autogoverno</span>
+  <h1>Menos alarme,<br><em>mais presença.</em></h1>
+  <p class="lead">Seu corpo não sabe a diferença entre um chefe e uma onça. Ele responde à reunião com a mesma química que usaria num assalto, e não desliga quando o dia acaba. O Alumia desarma esse alerta.</p>
+  <div class="botoes">
+    <a href="#pratica" class="btn btn-p">Experimentar 30 segundos</a>
+    <a href="#formatos" class="btn btn-s">Conhecer o podcast</a>
+  </div>
+  <span class="rolagem">role para descer</span>
+</header>
+
+<section id="inimigo">
+  <div class="container reveal">
+    <div class="rotulo">O inimigo</div>
+    <h2>O ruído de sobrevivência</h2>
+    <p class="corpo">Você não sofre por falta de propósito. Você sofre porque o corpo está preso num alarme que não desliga. <strong>A tensão do dia vai para o travesseiro, tira o sono, e devolve no dia seguinte uma pessoa reativa, insegura e sem leitura do ambiente.</strong> Aí o ciclo recomeça.</p>
+    <div class="loop-grid" id="loop"></div>
+    <div class="loop-fecho">e o dia reativo produz mais cobrança, fechando o círculo</div>
+  </div>
+</section>
+
+<section class="navy">
+  <div class="container">
+    <div class="premissa reveal">
+      <div class="frase">O corpo é a mente materializada.</div>
+      <p>Não são duas coisas que se influenciam, é a mesma coisa em dois estados. O que a mente carrega aparece no maxilar travado, no ombro duro, na respiração curta, no sono que não vem. Por isso aqui não se entrega conselho, se muda estado.</p>
+    </div>
+  </div>
+</section>
+
+<section id="pratica">
+  <div class="container reveal">
+    <div class="rotulo">A prática</div>
+    <div class="respiro">
+      <div>
+        <h2>Experimente agora, em trinta segundos</h2>
+        <p class="corpo">Ninguém desliga esse alarme com raciocínio. Quando o corpo já está inundado de adrenalina, você não argumenta com o próprio maxilar. O corpo escuta outra língua, e a língua dele é a respiração.</p>
+        <p class="corpo">A regra é uma só: <strong>o ar precisa sair mais devagar do que entrou.</strong> Puxe pelo nariz e solte pela boca semiaberta, como se estivesse embaçando um vidro. Três vezes.</p>
+        <div class="ficha">
+          <div class="rot">O micro-hábito de hoje</div>
+          <div class="txt">Depois de fechar o laptop no fim do dia, expire longo três vezes.</div>
+        </div>
+      </div>
+      <div class="orbe-area">
+        <div class="orbe-caixa">
+          <div class="halo" id="halo"></div>
+          <div class="orbe" id="orbe"></div>
+        </div>
+        <div class="instr" id="instr">Pronto quando você estiver.</div>
+        <div class="contador" id="contador">3 respirações</div>
+        <button class="btn btn-p" id="btnRespira">Começar</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="formatos" class="navy">
+  <div class="container reveal">
+    <div class="rotulo">Os formatos</div>
+    <h2>Cada duração tem um desenho exato</h2>
+    <p class="corpo">Nada aqui tem tempo aleatório. Cada formato é dividido em blocos que conduzem o ouvinte da mente ao corpo, e do corpo de volta ao mundo. Escolha um bloco para ver a função dele.</p>
+    <div class="abas" id="abas"></div>
+    <div id="paineis"></div>
+  </div>
+</section>
+
+<section id="travessia">
+  <div class="container reveal">
+    <div class="rotulo">O quadro imersivo</div>
+    <h2>Travessia</h2>
+    <p class="corpo">Em vez de meditação guiada, uma narrativa em segunda pessoa onde você atravessa a experiência em vez de escutar sobre ela. O nome é o próprio método, porque cada letra é uma etapa do percurso.</p>
+    <div class="etapas" id="etapas"></div>
+  </div>
+</section>
+
+<section id="assinatura" class="navy">
+  <div class="container reveal">
+    <div class="rotulo">Assinatura</div>
+    <h2>O podcast é de graça. Sempre.</h2>
+    <p class="corpo">O episódio semanal e uma Travessia por mês ficam abertos para qualquer pessoa. A assinatura existe para quem quer o acervo completo de Travessias na mão, todas as noites.</p>
+    <div class="planos">
+      <div class="plano">
+        <div class="tipo">Gratuito</div>
+        <div class="preco">R$ 0</div>
+        <div class="obs">para sempre, sem cadastro</div>
+        <ul>
+          <li>Episódio novo toda semana, 21 minutos</li>
+          <li>Uma Travessia completa por mês</li>
+          <li>As práticas de 30 segundos por e-mail</li>
+        </ul>
+        <a href="#lista" class="btn btn-s">Começar a escutar</a>
+      </div>
+      <div class="plano destaque">
+        <div class="tipo">Acervo completo</div>
+        <div class="preco">R$ 24,90 <small>/mês</small></div>
+        <div class="obs">ou R$ 199,90 por ano, que sai a R$ 16,60 por mês</div>
+        <ul>
+          <li>Todas as Travessias completas, de 22 minutos</li>
+          <li>Todas as Travessias pocket, de 11 minutos</li>
+          <li>Acervo novo toda semana, sem anúncio nenhum</li>
+          <li>Trilhas por tema, do sono à conversa difícil</li>
+        </ul>
+        <a href="#lista" class="btn btn-p">Entrar na lista de espera</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="lista">
+  <div class="container">
+    <div class="captura reveal">
+      <h3>Uma prática por semana, no seu e-mail</h3>
+      <p>Sem promessa de transformação e sem enxurrada de mensagem. Uma prática de trinta segundos, com a fonte de onde ela veio.</p>
+      <form id="formLista" novalidate>
+        <input type="email" id="email" placeholder="seu@email.com" aria-label="Seu e-mail" required>
+        <button type="submit" class="btn btn-p">Quero receber</button>
+      </form>
+      <div class="msg" id="msg" role="status"></div>
+      <div class="nota-lgpd">Você sai da lista com um clique, em qualquer e-mail. Nada é compartilhado com terceiros.</div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container rodape">
+    <div>
+      <div class="ass">Menos alarme, mais presença.</div>
+      <div class="fine" style="margin-top:10px;">Alumia é conteúdo educacional e não substitui acompanhamento médico ou psicológico. Se você usa medicação para dormir ou para ansiedade, converse com quem te acompanha antes de mudar qualquer coisa.</div>
+    </div>
+    <div class="fine">© 2026 Alumia<br>Um projeto de Rafael Rangel</div>
+  </div>
+</footer>
+
+</div>
+
+<script>
+/* ---------- CÉU ---------- */
+(function(){
+  const c=document.getElementById('ceu'),x=c.getContext('2d');let e=[],w,h;
+  function dim(){w=c.width=innerWidth;h=c.height=innerHeight;
+    const n=Math.floor(w*h/9000);e=[];
+    for(let i=0;i<n;i++)e.push({x:Math.random()*w,y:Math.random()*h,r:Math.random()*1.25+.25,
+      a:Math.random()*.55+.12,v:Math.random()*.011+.003,f:Math.random()*Math.PI*2});}
+  function pinta(){x.clearRect(0,0,w,h);
+    for(const s of e){s.f+=s.v;const o=s.a+Math.sin(s.f)*.3;
+      x.beginPath();x.arc(s.x,s.y,s.r,0,6.2832);
+      x.fillStyle='rgba(253,195,102,'+Math.max(0,o)+')';x.fill();}
+    requestAnimationFrame(pinta);}
+  dim();pinta();addEventListener('resize',dim);
+})();
+
+/* ---------- REVELAR ---------- */
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add('vis');}),{threshold:.14});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+/* ---------- LOOP ---------- */
+const nos=[
+ {n:'01',t:'Cobrança do dia',d:'Reunião, prazo, conflito, mensagem às nove da noite.'},
+ {n:'02',t:'Corpo em alerta',d:'Cortisol, maxilar travado, respiração curta no alto do peito.'},
+ {n:'03',t:'Mente não desliga',d:'Você deita e a reunião começa de novo, agora na versão em que você respondeu melhor.'},
+ {n:'04',t:'Noite mal dormida',d:'Sem a faxina química que o sono faria na carga emocional do dia.'},
+ {n:'05',t:'Dia reativo',d:'Você trava, explode, se arrepende, e produz a cobrança de amanhã.'}
+];
+const gl=document.getElementById('loop');
+gl.innerHTML=nos.map((o,i)=>`<div class="no${i===0?' on':''}" data-i="${i}">
+  <div class="n">${o.n}</div><div class="t">${o.t}</div><div class="d">${o.d}</div></div>`).join('');
+let li=0,auto=setInterval(()=>{li=(li+1)%nos.length;marca(li);},2600);
+function marca(i){document.querySelectorAll('#loop .no').forEach((el,j)=>el.classList.toggle('on',j===i));}
+gl.addEventListener('click',ev=>{const el=ev.target.closest('.no');if(!el)return;
+  clearInterval(auto);li=+el.dataset.i;marca(li);});
+
+/* ---------- RESPIRAÇÃO ---------- */
+(function(){
+  const orbe=document.getElementById('orbe'),halo=document.getElementById('halo'),
+        instr=document.getElementById('instr'),cont=document.getElementById('contador'),
+        btn=document.getElementById('btnRespira');
+  let rodando=false;
+  const sleep=ms=>new Promise(r=>setTimeout(r,ms));
+  async function ciclo(){
+    rodando=true;btn.disabled=true;btn.textContent='Respirando...';
+    for(let i=1;i<=3;i++){
+      cont.textContent='respiração '+i+' de 3';
+      instr.textContent='Puxe pelo nariz';
+      orbe.classList.remove('expira');halo.classList.remove('expira');
+      orbe.classList.add('inspira');halo.classList.add('inspira');
+      await sleep(4000);
+      instr.textContent='Solte devagar pela boca';
+      orbe.classList.remove('inspira');halo.classList.remove('inspira');
+      orbe.classList.add('expira');halo.classList.add('expira');
+      await sleep(8000);
+    }
+    instr.textContent='Pronto. Notou o maxilar?';
+    cont.textContent='trinta e seis segundos';
+    btn.disabled=false;btn.textContent='Fazer de novo';rodando=false;
+  }
+  btn.addEventListener('click',()=>{if(!rodando)ciclo();});
+})();
+
+/* ---------- FORMATOS ---------- */
+const formatos=[
+ {id:'ep',nome:'Episódio · 21 min',soma:'3 + 5 + 4 + 9 = 21',cor:['#1C3B6B','#2A5590','#EB983C','#B9701F'],
+  blocos:[
+   {n:'3',min:'0:00 a 3:00',t:'O despertar intelectual',v:'Vibração 3 · mente consciente, clareza, memória',
+    d:'O gancho. Apresenta o conceito de forma leve e provocativa, estimula o intelecto e captura a atenção de imediato.'},
+   {n:'5',min:'3:00 a 8:00',t:'O impacto na pele',v:'Vibração 5 · centro da alma, emoção, liberdade',
+    d:'Humaniza o conceito com história real ou metáfora. Abre o portal dos sentimentos e desarma a defesa racional.'},
+   {n:'4',min:'8:00 a 12:00',t:'A estrutura do micro-hábito',v:'Vibração 4 · plano físico, ordem, utilidade',
+    d:'Do complexo ao simples: a engenharia da prática de trinta segundos, sem teoria, com o gancho na rotina que já existe.'},
+   {n:'9',min:'12:00 a 21:00',t:'A mente em ação e o chamado',v:'Vibração 9 · responsabilidade, idealismo, integridade',
+    d:'Expande a prática para o sentido de longo prazo e termina em chamado à responsabilidade. O último minuto retoma a prática, para que a última instrução seja ação.'}]},
+ {id:'tc',nome:'Travessia completa · 22 min',soma:'2 + 11 + 4 + 5 = 22',cor:['#1C3B6B','#2A5590','#EB983C','#0B1A33'],
+  blocos:[
+   {n:'2',min:'0:00 a 2:00',t:'Preparação e conexão',v:'Vibração 2 · sensibilidade, intuição, paz',
+    d:'Respiração guiada inicial. O corpo desacelera e se sintoniza para receber a história.'},
+   {n:'11',min:'2:00 a 13:00',t:'A jornada da alma',v:'Número mestre 11 · elevação e percepção',
+    d:'O conto inteiro, sem nenhuma interrupção racional. Onze minutos de narrativa que transportam para um cenário seguro.'},
+   {n:'4',min:'13:00 a 17:00',t:'Ancoragem prática',v:'Vibração 4 · ordem e estabilidade',
+    d:'A tradução da história em estrutura prática, e como ancorar aquele estado no dia seguinte.'},
+   {n:'5',min:'17:00 a 22:00',t:'Silêncio e integração',v:'Vibração 5 · liberdade emocional e paz',
+    d:'Fim da narração, só som ambiente. Integrar e Autoria acontecem aqui, sem palavra nenhuma, e se você adormecer é porque funcionou.'}]},
+ {id:'tp',nome:'Travessia pocket · 11 min',soma:'2 + 5 + 4 = 11',cor:['#1C3B6B','#EB983C','#B9701F'],
+  blocos:[
+   {n:'2',min:'0:00 a 2:00',t:'Desaceleração expressa',v:'Vibração 2 · repouso e sensibilidade',
+    d:'Respiração conduzida para quebrar o padrão de agitação e acalmar o sistema nervoso de imediato.'},
+   {n:'5',min:'2:00 a 7:00',t:'O ponto de luz',v:'Vibração 5 · mudança positiva, liberação',
+    d:'Uma micro-metáfora: imagem mental forte, curta, focada em desarmar o estresse e trazer alívio.'},
+   {n:'4',min:'7:00 a 11:00',t:'Aterramento e foco',v:'Vibração 4 · segurança prática e ordem',
+    d:'O retorno. Instrução firme para reabrir os olhos ancorado e pronto para agir. Aqui não existe silêncio, porque você volta ao mundo em seguida.'}]}
+];
+const abas=document.getElementById('abas'),paineis=document.getElementById('paineis');
+abas.innerHTML=formatos.map((f,i)=>`<button class="aba${i===0?' on':''}" data-i="${i}">${f.nome}</button>`).join('');
+paineis.innerHTML=formatos.map((f,i)=>{
+  const total=f.blocos.reduce((s,b)=>s+ +b.n,0);
+  return `<div class="painel${i===0?' on':''}" data-i="${i}">
+    <div class="barra">${f.blocos.map((b,j)=>`<div class="bloco${j===0?' on':''}" data-f="${i}" data-b="${j}"
+      style="flex:${b.n};background:${f.cor[j]};color:${j===2&&i!==2?'#1A1206':'#F3ECDA'}">
+      <span class="num">${b.n}</span><span class="min">min</span></div>`).join('')}</div>
+    <div class="legenda"><span>início</span><span>${total} minutos</span></div>
+    <div class="detalhe" id="det${i}"></div>
+    <div class="soma">${f.soma}</div></div>`;}).join('');
+function pintaDet(fi,bi){const b=formatos[fi].blocos[bi];
+  document.getElementById('det'+fi).innerHTML=`<h4>${b.t}</h4><div class="vib">${b.v} · ${b.min}</div><p>${b.d}</p>`;
+  document.querySelectorAll(`.painel[data-i="${fi}"] .bloco`).forEach((el,j)=>el.classList.toggle('on',j===bi));}
+formatos.forEach((f,i)=>pintaDet(i,0));
+abas.addEventListener('click',ev=>{const b=ev.target.closest('.aba');if(!b)return;
+  const i=+b.dataset.i;
+  document.querySelectorAll('.aba').forEach(a=>a.classList.toggle('on',a===b));
+  document.querySelectorAll('.painel').forEach(p=>p.classList.toggle('on',+p.dataset.i===i));});
+paineis.addEventListener('click',ev=>{const b=ev.target.closest('.bloco');if(!b)return;
+  pintaDet(+b.dataset.f,+b.dataset.b);});
+
+/* ---------- ETAPAS ---------- */
+const etapas=[
+ ['T','Tempo para si','Dedicar tempo é a condição de qualquer evolução. Nada se desenvolve sem tempo reservado.'],
+ ['R','Reconhecer-se no processo','O processo não existiria sem quem o percorre. Você é o caminho e o caminhante, e o caminho se faz caminhando.'],
+ ['A','Atenção','Focar em uma parte do processo por vez, sem tentar abarcar o todo.'],
+ ['V','Vivenciar','A escolha de se jogar na experiência, que é a permissão para tudo o que vem depois, porque sem ela nada acontece.'],
+ ['E','Experiência','Sair da teoria e sentir na pele.'],
+ ['S','Sentido','Encontrar o sentido daquilo, entender, se conectar, se enxergar dentro da experiência.'],
+ ['S','Simbolizar','Criar um símbolo que represente e cristalize o vivido, a peça nova do seu mosaico.'],
+ ['I','Integrar','O símbolo não fica apartado, ele entra. Uma parte de si que guarda o DNA da experiência, como uma tatuagem que conta uma história.'],
+ ['A','Autoria','Depois do percurso, você se torna autor da própria história e da própria travessia.']
+];
+document.getElementById('etapas').innerHTML=etapas.map((e,i)=>`<div class="etapa" data-i="${i}">
+  <button type="button"><span class="letra">${e[0]}</span><span class="nome">${e[1]}</span><span class="mais">+</span></button>
+  <div class="conteudo"><p>${e[2]}</p></div></div>`).join('');
+document.getElementById('etapas').addEventListener('click',ev=>{
+  const et=ev.target.closest('.etapa');if(!et)return;
+  const abrir=!et.classList.contains('on');
+  document.querySelectorAll('.etapa').forEach(x=>x.classList.remove('on'));
+  if(abrir)et.classList.add('on');});
+
+/* ---------- FORM ---------- */
+document.getElementById('formLista').addEventListener('submit',ev=>{
+  ev.preventDefault();
+  const i=document.getElementById('email'),m=document.getElementById('msg'),
+        v=i.value.trim(),ok=/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v);
+  if(!ok){m.className='msg erro';m.textContent='Confira o endereço, parece que faltou alguma coisa.';return;}
+  m.className='msg ok';m.textContent='Pronto. A primeira prática chega em instantes.';
+  i.value='';i.disabled=true;
+});
+
+/* ---------- NAV ---------- */
+addEventListener('scroll',()=>{const n=document.getElementById('nav');
+  n.style.background=scrollY>60?'rgba(2,7,14,.9)':'rgba(4,12,24,.72)';});
+</script>
+</body>
+</html>
