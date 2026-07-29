@@ -39,11 +39,11 @@ A estrutura proprietária, irmã dos 4 tempos da marca-mãe, com nomes do univer
 3. **CLARÃO** — o insight destilado em uma frase repetível.
 4. **BRASA** — a prática mínima que fica acesa no dia a dia: o micro-hábito no formato Fogg, porque ensinamento sem prática é fumaça.
 
-### Lume — a série imersiva (nome de trabalho)
+### Travessia — o quadro imersivo
 
-O segundo formato é a resposta ao tédio da meditação guiada: narrativa imersiva em segunda pessoa, onde a mente entra na cena e vive o ensinamento por dentro. A travessia de um deserto que ensina desapego sem nunca dizer a palavra desapego; uma casa de cômodos que são memórias; um rio que só deixa atravessar quem solta o que carrega. O ensinamento não é explicado, é vivido — e no fim de cada jornada fica uma âncora: um gesto de 30 segundos que traz o estado de volta no dia seguinte.
+O segundo formato é a resposta ao tédio da meditação guiada. O método está em [`travessia-metodo.md`](travessia-metodo.md), e o nome é o próprio acrônimo das nove etapas do percurso: narrativa imersiva em segunda pessoa, onde a mente entra na cena e vive o ensinamento por dentro. A travessia de um deserto que ensina desapego sem nunca dizer a palavra desapego; uma casa de cômodos que são memórias; um rio que só deixa atravessar quem solta o que carrega. O ensinamento não é explicado, é vivido — e no fim de cada jornada fica uma âncora: um gesto de 30 segundos que traz o estado de volta no dia seguinte.
 
-Episódios de 15 a 25 minutos, voz e desenho de som. O mercado valida a fresta: a escuta longa noturna é a maior oportunidade aberta que encontramos nos dados ("estoicismo para dormir": 50 mil buscas mensais com competição 27), os sleep stories internacionais (Calm) provam o formato há uma década, e ninguém no Brasil faz storytelling imersivo de verdade nessa faixa. O Lume pode ser a porta de descoberta do Alumia inteiro.
+Episódios de 15 a 25 minutos, voz e desenho de som. O mercado valida a fresta: a escuta longa noturna é a maior oportunidade aberta que encontramos nos dados ("estoicismo para dormir": 50 mil buscas mensais com competição 27), os sleep stories internacionais (Calm) provam o formato há uma década, e ninguém no Brasil faz storytelling imersivo de verdade nessa faixa. A Travessia pode ser a porta de descoberta do Alumia inteiro.
 
 ### A Biblioteca Alumia (subprojeto)
 
