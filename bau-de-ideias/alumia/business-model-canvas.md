@@ -1,10 +1,14 @@
-# Business Model Canvas — Alumia (v4)
+# Business Model Canvas — Alumia (v5)
 
-> Versão 4, 29/07/2026. Consolida A Única Coisa (Gary Keller): o Alumia é um sistema de autogoverno da mente acelerada. Um segmento, uma proposta, dois momentos do dia. Corrige a v3, que tratava plataformas pagantes como segmento de cliente e usava linguagem que só o autor entendia.
+> Versão 5, 29/07/2026. Consolida A Única Coisa (Gary Keller): o Alumia é um sistema de autogoverno da mente acelerada. Um segmento, uma proposta, dois momentos do dia. Corrige a v3, que tratava plataformas pagantes como segmento de cliente e usava linguagem que só o autor entendia.
 
 ## A Única Coisa
 
 **O Alumia ensina a desacelerar a mente e a recuperar o comando da própria atenção.**
+
+**A premissa que sustenta o método:** o corpo é a mente materializada. Não são duas coisas que se influenciam, é a mesma coisa em dois estados, e o que a mente carrega aparece no maxilar travado, no ombro duro, na respiração curta e no sono que não vem. Por isso o sistema não entrega conselho, entrega mudança de estado, e o estado se altera pelas duas portas: pelo corpo e pela atenção.
+
+**O inimigo:** o ruído de sobrevivência, o alarme biológico que não desliga porque o corpo não distingue a cobrança do chefe de uma ameaça real.
 
 Essa frase governa tudo. Não somos aplicativo de sono nem curso de comunicação, porque essas são duas consequências do mesmo problema, e o problema é o ruído mental.
 
