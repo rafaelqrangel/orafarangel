@@ -8,8 +8,8 @@ Travessia é o quadro de mindfulness com storytelling do AlumiaCast. O ouvinte n
 
 Dois usos, mesma estrutura:
 
-- **Travessia completa (22 min):** para escutar na cama, com a luz apagada.
-- **Travessia pocket (10 min):** para os minutos antes de uma reunião, uma conversa difícil ou uma decisão.
+- **Travessia completa (22 min, divisão 2-11-4-5):** para escutar na cama, com a luz apagada. Formato em [`formato-travessia-completa.md`](formato-travessia-completa.md).
+- **Travessia pocket (11 min, divisão 2-5-4):** para os minutos antes de uma reunião, uma conversa difícil ou uma decisão. Formato em [`formato-travessia-pocket.md`](formato-travessia-pocket.md).
 
 ## As nove etapas
 
@@ -27,18 +27,18 @@ Dois usos, mesma estrutura:
 
 ## Como as etapas distribuem no tempo
 
-**Completa (22 min):** T e R nos três primeiros minutos, para descer o corpo e reconhecer quem está ali. A e V até o minuto seis. E ocupa o maior bloco, do seis ao doze, porque é onde a narrativa acontece de verdade. S de sentido até o quinze. S de simbolizar e I de integrar do quinze ao vinte e dois, em ritmo lento e voz baixa. A de autoria fecha em uma frase.
+**Completa (22 min, divisão 2-11-4-5):** T e R na preparação de dois minutos. A, V e E dentro dos onze minutos de narrativa. S de sentido e S de simbolizar na ancoragem de quatro minutos. I de integrar e A de autoria nos cinco minutos finais de silêncio, sem narração.
 
-**Pocket (10 min):** T, R e A em dois minutos. V e E em quatro. Sentido em um e meio, símbolo e integração em dois. Autoria em uma frase. As etapas não desaparecem, só comprimem.
+**Pocket (11 min, divisão 2-5-4):** T e R na desaceleração de dois minutos. A, V e E nos cinco minutos da micro-metáfora. As quatro últimas etapas comprimidas no aterramento de quatro minutos, com narração firme, porque a pessoa volta ao mundo em seguida.
 
 ## Uma decisão de desenho da versão completa
 
-As três últimas etapas ficam de propósito no fim, quando a pessoa provavelmente já está adormecendo. Isso não é falha, é intenção: o símbolo é entregue no limiar e a consolidação acontece durante o sono, que é justamente quando o cérebro reprocessa o que viveu. A pessoa apaga carregando o símbolo, e ele desce com ela.
+Integrar e Autoria acontecem no bloco de silêncio, sem palavra nenhuma, quando a pessoa provavelmente já está adormecendo. Isso não é falha, é intenção: o símbolo é entregue no limiar e a consolidação acontece durante o sono, que é justamente quando o cérebro reprocessa o que viveu. A pessoa apaga carregando o símbolo, e ele desce com ela.
 
 Consequência prática de medição: na Travessia completa a taxa de conclusão não é métrica de sucesso, porque o objetivo é a pessoa dormir antes do fim. A métrica dela é retorno, ou seja, quantas noites ela volta.
 
 ## Relação com os outros formatos
 
-Um tema alimenta os três. O episódio de 21 minutos explica o mecanismo, a Travessia completa faz o ouvinte viver aquilo por dentro, e a Travessia pocket entrega a mesma âncora em versão de bolso para o momento crítico do dia.
+Um tema alimenta os três. O episódio de 21 minutos explica o mecanismo, a Travessia completa faz o ouvinte viver aquilo por dentro, e a Travessia pocket de 11 minutos entrega a mesma âncora em versão de bolso para o momento crítico do dia.
 
 Exemplo com o tema de estreia, "seu corpo achou que a reunião era um assalto": o episódio explica o alarme que não desliga; a Travessia completa leva a pessoa a atravessar um lugar onde ela percebe o corpo em alerta e o solta; a Travessia pocket é o gesto de trinta segundos com o símbolo criado na completa.

@@ -25,7 +25,11 @@ Respostas curtas, dinâmica de bate-bola. Rafael é empresário sem tempo: respo
 
 ## Regra obrigatória dos episódios do AlumiaCast
 
-Todo episódio padrão do AlumiaCast tem 21 minutos na divisão 3-5-4-9, conforme `bau-de-ideias/alumia/formato-episodio.md`. Nenhum roteiro entra em `bau-de-ideias/alumia/episodios/` sem declarar os blocos no cabeçalho e sem retomar a prática no último minuto.
+Os três formatos têm divisão de tempo obrigatória, e nenhum roteiro entra em `bau-de-ideias/alumia/episodios/` sem declarar os blocos no cabeçalho:
+
+- Episódio padrão: 21 minutos na divisão 3-5-4-9 (`formato-episodio.md`), retomando a prática no último minuto.
+- Travessia completa: 22 minutos na divisão 2-11-4-5 (`formato-travessia-completa.md`), com 11 minutos de narrativa sem interrupção e 5 de silêncio final.
+- Travessia pocket: 11 minutos na divisão 2-5-4 (`formato-travessia-pocket.md`), terminando em instrução de retorno.
 
 ## Fluxo de trabalho
 
