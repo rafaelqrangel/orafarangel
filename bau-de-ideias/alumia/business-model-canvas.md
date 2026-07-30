@@ -1,6 +1,6 @@
 # Business Model Canvas — Alumia (v9)
 
-> Versão 9, 29/07/2026. Formatos fechados com divisão numerológica obrigatória: episódio 21 min (3-5-4-9), Travessia completa 22 min (2-11-4-5), Travessia pocket 11 min (2-5-4). Decisões fechadas com o fundador: durações definitivas, nome único Travessia (Lume descontinuado), estrutura do episódio nos 4 tempos DOR-FONTE-INSIGHT-PROMPT, e preço da assinatura com base em benchmark de mercado. Assinatura oficial definida: "Menos alarme, mais presença." Consolida A Única Coisa (Gary Keller): o Alumia é um sistema de autogoverno da mente acelerada. Um segmento, uma proposta, dois momentos do dia. Corrige a v3, que tratava plataformas pagantes como segmento de cliente e usava linguagem que só o autor entendia.
+> Versão 9, 29/07/2026. Formatos fechados com divisão numerológica obrigatória: episódio 21 min (3-5-4-9), Travessia completa 22 min (2-11-4-5), Travessia pocket 10 min (1-5-4). Decisões fechadas com o fundador: durações definitivas, nome único Travessia (Lume descontinuado), estrutura do episódio nos 4 tempos DOR-FONTE-INSIGHT-PROMPT, e preço da assinatura com base em benchmark de mercado. Assinatura oficial definida: "Menos alarme, mais presença." Consolida A Única Coisa (Gary Keller): o Alumia é um sistema de autogoverno da mente acelerada. Um segmento, uma proposta, dois momentos do dia. Corrige a v3, que tratava plataformas pagantes como segmento de cliente e usava linguagem que só o autor entendia.
 
 ## A assinatura oficial
 
@@ -60,7 +60,7 @@ O que a pessoa recebe, na prática:
 | Momento | O que entregamos | O que ela ganha |
 |---|---|---|
 | À noite | **Travessia completa**: 22 minutos na divisão 2-11-4-5, com 11 minutos de narrativa contínua e 5 de silêncio final | Dorme sem remédio e sem tédio |
-| Durante o dia | Episódio de 21 minutos na divisão 3-5-4-9, mais a **Travessia pocket** de 11 minutos (2-5-4) e a prática de 30 segundos | Entra na reunião sem travar e responde sem se arrepender |
+| Durante o dia | Episódio de 21 minutos na divisão 3-5-4-9, mais a **Travessia pocket** de 10 minutos (1-5-4) e a prática de 30 segundos | Entra na reunião sem travar e responde sem se arrepender |
 | Quando quer se aprofundar | O livro difícil explicado em 20 minutos, com fonte creditada e indicação honesta | Sabe onde investir a leitura |
 
 **Por que escolheria o Alumia e não outro:** fonte verificável, linguagem sem jargão e instrução executável, sempre juntos. Aplicativo de meditação entrega prática sem entendimento, canal de filosofia entrega entendimento sem prática, e coach não entrega nenhum dos dois com fonte.
@@ -114,7 +114,7 @@ Definidos: a assinatura oficial, os três formatos com divisão de tempo obrigat
 
 ## 6. Atividades-Chave
 
-- Produzir os três formatos a partir do mesmo tema, cada um na sua divisão obrigatória: episódio de 21 min ([`formato-episodio.md`](formato-episodio.md)), Travessia completa de 22 min ([`formato-travessia-completa.md`](formato-travessia-completa.md)) e Travessia pocket de 11 min ([`formato-travessia-pocket.md`](formato-travessia-pocket.md)).
+- Produzir os três formatos a partir do mesmo tema, cada um na sua divisão obrigatória: episódio de 21 min ([`formato-episodio.md`](formato-episodio.md)), Travessia completa de 22 min ([`formato-travessia-completa.md`](formato-travessia-completa.md)) e Travessia pocket de 10 min ([`formato-travessia-pocket.md`](formato-travessia-pocket.md)).
 - Checar fontes e curar a bibliografia, que é o que sustenta a confiança.
 - Otimizar para busca: palavra-chave, título e descrição antes de publicar.
 - Operar a lista de e-mail e as sequências.

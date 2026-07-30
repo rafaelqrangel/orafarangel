@@ -29,7 +29,7 @@ Os três formatos têm divisão de tempo obrigatória, e nenhum roteiro entra em
 
 - Episódio padrão: 21 minutos na divisão 3-5-4-9 (`formato-episodio.md`), retomando a prática no último minuto.
 - Travessia completa: 22 minutos na divisão 2-11-4-5 (`formato-travessia-completa.md`), com 11 minutos de narrativa sem interrupção e 5 de silêncio final.
-- Travessia pocket: 11 minutos na divisão 2-5-4 (`formato-travessia-pocket.md`), terminando em instrução de retorno.
+- Travessia pocket: 10 minutos na divisão 1-5-4 (`formato-travessia-pocket.md`), terminando em instrução de retorno.
 
 ## Fluxo de trabalho
 
