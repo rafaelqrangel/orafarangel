@@ -28,6 +28,21 @@ Duas lições práticas do playbook deles:
 - **A cunha é o trabalho já terceirizado.** As pessoas já terceirizam a regulação: melatonina, ansiolítico, aplicativo de meditação genérico, terapia. O orçamento existe e a substituição é troca de fornecedor, e não mudança de hábito do zero.
 - **A convergência é o alerta.** O julgamento de hoje vira a inteligência de amanhã: à medida que os sistemas acumulam dados proprietários sobre o que é bom julgamento num domínio, a fronteira anda. Ou seja, o julgamento sozinho tampouco é refúgio permanente. O fosso do Alumia seria o dado que só ele teria: as narrativas macro das vidas dos assinantes, os momentos micro e o registro do que funcionou para quem. É esse acúmulo que nenhum modelo genérico replica.
 
+## A arquitetura do julgamento: as quatro virtudes cardeais
+
+Complemento de Rafael, 30/07/2026. Se o fosso é o dado proprietário sobre o que é bom julgamento, a inteligência do Alumia se arquiteta impreterivelmente sobre as quatro virtudes cardeais de Platão, começando pela prudência, que é o próprio bom julgamento. A filosofia que a marca prega vira o algoritmo de estrutura básica, e o motor de decisão fica coerente com o conteúdo que entrega.
+
+Um primeiro desenho de como cada virtude vira camada do motor:
+
+| Virtude | Pergunta que a camada responde | Função no motor |
+|---|---|---|
+| **Prudência** (phronesis) | Qual é a prática certa, para esta pessoa, agora? | A camada decisória central: cruza o macro e o micro e escolhe o caminho |
+| **Justiça** | Cada área da vida está recebendo o que lhe é devido? | O balanceador: impede que o sistema atenda só a dor que grita e abandone a que silencia |
+| **Fortaleza** | É hora de acolher ou de sustentar o desconforto? | O calibrador de intensidade: sabe quando a pessoa precisa de colo e quando precisa de coragem |
+| **Temperança** | Quanto é suficiente? | O limitador: dosa a prescrição, evita a dependência e guarda a fronteira da autoria, respondendo à pergunta aberta abaixo |
+
+A temperança é a resposta estrutural para o risco da terceirização da autoria: uma das quatro camadas existe exatamente para o sistema saber parar.
+
 ## Pergunta aberta
 
 Onde passa a linha entre o julgamento que o software entrega e o julgamento que é intransferível da pessoa? O autogoverno é, por definição, da pessoa. O Alumia decide a prática do dia, mas não pode decidir a vida, senão vira terceirização da autoria, que é o inverso do que pregamos. A fronteira precisa ficar explícita no desenho do produto.
