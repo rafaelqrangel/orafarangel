@@ -52,6 +52,50 @@ A voz entra sobre a subida e cala na descida. Quem escuta acaba respirando junto
 - Nível integrado entre -18 e -20 LUFS, com pico real em -3 dBTP. Fica abaixo do padrão de podcast de propósito, e a normalização das plataformas resolve o resto sem estragar a dinâmica interna.
 - Sem compressão que respire ou bombeie junto com a voz.
 
+## Narração do ambiente, para instruir uma IA de geração de áudio
+
+### Em português, para leitura e ajuste
+
+Um som grave já está no quarto antes de você perceber que ele começou. É um bordão contínuo de harmônio indiano, ar atravessando palhetas, com um contrabaixo tocado de arco muito devagar sustentando a mesma nota mais embaixo. São duas notas apenas, a tônica e a quinta, sem nenhuma terceira nota que diga se aquilo é alegre ou triste. Durante o minuto inteiro nada muda de harmonia e nada se resolve.
+
+O som respira. A cada doze segundos ele cresce por quatro, como se o quarto inspirasse, e recua por oito, sempre mais devagar do que subiu. Não existe batida, não existe melodia, não existe nenhuma nota que anuncie a próxima.
+
+Por baixo de tudo, num nível quase inaudível, corre um ruído grave e aveludado, do tipo que engole o barulho da geladeira e do cano da casa sem chamar atenção para si.
+
+O espaço é pequeno e próximo, do tamanho de um quarto com a porta fechada, e não de uma igreja. Os agudos são escuros, sem brilho, como fita magnética velha. Nada nesse som é bonito o bastante para ser notado, e é exatamente essa a intenção.
+
+### Em inglês, para colar direto no gerador
+
+```
+Deep sustained sleep drone. Indian shruti box and very slowly bowed double bass
+holding one open fifth — root and fifth only, no third, no chord changes ever.
+Fundamental around 130 Hz. Extremely slow breathing swell: the drone rises over
+4 seconds and falls back over 8 seconds, one full cycle every 12 seconds,
+repeating. No melody, no percussion, no rhythm, no vocals, no bells. Warm analog
+tape saturation, dark rolled-off highs. Small intimate bedroom reverb with a
+short 2-second tail, never a cathedral. A very quiet bed of brown noise
+underneath. Still, low, unchanging, hypnotic. Nothing builds, nothing resolves,
+nothing surprises. Seamlessly loopable.
+```
+
+Prompt negativo, se o gerador aceitar:
+
+```
+drums, percussion, melody, arpeggio, piano melody, vocals, choir, bells, chimes,
+singing bowl strikes, rain, thunder, risers, build-ups, crescendo, key change,
+bright high frequencies, sparkle, shimmer, long reverb tails, cinematic
+```
+
+### Ajustes prováveis depois da primeira geração
+
+Estes modelos tendem a três desvios com este tipo de pedido, e todos têm conserto no prompt:
+
+- **Insere melodia mesmo proibida.** Reforçar com "single sustained note only, no notes change".
+- **Deixa brilhante demais.** Acrescentar "muffled, as if heard through a wall" e "heavily filtered, dark".
+- **Faz o swell rápido demais.** Trocar a instrução por "almost imperceptible volume movement, glacial" e assumir que o crescimento e o decaimento serão desenhados na edição, com automação de volume, em vez de gerados.
+
+O caminho mais seguro é gerar o bordão estático e limpo, e desenhar a respiração de quatro por oito na automação depois. O modelo entrega bem a textura e mal o tempo.
+
 ## Uma nota de honestidade
 
 Existe um mercado inteiro vendendo frequências milagrosas, 432 Hz, 528 Hz e batidas binaurais com promessa de estado cerebral. A evidência disso é fraca e o Alumia não vende isso. Se a escolha da nota fundamental for feita por critério numerológico, ela é uma decisão de desenho e de coerência simbólica da marca, e é assim que se declara, jamais como efeito clínico.
