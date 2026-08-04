@@ -28,11 +28,17 @@ O mesmo vale para o bordão: um aplicativo de shruti box ou um sample de harmôn
 
 **Para o episódio padrão de 21 minutos: Descript.** É um trabalho diferente do da Travessia, porque ali não se montam camadas, se cortam hesitação e repetição. Editar apagando texto da transcrição transforma horas de trabalho em minutos. **Nunca passar a Travessia pelo Studio Sound dele**, porque em material muito silencioso e sussurrado esse processamento inventa artefato.
 
+## Limpeza e tratamento de voz
+
+**Primeira escolha: Adobe Podcast Enhance Speech.** Roda no navegador, tem camada gratuita e faz o trabalho que mais rende no começo: tira reverberação de sala, remove ruído de fundo e devolve a voz com clareza de estúdio a partir de uma gravação feita em quarto comum. Para quem grava em casa sem tratamento acústico, é a maior diferença de qualidade por real gasto que existe hoje. Fluxo recomendado: gravar bruto, passar pelo Enhance, e só então levar o arquivo tratado para a linha do tempo do GarageBand ou do Logic.
+
+**Segunda escolha: Auphonic.** Trabalha no episódio já montado, e não na voz isolada. Nivela os volumes entre voz, bordão e efeitos, normaliza o loudness para o padrão da plataforma e corta ruído residual. É o passo final antes de subir, e tem camada gratuita com horas mensais suficientes para começar.
+
+**O aviso que vale para os dois, e também para o Studio Sound do Descript:** em material sussurrado e muito silencioso, todo processamento desse tipo inventa artefato, e a Travessia é justamente esse tipo de material. Na Travessia, use o Enhance com moderação ou não use, e prefira gravar bem. Um armário com roupa, um sofá, um cobertor pendurado atrás do microfone: resolve mais do que qualquer limpeza depois, e não deixa rastro digital.
+
 ## Ferramentas avaliadas e descartadas
 
-**Moises.ai.** Empresa brasileira, e boa no que faz, mas o que ela faz é outra coisa: separação de faixas de uma música pronta, detecção de acordes, mudança de tom e de andamento, metrônomo. É ferramenta de músico que quer estudar uma canção, e não de quem monta episódio narrado. O único uso plausível aqui seria pegar uma faixa de referência e extrair só a camada de pad, sem a bateria, o que é caso raro e provavelmente resolvido gerando a textura do zero no Stable Audio.
-
-**Para limpeza de voz**, que é onde a curiosidade sobre o Moises normalmente nasce, existem opções melhores e mais diretas: o Enhance Speech do Adobe Podcast, gratuito e no navegador, e o Auphonic, que nivela e normaliza o episódio inteiro. Vale o mesmo aviso do Descript: **em material sussurrado e muito silencioso, todo processamento desse tipo inventa artefato**. Na Travessia, gravar bem em sala tratada vale mais do que qualquer limpeza depois.
+**Moises.ai.** Empresa brasileira, e boa no que faz, mas o que ela faz é outra coisa: separação de faixas de uma música pronta, detecção de acordes, mudança de tom e de andamento, metrônomo. É ferramenta de músico que quer estudar uma canção, e não de quem monta episódio narrado. O único uso plausível aqui seria pegar uma faixa de referência e extrair só a camada de pad, sem a bateria, o que é caso raro e provavelmente resolvido gerando a textura do zero no Stable Audio. Quem chega nele procurando limpeza de voz encontra coisa melhor na seção acima.
 
 ## Exportação para o Spotify for Creators
 
@@ -43,7 +49,7 @@ O mesmo vale para o bordão: um aplicativo de shruti box ou um sample de harmôn
 
 ## Ordem de gasto
 
-1. **Agora, para a primeira Travessia: nada.** Um aplicativo de shruti box de alguns reais, efeitos do Freesound e do arquivo da BBC, montagem no GarageBand. Publicar primeiro, comprar ferramenta depois.
+1. **Agora, para a primeira Travessia: nada.** Um aplicativo de shruti box de alguns reais, efeitos do Freesound e do arquivo da BBC, voz pelo Adobe Enhance na camada gratuita, montagem no GarageBand. Publicar primeiro, comprar ferramenta depois.
 2. **Primeira assinatura, quando a produção virar semanal:** biblioteca com direitos liberados, tipo Epidemic Sound ou Artlist, que cobre música, ambiência e efeitos numa conta só e elimina o risco de direito autoral.
 3. **Stable Audio:** quando fizer falta textura que biblioteca nenhuma tem, ou quando a assinatura sonora exclusiva do Alumia virar decisão de marca em vez de necessidade de produção.
 4. **Descript:** quando o episódio padrão semanal estiver rodando e o gargalo passar a ser o tempo de corte de fala.
