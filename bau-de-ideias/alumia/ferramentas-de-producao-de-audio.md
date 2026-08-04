@@ -22,9 +22,17 @@ O mesmo vale para o bordão: um aplicativo de shruti box ou um sample de harmôn
 
 **Para a Travessia, primeira escolha: GarageBand.** Já vem no Mac, é gratuito, faz multipista e faz **automação de volume**, que é o requisito inegociável: a respiração de quatro segundos subindo e oito descendo se desenha na curva de volume da linha do tempo. Uma faixa para a voz, uma para o bordão, uma para os efeitos, e cada passo na areia colocado no segundo exato em que a narração o menciona.
 
-**Segunda escolha, quando o GarageBand doer: Reaper.** Licença barata de compra única, roda no Mac, é o padrão de quem faz podcast a sério e não tem limite de faixas nem de automação. A curva de aprendizado é mais íngreme e o momento de migrar é quando a montagem começar a levar mais tempo por limitação da ferramenta do que por decisão criativa. Quem preferir ficar no ecossistema Apple pode ir de Logic Pro, também compra única.
+**Segunda escolha, quando o GarageBand doer: Logic Pro.** Compra única, sem assinatura, e a razão de estar acima do Reaper é específica do nosso caso: projeto do GarageBand abre direto no Logic, e a interface é a mesma lógica crescida, então a migração custa quase nada em tempo de aprendizado. Para quem começa no GarageBand e não quer virar técnico de áudio, é o caminho natural.
+
+**O Reaper fica em terceiro, e só por perfil.** É mais barato, roda em qualquer máquina, aceita script e tem a melhor matriz de exportação do mercado, que gera de uma vez a Travessia completa, a pocket e os cortes para Reels. Tudo isso vale muito para quem gosta de configurar ferramenta, e vale pouco para quem quer montar episódio. Vale reconsiderar se a produção for terceirizada para um editor que já trabalhe nele, ou se um dia sair do Mac, já que o Logic é exclusivo da Apple.
 
 **Para o episódio padrão de 21 minutos: Descript.** É um trabalho diferente do da Travessia, porque ali não se montam camadas, se cortam hesitação e repetição. Editar apagando texto da transcrição transforma horas de trabalho em minutos. **Nunca passar a Travessia pelo Studio Sound dele**, porque em material muito silencioso e sussurrado esse processamento inventa artefato.
+
+## Ferramentas avaliadas e descartadas
+
+**Moises.ai.** Empresa brasileira, e boa no que faz, mas o que ela faz é outra coisa: separação de faixas de uma música pronta, detecção de acordes, mudança de tom e de andamento, metrônomo. É ferramenta de músico que quer estudar uma canção, e não de quem monta episódio narrado. O único uso plausível aqui seria pegar uma faixa de referência e extrair só a camada de pad, sem a bateria, o que é caso raro e provavelmente resolvido gerando a textura do zero no Stable Audio.
+
+**Para limpeza de voz**, que é onde a curiosidade sobre o Moises normalmente nasce, existem opções melhores e mais diretas: o Enhance Speech do Adobe Podcast, gratuito e no navegador, e o Auphonic, que nivela e normaliza o episódio inteiro. Vale o mesmo aviso do Descript: **em material sussurrado e muito silencioso, todo processamento desse tipo inventa artefato**. Na Travessia, gravar bem em sala tratada vale mais do que qualquer limpeza depois.
 
 ## Exportação para o Spotify for Creators
 
