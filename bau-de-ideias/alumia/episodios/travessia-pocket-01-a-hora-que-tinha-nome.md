@@ -14,11 +14,11 @@
 | Item | Conteúdo |
 |---|---|
 | Momento do mapa | 2h da manhã, acordar e não conseguir voltar a dormir |
-| Fonte milenar | A vigília entre o primeiro e o segundo sono, documentada por Roger Ekirch em *At Day's Close* |
-| Natureza da peça | Imersão em segunda pessoa, presente. O ouvinte atravessa a cena, não assiste |
-| Símbolo criado | **A vigília** |
-| Instrução de retorno | Ajeitar-se debaixo da coberta sem tentar dormir e sem olhar as horas |
-| Descrição em uma linha | Você acorda no meio da noite numa casa de duzentos anos atrás, onde acordar de madrugada era comum e tinha nome |
+| Fonte milenar | A vigília, a hora entre dois sonos que os antigos conheciam pelo nome |
+| Natureza da peça | Encantamento em segunda pessoa, presente. A noite é quem cuida, e o ouvinte é cuidado |
+| Símbolo criado | **A vigília, a hora em que a noite segura você** |
+| Instrução de retorno | Ajeitar-se debaixo da coberta e deixar a noite terminar o trabalho |
+| Descrição em uma linha | Você acorda de madrugada e descobre que essa hora é um lugar encantado, feito para tirar o peso de quem chega nele |
 
 ---
 
@@ -26,7 +26,7 @@
 
 Marcações: (3s), (5s), (8s) são pausas com a duração indicada · MAIÚSCULA é palavra dita mais grave e mais devagar · não ler nada entre colchetes.
 
-**Regra de locução:** segunda pessoa e presente do começo ao fim da travessia. Nenhuma instrução técnica dentro do bloco 2: a atenção plena acontece porque a cena obriga os sentidos, um por vez, e não porque alguém manda reparar em algo.
+**Regra de locução:** voz baixa, quente e sem pressa, descendo a cada bloco. Tudo em segunda pessoa e no presente. A cena só tem beleza, proteção e leveza: nada frio, nada estranho, nada que exija esforço de quem escuta.
 
 [O bordão já está tocando quando a voz entra. Nunca abrir em silêncio.]
 
@@ -34,19 +34,19 @@ Marcações: (3s), (5s), (8s) são pausas com a duração indicada · MAIÚSCULA
 
 ### BLOCO 1 — DESACELERAÇÃO EXPRESSA · 0:00 a 1:00 · vibração 1
 
-Você acordou, e a casa está em silêncio.
+Você acordou no meio da noite.
 
 (3s)
 
-Você não fez nada de errado. Vem comigo.
+E eu vim te buscar, porque essa hora guarda um segredo, e ele é seu.
 
 (4s)
 
-Puxa o ar pelo nariz, devagar.
+Antes, o ar. Puxa pelo nariz, devagar.
 
 (4s)
 
-E solta pela boca, mais devagar do que entrou.
+E solta pela boca, mais devagar ainda.
 
 (8s)
 
@@ -58,11 +58,11 @@ E SOLTA.
 
 (8s)
 
-Agora deixa os olhos fechados.
+Isso. E a cada vez que o ar sai, alguma coisa em você já vai ficando mais macia.
 
-(3s)
+(4s)
 
-Porque quando eles se abrirem de novo, vai ser em outro lugar.
+Deixa os olhos fechados. A noite faz o resto.
 
 (5s)
 
@@ -70,107 +70,99 @@ Porque quando eles se abrirem de novo, vai ser em outro lugar.
 
 ### BLOCO 2 — O PONTO DE LUZ · 1:00 a 6:00 · vibração 5
 
-Você abre os olhos no escuro, e a primeira coisa que sente é o peso.
+Imagina que a noite abre uma porta só para você.
 
 (4s)
 
-Uma coberta de lã, grossa, pesada de um jeito que a sua não é. Ela desce sobre o seu peito inteiro, e prende um calor antigo aí embaixo, um calor de horas.
+E do outro lado dela, os seus pés descalços tocam uma areia fina e fresca, que recebe cada passo como se já esperasse por ele.
 
 (5s)
 
-O ar que toca o seu rosto é frio. Só o rosto está de fora, e a diferença entre o frio de fora e o quente de dentro desenha exatamente onde o seu corpo termina.
+Você está num deserto de madrugada, e ele não se parece com nada que te contaram sobre desertos. É macio, é silencioso, e é seu.
 
 (5s)
 
-Você está numa cama que não é a sua, numa noite de duzentos anos atrás.
-
-(5s)
-
-Cheira a lenha apagada, a lã, a sebo de vela. Debaixo de você, um colchão de palha se ajeita quando você respira, com um som seco de capim.
-
-(5s)
-
-E está escuro de um jeito que você nunca viu. Nenhuma fresta de poste, nenhum ponto de luz de aparelho. Um escuro inteiro, sem furo, do teto ao chão.
-
-(8s)
-
-Você dormiu quatro horas, pesado, e acordou.
+Você olha para cima.
 
 (4s)
 
-E aqui, isso não assusta. Você sabe onde está. Esta é a hora que tem nome.
-
-(5s)
-
-É a VIGÍLIA.
+E o céu inteiro está coberto de estrelas, tantas, tão juntas, que mais parecem um mar de pérolas derramado de ponta a ponta. Uma luz prateada e mansa desce delas e ilumina tudo sem ferir os olhos.
 
 (8s)
 
-Do outro lado da parede, um animal grande muda o peso de uma pata para a outra, sem pressa. Um cachorro suspira no chão, perto da porta.
+Um vento morno passa por você. Ele tem cheiro de noite limpa.
 
 (5s)
 
-Você escuta a respiração de quem dorme na mesma cama, comprida e funda, e o seu peito, sem pedir licença, começa a descer no mesmo ritmo.
-
-(8s)
-
-Você desliza para fora da coberta e senta.
+E esse vento sabe fazer uma coisa que nenhum outro vento sabe.
 
 (4s)
 
-Os seus pés descem até o chão de terra batida. Frio, liso, duro do jeito bom, um chão que aguenta você há mais tempo do que qualquer casa que você conheceu.
-
-(5s)
-
-Você atravessa o quarto no escuro, com a mão tocando a parede. A parede é grossa, fria, de barro, e vai passando debaixo dos seus dedos.
-
-(5s)
-
-Na cozinha, você se agacha diante do fogão de pedra e afasta a cinza com um ferro.
-
-(4s)
-
-Embaixo dela, as brasas ainda estão vivas. Um laranja fundo, que pulsa devagar, como uma coisa dormindo.
-
-(5s)
-
-O calor sobe e encosta no seu rosto. O teto ganha um pouco de cor.
+Ele passa de leve pela sua cabeça, e vai levando os pensamentos, um por um, como nuvens que se desfazem no céu. Aquele pensamento que estava dando voltas... ele afina, fica transparente... e se desmancha, devagar, na direção das estrelas.
 
 (8s)
 
-É a hora da vigília, e ela é sua.
-
-(4s)
-
-Ninguém no mundo está esperando nada de você agora. Quem divide a casa com você dorme. O dia de ontem já fechou as contas, e o de amanhã ainda não abriu as dele.
-
-(5s)
-
-Você fica ali, agachado diante das brasas, com o sonho de agora há pouco ainda morno na cabeça, passando ele de um lado para o outro como uma pedra lisa na mão.
+Você nem precisa soltar. O vento leva.
 
 (8s)
 
-Lá fora, um vizinho acordou também. Você sabe, porque todo mundo acorda nessa hora. Em alguma cozinha da vila, outra cinza está sendo afastada de outra brasa.
+Você caminha um pouco, sem pressa nenhuma, e a areia vai guardando as suas pegadas como quem guarda uma lembrança boa.
 
 (5s)
 
-Você não está fazendo nada de errado. Você está fazendo o que todo mundo fez, todas as noites, por milhares de anos.
-
-(8s)
-
-Então, sem ninguém mandar, o seu corpo avisa que está pronto.
+Mais adiante, uma duna baixa se ergue do chão, com a forma exata do seu corpo.
 
 (4s)
 
-Um peso bom desce sobre os olhos. Você cobre as brasas de cinza outra vez, atravessa o quarto de volta com a mão na parede, e entra debaixo da lã.
+Você se deita nela.
 
 (5s)
 
-O calor de horas ainda está lá, guardado, esperando você.
+E a areia recebe o seu peso inteiro. As costas afundam um dedo, o quanto precisa, e param num encaixe perfeito. Os ombros descem. Os braços repousam. O deserto inteiro está segurando você, com a força calma de quem segura há milhões de anos.
+
+(8s)
+
+Você olha o mar de pérolas lá em cima.
+
+(4s)
+
+E percebe que uma estrela pisca mais devagar que as outras, no mesmo ritmo da sua respiração. Quando o ar sai, ela fica um pouco mais suave. Quando o ar entra, ela acende de novo, baixinho.
+
+(8s)
+
+O peso dos seus ombros, aquele que você carregou o dia inteiro, escorre para a areia como água morna.
 
 (5s)
 
-E o segundo sono vem vindo, vem vindo devagar, do jeito que as coisas vêm quando ninguém está atrás delas.
+E a areia aceita. Ela é funda o bastante para guardar qualquer peso do mundo.
+
+(8s)
+
+Essa hora em que você está agora tem um nome antigo.
+
+(4s)
+
+Os antigos chamavam de VIGÍLIA.
+
+(5s)
+
+A hora em que o mundo dorme, ninguém espera nada de ninguém, e a noite cuida de quem acorda. Eles conheciam esse lugar. Vinham até aqui, deitavam sob esse mesmo céu, e voltavam para o sono mais leves do que chegaram.
+
+(8s)
+
+É o que está acontecendo com você agora.
+
+(5s)
+
+Mais leve a cada volta do ar.
+
+(8s)
+
+E as estrelas, uma a uma, começam a se apagar de mansinho, como velas que a noite sopra com cuidado. O céu vai ficando de veludo. O vento morno dá a última volta e se aquieta.
+
+(8s)
+
+A noite está fechando a porta, devagar, para você dormir.
 
 (8s)
 
@@ -178,47 +170,39 @@ E o segundo sono vem vindo, vem vindo devagar, do jeito que as coisas vêm quand
 
 ### BLOCO 3 — ATERRAMENTO E FOCO FÍSICO · 6:00 a 10:00 · vibração 4
 
-Agora repara: a coberta que pesa sobre você neste momento é a SUA.
+E do outro lado da porta, a sua cama recebe você de volta.
 
 (5s)
 
-A cama é a sua, o quarto é o seu. E a hora é a mesma.
+O colchão te segura do jeito que a duna segurava. A coberta desce sobre você com o mesmo peso bom. O quarto é o seu, o escuro é manso, e a hora ainda é a mesma.
+
+(8s)
+
+A VIGÍLIA. Agora você conhece o nome dela, e sabe o caminho.
+
+(8s)
+
+Na próxima vez que você acordar de madrugada, não é um problema que chegou. É essa porta que se abriu.
 
 (5s)
 
-A mesma hora em que aquela casa inteira acordava sem susto, a poucos minutos dos sonhos, esperando o segundo sono chegar.
+O deserto estará lá, o mar de pérolas estará lá, e o vento que leva os pensamentos também.
 
 (8s)
 
-A luz elétrica apagou o nome dela, e inventou a ideia de que a noite deveria ser um bloco só, sem emenda. A ideia é nova. O seu corpo é antigo.
-
-(8s)
-
-Então guarda uma palavra desta noite.
+Por esta noite, o seu trabalho acabou.
 
 (5s)
 
-VIGÍLIA.
+Você não precisa tentar dormir. Não precisa olhar as horas. Não precisa conferir nada.
 
 (8s)
 
-Na próxima vez que você abrir os olhos no meio da noite, antes de qualquer outra coisa, dá esse nome ao que está acontecendo. Chegou a vigília.
+A noite termina o serviço sozinha, como terminou por milhares de anos.
 
 (5s)
 
-A mesma coisa sem nome vira ameaça. Com nome, vira um lugar onde você já esteve.
-
-(8s)
-
-E dentro dela não se faz nada.
-
-(5s)
-
-Você não vai tentar dormir. Não vai olhar as horas. Não vai conferir se funcionou.
-
-(8s)
-
-Se ajeita debaixo da coberta, do jeito que você acabou de se ajeitar lá.
+Se ajeita debaixo da coberta.
 
 (5s)
 
@@ -226,38 +210,40 @@ Deixa o ar sair devagar, mais devagar do que entrou.
 
 (8s)
 
-E espera o segundo sono.
+E os pensamentos que ainda restarem... o vento conhece cada um deles pelo nome... e vai levando... um a um... como nuvens se desfazendo num céu que já está quase todo apagado.
+
+(8s)
+
+O sono vem vindo.
 
 (5s)
 
-Ele vem sozinho, porque ninguém está atrás dele.
+Ele sabe o caminho até você.
 
 (8s)
 
 Boa noite.
 
-[A voz sai. O bordão continua sozinho por mais 30 a 40 segundos e some numa queda tão lenta que não se percebe onde começou.]
+[A voz sai quase em sussurro. O bordão continua sozinho por mais 30 a 40 segundos e some numa queda tão lenta que não se percebe onde começou.]
 
 ---
 
 ## Notas de produção
 
-**Métrica.** Segue a divisão obrigatória 1-5-4 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md). O bloco 2 tem cerca de 480 palavras e cerca de 130 segundos somados de pausa. Cronometrar bloco a bloco: se fechar antes da marca, alongar as pausas entre parágrafos, nunca acrescentar texto.
+**Métrica.** Segue a divisão obrigatória 1-5-4 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md). O bloco 2 tem cerca de 470 palavras e cerca de 150 segundos somados de pausa. Cronometrar bloco a bloco: se fechar antes da marca, alongar as pausas entre parágrafos, nunca acrescentar texto.
 
-**Onde entram as nove etapas.** Tempo para si e Reconhecer-se no bloco 1. Atenção, Vivenciar e Experiência nos cinco minutos dentro da casa. Sentido, Simbolizar, Integrar e Autoria comprimidos no bloco 3, com narração, porque a pocket não tem silêncio.
+**Onde entram as nove etapas.** Tempo para si e Reconhecer-se no bloco 1. Atenção, Vivenciar e Experiência nos cinco minutos do deserto. Sentido, Simbolizar, Integrar e Autoria comprimidos no bloco 3, com narração, porque a pocket não tem silêncio.
 
-**O conceito que este roteiro existe para cumprir.** Storytelling com mindfulness: o ouvinte está DENTRO da cena, em segunda pessoa e no presente, e a atenção plena acontece porque a cena obriga os sentidos um por vez, nunca porque alguém manda reparar em algo. O peso da lã, o frio no rosto, a palha que se ajeita, o chão de terra nos pés, a parede passando debaixo dos dedos, o laranja das brasas. Cada parágrafo entrega um sentido, e a instrução técnica não existe. Referência conceitual de execução: as Sleep Stories do Calm, como *Blue Gold* com Stephen Fry, onde quem escuta viaja em vez de receber exercício.
+**O conceito que este roteiro existe para cumprir.** Encantamento. A pessoa que acorda às três da manhã quer proteção e mágica: alguém que tire os pensamentos da cabeça dela e o peso dos ombros. Por isso a noite é personagem que cuida, o vento leva os pensamentos sem que ela precise soltar nada, a areia aceita qualquer peso, e as estrelas se apagam como velas sopradas com cuidado. Nada na cena é frio, estranho ou realista. Referência conceitual de execução: as Sleep Stories do Calm, como *Blue Gold* com Stephen Fry.
 
-**O desenho escondido da cena.** A sequência sensorial do bloco 2 é, na prática, um body scan disfarçado de história: peito, rosto, costas, pés, mãos, olhos. E a respiração de quem dorme ao lado, que o peito do ouvinte acompanha "sem pedir licença", é o pacing respiratório entregue dentro da narrativa. Nada disso se anuncia, tudo isso se faz.
+**A linguagem de sugestão, mapeada.** O roteiro usa técnica hipnótica de ponta a ponta, e cada escolha é deliberada: pacing and leading nas três respirações que viram "alguma coisa em você já vai ficando mais macia"; a metáfora central dos pensamentos como nuvens que o vento desfaz, repetida na abertura e no fechamento como âncora; pressuposição de resultado em "mais leve a cada volta do ar" e "o sono vem vindo, ele sabe o caminho até você"; transferência de responsabilidade em "você nem precisa soltar, o vento leva" e "a noite termina o serviço sozinha", que retira da pessoa o esforço de dormir, exatamente o esforço que a mantém acordada; e a estrela que pisca no ritmo da respiração como pacing respiratório dentro da cena. A PNL entra como ofício de escrita e locução. Como teoria da mente ela não tem validação científica, e o Alumia jamais a vende como se tivesse.
 
-**Exceção de tom.** O formato pocket pede voz firme e direta, porque foi escrito para o resgate do meio do dia. Este episódio inverte: a instrução de retorno é voltar a dormir, e a voz desce em ritmo e volume a cada bloco. A firmeza aparece só nas três negativas do bloco 3, que precisam soar como permissão, jamais como ordem.
+**O que sustenta o resto.** A vigília aparece como nome antigo da hora entre dois sonos, sem aula de história: os antigos a conheciam, e é tudo que a cena precisa. O registro histórico é de Roger Ekirch, em *At Day's Close*. As três negativas do bloco 3, sobre não tentar, não olhar as horas e não conferir, vêm da terapia cognitivo-comportamental para insônia, e aqui são ditas como quem dispensa alguém do trabalho, nunca como ordem.
 
-**O que sustenta a história.** O primeiro e o segundo sono, a vigília, as brasas cobertas de cinza, o dormir coletivo e o acordar sem susto vêm do historiador Roger Ekirch, da Virginia Tech, em *At Day's Close*. O registro histórico é sólido, e a leitura de que esse seria o padrão natural do corpo humano ainda é debatida, por isso o bloco 3 diz o que as pessoas faziam e nunca o que o corpo do ouvinte deveria fazer. A proibição de tentar dormir e de olhar o relógio vem da terapia cognitivo-comportamental para insônia. Nomear a experiência para reduzir a ativação é prática conhecida, apresentada como gesto, sem citar nervo, frequência ou onda cerebral.
+**Desenho de som.** Bordão de quinta aberta conforme [`../som-abertura-travessia-pocket.md`](../som-abertura-travessia-pocket.md), com a respiração de quatro subindo e oito descendo alinhada às respirações do bloco 1. A partir do bloco 2, swell reduzido à metade. Aqui vale acrescentar uma camada de brilho muito discreta e aguda nos momentos do céu estrelado, tipo sino de vento distante ou harmônicos de taça, sempre por baixo do bordão e nunca em primeiro plano.
 
-**Desenho de som.** Bordão de quinta aberta conforme [`../som-abertura-travessia-pocket.md`](../som-abertura-travessia-pocket.md), com respiração de quatro segundos subindo e oito descendo alinhada às duas respirações do bloco 1. A partir do bloco 2, swell reduzido à metade e bordão quase parado.
+**Efeitos.** Quase nenhum. O vento morno pode existir como camada contínua e muito baixa a partir da metade do bloco 2, entrando junto com o texto que o apresenta. Nada de passos na areia, porque som pontual no escuro vira sobressalto. Nenhum efeito aparece sozinho em trecho silencioso.
 
-**Efeitos.** No máximo três, gravados e nunca gerados, entrando e saindo por baixo do bordão: a palha seca quando o texto fala do colchão, a brasa quando a cinza é afastada, o suspiro do cachorro. Nada de vento, chuva ou trovão, e nenhum efeito sozinho em trecho silencioso, porque no escuro isso vira sobressalto.
+**Cortes derivados.** Para Reels e Shorts, o mais forte é o trecho do vento que leva os pensamentos como nuvens. Em segundo, o céu como mar de pérolas com a estrela que respira junto. Em terceiro, "a noite cuida de quem acorda".
 
-**Cortes derivados.** Para Reels e Shorts, o mais forte é a abertura da cena, do peso da lã até "esta é a hora que tem nome". Em segundo, "a ideia é nova, o seu corpo é antigo". Em terceiro, "a mesma coisa sem nome vira ameaça, com nome vira um lugar onde você já esteve".
-
-**Relação com a Travessia completa.** [`travessia-completa-01-a-hora-que-tinha-nome.md`](travessia-completa-01-a-hora-que-tinha-nome.md) compartilha mundo e símbolo com esta pocket, mas está escrita em modo documentário e precisa ser reescrita nesta mesma imersão em segunda pessoa antes de gravar. A completa expande a mesma noite: mais tempo dentro da casa, a conversa sussurrada, a ida à janela, o retorno ao segundo sono em câmera mais lenta.
+**Relação com a Travessia completa.** [`travessia-completa-01-a-hora-que-tinha-nome.md`](travessia-completa-01-a-hora-que-tinha-nome.md) precisa ser reescrita neste mesmo registro de encantamento antes de gravar: a versão atual está em modo documentário. A completa expande a mesma noite com mais tempo dentro do deserto, outros lugares dele, e o silêncio final de cinco minutos.
