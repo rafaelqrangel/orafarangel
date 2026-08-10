@@ -282,4 +282,4 @@ Boa noite.
 
 **Cortes derivados.** Para Reels e Shorts, o trecho mais forte é "chamavam aquilo de primeiro sono, e chamavam assim porque havia um segundo". Em segundo, "a ideia é nova, o corpo é antigo". Em terceiro, "o sono voltava sozinho, do jeito que as coisas voltam quando ninguém está atrás delas".
 
-**Peça derivada.** A Travessia pocket de dez minutos sobre o mesmo tema reaproveita o símbolo da vigília, conforme a regra de derivação do formato, e é escrita depois desta, para que a âncora já esteja reconhecida quando a pessoa recorrer à versão curta às três da manhã.
+**Peça derivada.** A Travessia pocket de onze minutos sobre o mesmo tema reaproveita o símbolo da vigília, conforme a regra de derivação do formato, e é escrita depois desta, para que a âncora já esteja reconhecida quando a pessoa recorrer à versão curta às três da manhã.

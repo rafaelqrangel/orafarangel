@@ -1,9 +1,9 @@
 # Travessia pocket, episódio 1
 
 **Título:** A hora que tinha nome
-**Título de publicação:** Como voltar a dormir depois de acordar de madrugada | Travessia de 10 minutos
-**Duração alvo:** 10 minutos (1 · 5 · 4)
-**Blocos:** desaceleração 0:00-1:00 · ponto de luz 1:00-6:00 · aterramento 6:00-10:00
+**Título de publicação:** Como voltar a dormir depois de acordar de madrugada | Travessia de 11 minutos
+**Duração alvo:** 11 minutos (2 · 5 · 4)
+**Blocos:** desaceleração 0:00-2:00 · ponto de luz 2:00-7:00 · aterramento 7:00-11:00
 **Data:** 30/07/2026
 **Formato:** Travessia pocket, narração e desenho de som, sem bloco de silêncio
 
@@ -32,7 +32,7 @@ Marcações: (3s), (5s), (8s) são pausas com a duração indicada · MAIÚSCULA
 
 ---
 
-### BLOCO 1 — DESACELERAÇÃO EXPRESSA · 0:00 a 1:00 · vibração 1
+### BLOCO 1 — DESACELERAÇÃO EXPRESSA · 0:00 a 2:00 · vibração 2
 
 Você acordou.
 
@@ -58,17 +58,33 @@ E SOLTA.
 
 (8s)
 
+Mais uma. Puxa fundo.
+
+(4s)
+
+E solta tudo, até o fim, sem pressa nenhuma.
+
+(10s)
+
+Isso.
+
+(5s)
+
+Sente o peso da cabeça no travesseiro. Ele pode ficar todo aí.
+
+(8s)
+
 Bom. Deixa os olhos fechados.
 
 (3s)
 
 O resto é comigo.
 
-(5s)
+(8s)
 
 ---
 
-### BLOCO 2 — O PONTO DE LUZ · 1:00 a 6:00 · vibração 5
+### BLOCO 2 — O PONTO DE LUZ · 2:00 a 7:00 · vibração 5
 
 A noite é velha.
 
@@ -180,7 +196,7 @@ Por sua causa. Para você dormir.
 
 ---
 
-### BLOCO 3 — ATERRAMENTO E FOCO FÍSICO · 6:00 a 10:00 · vibração 4
+### BLOCO 3 — ATERRAMENTO E FOCO FÍSICO · 7:00 a 11:00 · vibração 4
 
 E a sua cama recebe você de volta.
 
@@ -242,9 +258,9 @@ Boa noite.
 
 ## Notas de produção
 
-**Métrica.** Segue a divisão obrigatória 1-5-4 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md). O bloco 2 tem cerca de 500 palavras e cerca de 150 segundos somados de pausa. Cronometrar bloco a bloco: se fechar antes da marca, alongar as pausas entre parágrafos, nunca acrescentar texto.
+**Métrica.** Segue a divisão obrigatória 2-5-4 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md). O bloco 2 tem cerca de 500 palavras e cerca de 150 segundos somados de pausa. Cronometrar bloco a bloco: se fechar antes da marca, alongar as pausas entre parágrafos, nunca acrescentar texto.
 
-**Onde entram as nove etapas.** Tempo para si e Reconhecer-se no bloco 1. Atenção, Vivenciar e Experiência nos cinco minutos do deserto. Sentido, Simbolizar, Integrar e Autoria comprimidos no bloco 3, com narração, porque a pocket não tem silêncio.
+**Onde entram as nove etapas.** Tempo para si e Reconhecer-se nos dois minutos do bloco 1. Atenção, Vivenciar e Experiência nos cinco minutos do deserto. Sentido, Simbolizar, Integrar e Autoria comprimidos no bloco 3, com narração, porque a pocket não tem silêncio.
 
 **O DNA de estilo, e o que cada referência empresta.** Três referências declaradas por Rafael regem a escrita de toda Travessia daqui em diante:
 

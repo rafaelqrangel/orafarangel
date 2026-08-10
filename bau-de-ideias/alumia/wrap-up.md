@@ -23,7 +23,7 @@ Nada tem tempo aleatório. As divisões são regra inviolável, declaradas no ca
 
 - **Episódio padrão: 21 minutos, 3-5-4-9.** Despertar intelectual, impacto na pele, estrutura do micro-hábito, mente em ação e chamado. Estrutura de conteúdo nos 4 tempos DOR, FONTE, INSIGHT, PROMPT. O último minuto retoma a prática, para que a última instrução seja ação.
 - **Travessia completa: 22 minutos, 2-11-4-5.** Preparação, jornada de 11 minutos sem interrupção racional, ancoragem prática e 5 minutos de silêncio final, onde Integrar e Autoria acontecem sem palavra. Adormecer antes do fim é o desenho funcionando.
-- **Travessia pocket: 10 minutos, 1-5-4.** Desaceleração expressa de um minuto, ponto de luz, aterramento com instrução de retorno. Sem silêncio, porque a pessoa volta ao mundo em seguida.
+- **Travessia pocket: 11 minutos, 2-5-4.** Desaceleração expressa, ponto de luz, aterramento com instrução de retorno. Sem silêncio, porque a pessoa volta ao mundo em seguida.
 
 A métrica de sucesso é retorno, e não conclusão.
 

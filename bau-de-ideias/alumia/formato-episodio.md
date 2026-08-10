@@ -32,4 +32,4 @@ Os quatro tempos continuam valendo como conteúdo, e a métrica 3-5-4-9 é o rec
 
 ## Aplicação aos outros formatos
 
-Esta regra vale para o **episódio padrão**. A Travessia completa (22 min) segue as nove etapas do acrônimo, e a Travessia pocket (10 min) segue a compressão descrita em [`travessia-metodo.md`](travessia-metodo.md).
+Esta regra vale para o **episódio padrão**. A Travessia completa (22 min) segue as nove etapas do acrônimo, e a Travessia pocket (11 min) segue a compressão descrita em [`travessia-metodo.md`](travessia-metodo.md).

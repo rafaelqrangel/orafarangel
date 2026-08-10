@@ -1,6 +1,6 @@
 # Desenho de som da abertura: Travessia pocket das três da manhã
 
-> Especificação de produção, 30/07/2026. Vale para o bloco 1 da Travessia pocket, o minuto de desaceleração expressa. Escrita para o tema definido em [`oceano-azul-primeira-travessia.md`](oceano-azul-primeira-travessia.md).
+> Especificação de produção, 30/07/2026. Vale para o bloco 1 da Travessia pocket, os dois minutos de desaceleração expressa. Escrita para o tema definido em [`oceano-azul-primeira-travessia.md`](oceano-azul-primeira-travessia.md).
 
 ## As quatro restrições que mandam em tudo
 
@@ -15,7 +15,7 @@ O contexto define o som antes de qualquer gosto pessoal.
 
 Um bordão sustentado de tônica e quinta, **sem terça**. A terça é o que informa se a música é alegre ou triste, e no meio da madrugada não cabe dizer à pessoa como ela deve se sentir. A quinta aberta é também o som mais antigo que existe: é o organum medieval, a tampura indiana, a gaita de foles, o bordão de todas as tradições antes de o Ocidente decidir sobre harmonia. A fonte milenar aparece no som, e não só no texto.
 
-**Nota fundamental entre 110 e 150 Hz**, faixa de lá2 a ré3. Abaixo disso some no celular, acima disso começa a chamar atenção. Sem modulação, sem mudança de acorde no minuto inteiro.
+**Nota fundamental entre 110 e 150 Hz**, faixa de lá2 a ré3. Abaixo disso some no celular, acima disso começa a chamar atenção. Sem modulação, sem mudança de acorde do começo ao fim.
 
 ## O metrônomo invisível da respiração
 
@@ -23,7 +23,7 @@ Esta é a decisão que resolve a participação ativa. O bordão não fica está
 
 - **Crescimento de 4 segundos**, subindo cerca de 4 dB e abrindo um pouco o filtro.
 - **Decaimento de 8 segundos**, voltando ao ponto de partida.
-- Ciclo de 12 segundos, portanto **cinco ciclos no minuto de abertura**.
+- Ciclo de 12 segundos, portanto **dez ciclos nos dois minutos de abertura**.
 
 A voz entra sobre a subida e cala na descida. Quem escuta acaba respirando junto sem nenhuma instrução de contagem, porque o corpo acompanha o que ouve.
 
@@ -47,7 +47,7 @@ A voz entra sobre a subida e cala na descida. Quem escuta acaba respirando junto
 ## Regras de mixagem
 
 - **O som já existe quando o play é apertado.** Começar com o bordão audível e subir de lá, em quatro segundos, em vez de nascer do zero.
-- **Nada mais alto que nada.** A distância entre o pico da voz e o pico da música deve ser pequena e constante ao longo dos dez minutos. O que acorda não é o volume, é a diferença de volume.
+- **Nada mais alto que nada.** A distância entre o pico da voz e o pico da música deve ser pequena e constante ao longo dos onze minutos. O que acorda não é o volume, é a diferença de volume.
 - Cortar tudo acima de 10 kHz na música e domar as sibilantes da voz, que são o que mais desperta em fone de ouvido.
 - Nível integrado entre -18 e -20 LUFS, com pico real em -3 dBTP. Fica abaixo do padrão de podcast de propósito, e a normalização das plataformas resolve o resto sem estragar a dinâmica interna.
 - Sem compressão que respire ou bombeie junto com a voz.
@@ -56,7 +56,7 @@ A voz entra sobre a subida e cala na descida. Quem escuta acaba respirando junto
 
 ### Em português, para leitura e ajuste
 
-Um som grave já está no quarto antes de você perceber que ele começou. É um bordão contínuo de harmônio indiano, ar atravessando palhetas, com um contrabaixo tocado de arco muito devagar sustentando a mesma nota mais embaixo. São duas notas apenas, a tônica e a quinta, sem nenhuma terceira nota que diga se aquilo é alegre ou triste. Durante o minuto inteiro nada muda de harmonia e nada se resolve.
+Um som grave já está no quarto antes de você perceber que ele começou. É um bordão contínuo de harmônio indiano, ar atravessando palhetas, com um contrabaixo tocado de arco muito devagar sustentando a mesma nota mais embaixo. São duas notas apenas, a tônica e a quinta, sem nenhuma terceira nota que diga se aquilo é alegre ou triste. Do começo ao fim nada muda de harmonia e nada se resolve.
 
 O som respira. A cada doze segundos ele cresce por quatro, como se o quarto inspirasse, e recua por oito, sempre mais devagar do que subiu. Não existe batida, não existe melodia, não existe nenhuma nota que anuncie a próxima.
 
