@@ -47,7 +47,7 @@ A voz entra sobre a subida e cala na descida. Quem escuta acaba respirando junto
 ## Regras de mixagem
 
 - **O som já existe quando o play é apertado.** Começar com o bordão audível e subir de lá, em quatro segundos, em vez de nascer do zero.
-- **Nada mais alto que nada.** A distância entre o pico da voz e o pico da música deve ser pequena e constante ao longo dos onze minutos. O que acorda não é o volume, é a diferença de volume.
+- **Nada mais alto que nada.** A distância entre o pico da voz e o pico da música deve ser pequena e constante ao longo dos dez minutos. O que acorda não é o volume, é a diferença de volume.
 - Cortar tudo acima de 10 kHz na música e domar as sibilantes da voz, que são o que mais desperta em fone de ouvido.
 - Nível integrado entre -18 e -20 LUFS, com pico real em -3 dBTP. Fica abaixo do padrão de podcast de propósito, e a normalização das plataformas resolve o resto sem estragar a dinâmica interna.
 - Sem compressão que respire ou bombeie junto com a voz.

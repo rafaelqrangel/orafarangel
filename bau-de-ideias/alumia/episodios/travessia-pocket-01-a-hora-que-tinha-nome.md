@@ -1,9 +1,9 @@
 # Travessia pocket, episódio 1
 
 **Título:** A hora que tinha nome
-**Título de publicação:** Como voltar a dormir depois de acordar de madrugada | Travessia de 11 minutos
-**Duração alvo:** 11 minutos (2 · 5 · 4)
-**Blocos:** desaceleração 0:00-2:00 · ponto de luz 2:00-7:00 · aterramento 7:00-11:00
+**Título de publicação:** Como voltar a dormir depois de acordar de madrugada | Travessia de 10 minutos
+**Duração alvo:** 10 minutos (2 · 5 · 3)
+**Blocos:** desaceleração 0:00-2:00 · ponto de luz 2:00-7:00 · clareza 7:00-10:00
 **Data:** 30/07/2026
 **Formato:** Travessia pocket, narração e desenho de som, sem bloco de silêncio
 
@@ -196,7 +196,7 @@ Por sua causa. Para você dormir.
 
 ---
 
-### BLOCO 3 — ATERRAMENTO E FOCO FÍSICO · 7:00 a 11:00 · vibração 4
+### BLOCO 3 — CLAREZA E FOCO · 7:00 a 10:00 · vibração 3
 
 E a sua cama recebe você de volta.
 
@@ -258,9 +258,9 @@ Boa noite.
 
 ## Notas de produção
 
-**Métrica.** Segue a divisão obrigatória 2-5-4 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md). O bloco 2 tem cerca de 500 palavras e cerca de 150 segundos somados de pausa. Cronometrar bloco a bloco: se fechar antes da marca, alongar as pausas entre parágrafos, nunca acrescentar texto.
+**Métrica.** Segue a divisão obrigatória 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md). O bloco 2 tem cerca de 500 palavras e cerca de 150 segundos somados de pausa. Cronometrar bloco a bloco: se fechar antes da marca, alongar as pausas entre parágrafos, nunca acrescentar texto.
 
-**Onde entram as nove etapas.** Tempo para si e Reconhecer-se nos dois minutos do bloco 1. Atenção, Vivenciar e Experiência nos cinco minutos do deserto. Sentido, Simbolizar, Integrar e Autoria comprimidos no bloco 3, com narração, porque a pocket não tem silêncio.
+**Onde entram as nove etapas.** Tempo para si e Reconhecer-se nos dois minutos do bloco 1. Atenção, Vivenciar e Experiência nos cinco minutos do deserto. Sentido, Simbolizar, Integrar e Autoria comprimidos nos três minutos do bloco 3, com narração, porque a pocket não tem silêncio. O bloco 3 fecha em cerca de 2:50 de leitura com as pausas marcadas, dentro da janela de três minutos.
 
 **O DNA de estilo, e o que cada referência empresta.** Três referências declaradas por Rafael regem a escrita de toda Travessia daqui em diante:
 

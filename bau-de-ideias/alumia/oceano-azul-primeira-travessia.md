@@ -30,7 +30,7 @@ Os vídeos que dominam a busca por história noturna para adulto duram 1h12, 2h0
 
 O sinal mais forte de demanda reprimida veio do canal **Noite ZEN**, com apenas 10,9 mil inscritos: um vídeo de histórias zen para sono e ansiedade fez 196.718 visualizações e pontuou **241,8 de outlier**, quase 242 vezes o desempenho normal do canal. Sabedoria milenar narrada para dormir tem público faminto e oferta rasa.
 
-A Travessia pocket de onze minutos é a peça exata para essa fresta. Ninguém às três da manhã começa um áudio de três horas.
+A Travessia pocket de dez minutos é a peça exata para essa fresta. Ninguém às três da manhã começa um áudio de três horas.
 
 ## O tema da primeira Travessia pocket
 
@@ -42,13 +42,13 @@ A Travessia pocket de onze minutos é a peça exata para essa fresta. Ninguém �
 
 **A divisão obrigatória**, conforme [`formato-travessia-pocket.md`](formato-travessia-pocket.md):
 
-- **1 minuto, desaceleração expressa.** Sem preparação longa, porque a pessoa está no escuro com o coração acelerado. Respiração conduzida de imediato, com a expiração mais longa que a inspiração.
+- **2 minutos, desaceleração expressa.** Respiração conduzida de imediato, com a expiração mais longa que a inspiração.
 - **5 minutos, o ponto de luz.** A metáfora da vigília antiga: a casa dormindo, a vela, as horas que pertenciam a quem estava acordado. O ouvinte atravessa uma noite que não é ameaça.
-- **4 minutos, aterramento.** Aqui a instrução de retorno é para **se deitar de novo**, e não para reabrir os olhos, que é a variação da pocket prevista no formato.
+- **3 minutos, clareza final.** Aqui a instrução de retorno é para **se deitar de novo**, e não para reabrir os olhos, que é a variação noturna prevista no formato.
 
 **Títulos candidatos**, com o termo de busca na frente:
 
-- Como voltar a dormir depois de acordar de madrugada | Travessia de 11 minutos
-- Acordou às três da manhã? Travessia de 11 minutos para voltar a dormir
+- Como voltar a dormir depois de acordar de madrugada | Travessia de 10 minutos
+- Acordou às três da manhã? Travessia de 10 minutos para voltar a dormir
 
 **Por que este e não outro:** o tema entrega a menor competição da varredura, ocupa um momento do mapa que ninguém serve, cabe exatamente na duração da pocket e permite a versão completa de 22 minutos depois, para a pessoa escutar antes de dormir e nem chegar às três acordada. Uma peça abre a outra.

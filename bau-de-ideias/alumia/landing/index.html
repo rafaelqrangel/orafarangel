@@ -401,7 +401,7 @@ footer{border-top:1px solid var(--border);padding:52px 0 60px;background:var(--m
         <ul class="lista">
           <li>Episódio novo toda semana, 21 minutos na divisão 3-5-4-9</li>
           <li>Uma Travessia completa por mês, de 22 minutos</li>
-          <li>Uma Travessia pocket por mês, de 11 minutos</li>
+          <li>Uma Travessia pocket por mês, de 10 minutos</li>
           <li>A prática de trinta segundos dita dentro do episódio</li>
           <li>Ordem cronológica, do episódio mais novo para o mais antigo</li>
         </ul>
@@ -597,14 +597,14 @@ const formatos=[
     d:'A tradução da história em estrutura prática, e como ancorar aquele estado no dia seguinte.'},
    {n:'5',min:'17:00 a 22:00',t:'Silêncio e integração',v:'Vibração 5 · liberdade emocional e paz',
     d:'Fim da narração, só som ambiente. Integrar e Autoria acontecem aqui, sem palavra nenhuma, e se você adormecer é porque funcionou.'}]},
- {id:'tp',nome:'Travessia pocket · 11 min',soma:'2 + 5 + 4 = 11',cor:['#1C3B6B','#EB983C','#B9701F'],
+ {id:'tp',nome:'Travessia pocket · 10 min',soma:'2 + 5 + 3 = 10',cor:['#1C3B6B','#EB983C','#B9701F'],
   blocos:[
    {n:'2',min:'0:00 a 2:00',t:'Desaceleração expressa',v:'Vibração 2 · repouso e sensibilidade',
     d:'Respiração conduzida para quebrar o padrão de agitação e acalmar o sistema nervoso de imediato.'},
    {n:'5',min:'2:00 a 7:00',t:'O ponto de luz',v:'Vibração 5 · mudança positiva, liberação',
     d:'Uma micro-metáfora: imagem mental forte, curta, focada em desarmar o estresse e trazer alívio.'},
-   {n:'4',min:'7:00 a 11:00',t:'Aterramento e foco',v:'Vibração 4 · segurança prática e ordem',
-    d:'O retorno. Instrução firme para reabrir os olhos ancorado e pronto para agir, sem bloco de silêncio, porque você volta ao mundo em seguida.'}]}
+   {n:'3',min:'7:00 a 10:00',t:'Clareza e foco',v:'Vibração 3 · mente desperta, lógica, foco',
+    d:'O fechamento. Um comando claro e uma frase de poder para você voltar ao dia, ou ao sono, com a mente organizada.'}]}
 ];
 const abas=document.getElementById('abas'),paineis=document.getElementById('paineis');
 abas.innerHTML=formatos.map((f,i)=>`<button class="aba${i===0?' on':''}" data-i="${i}">${f.nome}</button>`).join('');
