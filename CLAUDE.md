@@ -33,6 +33,7 @@ Os três formatos têm divisão de tempo obrigatória, e nenhum roteiro entra em
 
 ## Fluxo de trabalho
 
+- A skill `/travessia` (em `.claude/skills/travessia/`) é o roteirista das Sessões TRAVESSIA do Alumia, completa e pocket, com o playbook v3 e o DNA dos mestres da escrita.
 - A skill `/pauta` (em `.claude/skills/pauta/`) é o circuito de produção de conteúdo. Roteiros aprovados vão para `conteudo/roteiros/`, o banco de ideias em `conteudo/banco-de-ideias.md` acompanha o status.
 - Commit e push diretos na main, mensagens em português. O repositório é público de propósito: o método é open source.
 - Ativos visuais ficam na pasta do Canva "@orafarangel — Identidade Visual" (link no `marca/README.md`); as artes-mestras versionadas em `marca/templates/`.
