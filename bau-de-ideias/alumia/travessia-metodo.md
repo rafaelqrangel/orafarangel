@@ -37,6 +37,18 @@ Integrar e Autoria acontecem no bloco de silêncio, sem palavra nenhuma, quando 
 
 Consequência prática de medição: na Travessia completa a taxa de conclusão não é métrica de sucesso, porque o objetivo é a pessoa dormir antes do fim. A métrica dela é retorno, ou seja, quantas noites ela volta.
 
+## O estilo narrativo, obrigatório em toda Travessia
+
+Definido por Rafael em 30/07/2026. Três referências regem a escrita, e cada uma empresta uma coisa:
+
+- **Neil Gaiman:** a mágica dita como fato, sem cerimônia. A noite tem um ofício, o vento coleciona pensamentos, a porta acha a pessoa. Nada se explica nem se justifica, apenas se afirma, no tom de quem conta uma coisa que sempre soube.
+- **George R.R. Martin:** a materialidade. O mundo tem peso, temperatura e história, e o detalhe é sempre físico e específico daquele mundo, nunca adjetivo genérico de aconchego.
+- **Bruce Springsteen:** a franqueza de classe trabalhadora e o verso curto que cai como soco depois da frase longa. O peso do dia se diz em coisas concretas, as palavras ditas e as engolidas, os nomes de quem depende de você. As comparações vêm do mundo do trabalho e da casa: o turno, o pão debaixo do pano, as janelas da cidade indo dormir.
+
+Vícios banidos: cadeia de "como se" decorativo, adjetivo dobrado, frases consecutivas com a mesma forma, doçura genérica em série. O encantamento é o conteúdo, e a secura é o estilo: a pessoa quer proteção e mágica, e a mágica convence mais quando é contada sem enfeite.
+
+Peça de referência: [`episodios/travessia-pocket-01-a-hora-que-tinha-nome.md`](episodios/travessia-pocket-01-a-hora-que-tinha-nome.md).
+
 ## Relação com os outros formatos
 
 Um tema alimenta os três. O episódio de 21 minutos explica o mecanismo, a Travessia completa faz o ouvinte viver aquilo por dentro, e a Travessia pocket de 10 minutos entrega a mesma âncora em versão de bolso para o momento crítico do dia.
