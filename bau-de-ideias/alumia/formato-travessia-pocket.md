@@ -1,6 +1,6 @@
 # Formato obrigatório da Travessia pocket
 
-> Regra definida por Rafael em 29/07/2026 e fechada em definitivo em 30/07/2026. **Obrigatória para toda Travessia pocket.** Qualquer roteiro salvo em `episodios/` precisa declarar os blocos no cabeçalho.
+> Regra definida por Rafael em 29/07/2026 e fechada em definitivo em 11/08/2026. **Obrigatória para toda Travessia pocket.** Qualquer roteiro salvo em `episodios/` precisa declarar os blocos no cabeçalho.
 
 ## Registro da decisão final de duração
 

@@ -1,6 +1,6 @@
 # O oceano azul da primeira Travessia
 
-> Pesquisa no vidIQ em 30/07/2026, mercado Brasil. Define o tema da primeira Travessia pocket.
+> Pesquisa no vidIQ em 03/08/2026, mercado Brasil. Define o tema da primeira Travessia pocket.
 
 ## O que a busca mostrou
 

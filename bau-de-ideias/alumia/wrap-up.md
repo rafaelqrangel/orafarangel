@@ -1,6 +1,6 @@
 # Alumia, o retrato inteiro
 
-> Wrap-up de 30/07/2026. Consolida todas as decisões tomadas até aqui. Quando houver conflito entre documentos antigos e este, vale este.
+> Wrap-up de 02/08/2026. Consolida todas as decisões tomadas até aqui. Quando houver conflito entre documentos antigos e este, vale este.
 
 ## O que é
 

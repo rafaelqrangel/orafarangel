@@ -39,7 +39,7 @@ Consequência prática de medição: na Travessia completa a taxa de conclusão 
 
 ## O estilo narrativo, obrigatório em toda Travessia
 
-Definido por Rafael em 30/07/2026. Três referências regem a escrita, e cada uma empresta uma coisa:
+Definido por Rafael em 10/08/2026. Três referências regem a escrita, e cada uma empresta uma coisa:
 
 - **Neil Gaiman:** a mágica dita como fato, sem cerimônia. A noite tem um ofício, o vento coleciona pensamentos, a porta acha a pessoa. Nada se explica nem se justifica, apenas se afirma, no tom de quem conta uma coisa que sempre soube.
 - **George R.R. Martin:** a materialidade. O mundo tem peso, temperatura e história, e o detalhe é sempre físico e específico daquele mundo, nunca adjetivo genérico de aconchego.

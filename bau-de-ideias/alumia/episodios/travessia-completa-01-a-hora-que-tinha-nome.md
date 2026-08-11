@@ -4,7 +4,7 @@
 **Título de publicação:** História para dormir: a hora que tinha nome | Travessia de 22 minutos
 **Duração alvo:** 22 minutos (2 · 11 · 4 · 5)
 **Blocos:** preparação 0:00-2:00 · jornada 2:00-13:00 · ancoragem 13:00-17:00 · silêncio 17:00-22:00
-**Data:** 30/07/2026
+**Data:** 10/08/2026
 **Formato:** Travessia completa, narração e desenho de som, com bloco de silêncio final
 
 ---

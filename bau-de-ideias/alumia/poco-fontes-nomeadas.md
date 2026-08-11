@@ -1,6 +1,6 @@
 # Fontes nomeadas: sites, portais, canais e vozes
 
-> Levantado em 30/07/2026. Complementa [`poco-de-ideias.md`](poco-de-ideias.md), que define o método. Aqui estão os endereços concretos. Os dados de canais do YouTube foram conferidos com o vidIQ nesta data e envelhecem rápido; o resto está marcado como não verificado.
+> Levantado em 02/08/2026. Complementa [`poco-de-ideias.md`](poco-de-ideias.md), que define o método. Aqui estão os endereços concretos. Os dados de canais do YouTube foram conferidos com o vidIQ nesta data e envelhecem rápido; o resto está marcado como não verificado.
 
 ## Como usar esta lista
 
@@ -32,7 +32,7 @@ Não verificados nesta consulta, todos de existência conhecida e reputação es
 
 ---
 
-## Canais brasileiros no YouTube (dados conferidos no vidIQ em 30/07/2026)
+## Canais brasileiros no YouTube (dados conferidos no vidIQ em 02/08/2026)
 
 **Nova Acrópole Brasil**, `@novaacropole`, 1,75 milhão de inscritos, publicando quase diariamente. Escola de filosofia com mais de 60 anos e 100 unidades no Brasil. É a maior prova de que existe apetite por filosofia prática em português, e o acervo é um poço de temas.
 

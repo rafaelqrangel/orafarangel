@@ -1,6 +1,6 @@
 # Desenho de som da abertura: Travessia pocket das três da manhã
 
-> Especificação de produção, 30/07/2026. Vale para o bloco 1 da Travessia pocket, os dois minutos de desaceleração expressa. Escrita para o tema definido em [`oceano-azul-primeira-travessia.md`](oceano-azul-primeira-travessia.md).
+> Especificação de produção, 03/08/2026. Vale para o bloco 1 da Travessia pocket, os dois minutos de desaceleração expressa. Escrita para o tema definido em [`oceano-azul-primeira-travessia.md`](oceano-azul-primeira-travessia.md).
 
 ## As quatro restrições que mandam em tudo
 

@@ -1,6 +1,6 @@
 # Ideia registrada: vender julgamento, e não ferramenta
 
-> Ideia de Rafael, 30/07/2026, a partir do artigo "Services: The New Software" (Julien Bek, Sequoia Capital, mar/2026). Complementa a [personalização macro-micro](ideia-personalizacao-macro-micro.md).
+> Ideia de Rafael, 31/07/2026, a partir do artigo "Services: The New Software" (Julien Bek, Sequoia Capital, mar/2026). Complementa a [personalização macro-micro](ideia-personalizacao-macro-micro.md).
 
 ## A tese
 
@@ -30,7 +30,7 @@ Duas lições práticas do playbook deles:
 
 ## A arquitetura do julgamento: as quatro virtudes cardeais
 
-Complemento de Rafael, 30/07/2026. Se o fosso é o dado proprietário sobre o que é bom julgamento, a inteligência do Alumia se arquiteta impreterivelmente sobre as quatro virtudes cardeais de Platão, começando pela prudência, que é o próprio bom julgamento. A filosofia que a marca prega vira o algoritmo de estrutura básica, e o motor de decisão fica coerente com o conteúdo que entrega.
+Complemento de Rafael, 31/07/2026. Se o fosso é o dado proprietário sobre o que é bom julgamento, a inteligência do Alumia se arquiteta impreterivelmente sobre as quatro virtudes cardeais de Platão, começando pela prudência, que é o próprio bom julgamento. A filosofia que a marca prega vira o algoritmo de estrutura básica, e o motor de decisão fica coerente com o conteúdo que entrega.
 
 Um primeiro desenho de como cada virtude vira camada do motor:
 

@@ -4,7 +4,7 @@
 **Título de publicação:** Como voltar a dormir depois de acordar de madrugada | Travessia de 10 minutos
 **Duração alvo:** 10 minutos (2 · 5 · 3)
 **Blocos:** desaceleração 0:00-2:00 · ponto de luz 2:00-7:00 · clareza 7:00-10:00
-**Data:** 30/07/2026
+**Data:** 10/08/2026
 **Formato:** Travessia pocket, narração e desenho de som, sem bloco de silêncio
 
 ---

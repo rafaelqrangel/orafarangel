@@ -1,6 +1,6 @@
 # Ferramentas de produção de áudio do AlumiaCast
 
-> Levantado em 30/07/2026. Preços e termos de licença mudam rápido, e este documento envelhece: confira na fonte antes de assinar qualquer coisa. A regra que organiza tudo aqui é uma só: **IA para o que não existe no mundo, gravação real para o que existe.**
+> Levantado em 04/08/2026. Preços e termos de licença mudam rápido, e este documento envelhece: confira na fonte antes de assinar qualquer coisa. A regra que organiza tudo aqui é uma só: **IA para o que não existe no mundo, gravação real para o que existe.**
 
 ## Trilha sonora e ambiência
 

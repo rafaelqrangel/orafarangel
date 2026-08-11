@@ -1,6 +1,6 @@
 # Ideia registrada: personalização macro-micro por IA
 
-> Ideia solta de Rafael, 30/07/2026. Ainda sem desenho de aplicação no Alumia. Registrada para maturar.
+> Ideia solta de Rafael, 31/07/2026. Ainda sem desenho de aplicação no Alumia. Registrada para maturar.
 
 ## O problema que ela ataca
 

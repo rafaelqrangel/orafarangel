@@ -1,6 +1,6 @@
 # O poço de ideias do Alumia
 
-> Registrado em 30/07/2026. Define de onde vem toda pauta do AlumiaCast e como ela desce a Escada da Abstração antes de virar roteiro.
+> Registrado em 02/08/2026. Define de onde vem toda pauta do AlumiaCast e como ela desce a Escada da Abstração antes de virar roteiro.
 
 ## A regra do poço
 
