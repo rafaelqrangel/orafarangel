@@ -68,18 +68,29 @@ Passe o roteiro nesta varredura antes de salvar:
 - A atenção plena acontece porque a cena obriga os sentidos, um por vez, nunca porque alguém manda reparar. Body scan e pacing respiratório entram disfarçados de história (a estrela que pisca no ritmo do ar, a respiração de quem dorme ao lado).
 - A pessoa quer proteção e mágica: alguém ou algo que tire o peso por ela. Transferência de responsabilidade explícita na cena ("você nem precisa soltar, o vento leva"; "isso é serviço da noite").
 - Curva de desaceleração de voz: ritmo, modulação e volume descem a cada bloco (na pocket diurna, sobem de volta no bloco 3).
+- **Descer sempre a Escada da Abstração.** Toda ideia aterrissa no degrau mais baixo, no gesto e no objeto concreto. Insight que fica no alto da escada está errado por definição, mesmo quando é bonito.
 - Nenhum anúncio, CTA, pedido para seguir ou autopromoção dentro da sessão. O silêncio final da completa é sagrado.
 - Grafia sempre "você", português brasileiro, e a voz do corpus do Rafael.
+
+## A Regulação Dupla, o lastro conceitual
+
+Duas direções operam ao mesmo tempo, e saber qual está sendo acionada muda o que a cena faz.
+
+- **De baixo para cima, do corpo para a mente.** O cérebro emocional só se acalma quando sente na pele que o perigo passou. Ninguém argumenta com o próprio maxilar. É por isso que a Travessia trabalha por respiração, temperatura, peso e textura dentro da cena.
+- **De cima para baixo, da mente para o corpo.** Fortalecer a torre de vigia pela interocepção, ensinando o ouvinte a notar e nomear a sensação em vez de fugir dela. Nomear é o gesto central: sem nome vira ameaça, com nome vira lugar conhecido.
+- **A onda que passa.** Emoção não alimentada por pensamento sobe e desce sozinha, e o que a prende é a pessoa brigar com ela. Entra como intenção de desenho, nunca como número exato de segundos, porque a cifra de noventa segundos que circula é divulgação popular e não medida estabelecida.
 
 ## Vocabulário
 
 - **Banido:** jargão de coach (destrave, mindset, próximo nível, alta performance), misticismo gratiluz (vibrar na luz, energias do universo, limpar a aura), autoelogio (transformador, extraordinário, perfeito).
-- **Da casa:** alarme biológico, ruído de sobrevivência, presença sóbria, torre de vigia, notar, nomear, desarmar, desacelerar, integrar.
+- **Da casa:** alarme biológico, ruído de sobrevivência, presença sóbria, torre de vigia, interocepção, fisioneurose, notar, nomear, desarmar, desacelerar, integrar.
 - A "presença sóbria" é o conceito de chegada: a autoridade que não grita nem performa, a calmaria de fundo que os outros notam depois.
 
 ## Guarda-corpos de honestidade (invioláveis, vencem o playbook em conflito)
 
 - Ciência entra como desenho de prática, nunca como promessa clínica. Nada de prometer efeito de onda cerebral: se houver menção a trilha no silêncio final, é "trilha ambiente sutil", sem alegação binaural ou de frequência alfa/teta, cuja evidência é fraca.
+- Proibido prescrever ponto de acupressão, nervo vago ou qualquer intervenção com aparência clínica, incluindo o ponto VC22 do Do-In. Respiração com expiração mais longa pode ser instruída como prática, sem citar mecanismo fisiológico.
+- Proibido afirmar mecanismo cerebral durante o sono como consequência do áudio.
 - Técnicas de linguagem hipnótica e PNL entram como ofício de escrita e locução, mapeadas nas notas de produção, jamais vendidas como teoria validada da mente.
 - Fonte histórica ou científica citada no bloco de ancoragem declara seu limite (o padrão Ekirch: dizer o que as pessoas faziam, nunca o que o corpo do ouvinte deveria fazer).
 - Nenhum testemunho inventado, nenhuma promessa de transformação.
