@@ -31,6 +31,7 @@ Registro de referência: filosofia falada com elegância coloquial, no nível de
 - **Espiral, não pirâmide seca.** Abre com pergunta reflexiva que ele faz a si mesmo ("Eu me pergunto aonde que a gente para de se divertir?"), repete a pergunta reformulada, e circula o conceito adicionando camada a cada volta.
 - **Repetição com variação como motor rítmico.** "Se divertir / se permitir a diversão / dar permissão." Anáfora de "quando", de "uma coisa é certa".
 - **Gradação em gerúndio para processos.** "E aí você vai empobrecendo, e aí você vai morrendo, e aí você vai envelhecendo."
+- **Proibida a dicotomia fatiada "Não é X. É Y." e o travessão de corte** ("O problema é outro — e tem saída."). O escritor humano liga o contraste por conjunção: "não é X, mas Y", "em vez de", "enquanto". O travessão parentético no meio da frase ("quem fica com o tempo — não com o dinheiro — se declara...") também é marca de IA; a informação entra por oração relativa ou reordenação da frase. (Feedback direto do Rafael, 26/07/2026.)
 
 ### Semântica
 
@@ -59,6 +60,9 @@ Registro de referência: filosofia falada com elegância coloquial, no nível de
 | "Uma parábola já mostrava o mecanismo. Um homem recebeu..." | "Uma parábola conta de um homem que recebeu..." |
 | "A ciência fechou a conta." | A referência entra com naturalidade professoral, sem punchline |
 | "Faça trinta segundos da tarefa que você vem adiando." | "Você vai ter a chance, por trinta segundos, de fazer algo diferente." |
+| "A pior tragédia não é morrer cedo. É chegar ao fim sem viver." | "A pior tragédia não é morrer cedo, mas chegar ao fim sem viver." |
+| "O problema é outro — e tem saída." | "O problema está em outro lugar, e ele tem conserto." |
+| "Quem fica com o tempo — não com o dinheiro — se declara mais feliz." | "Quem escolhe preservar o tempo em vez do dinheiro se declara mais feliz." |
 
 ## O que a marca NÃO é (guardrails)
 

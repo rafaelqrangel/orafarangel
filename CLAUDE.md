@@ -10,6 +10,10 @@ Este é o repositório da marca @orafarangel, do Rafael. Ele trabalha daqui (nuv
 4. `framework/` — os 4 tempos (SAÍDA, FONTE, INSIGHT, PROMPT), B=MAP e a Escada da Abstração
 5. `design.md` — tokens visuais para qualquer trabalho de interface ou arte
 
+## Cláusula pétrea da conversa (feedback direto do Rafael, 27/07/2026)
+
+Respostas curtas, dinâmica de bate-bola. Rafael é empresário sem tempo: responder o essencial em 1-3 parágrafos curtos (ou menos), máximo de didática e eficiência. Nada de massa de texto para pergunta pequena. Detalhe e aprofundamento só quando ele pedir. Texto longo é permitido apenas no conteúdo entregável (roteiro, documento), nunca na conversa.
+
 ## Regras invioláveis de entrega (feedback direto do Rafael)
 
 - Nunca usar emojis, ícones, emoticons ou setas decorativas em respostas, roteiros ou documentos entregues a ele. Nunca.
@@ -19,8 +23,17 @@ Este é o repositório da marca @orafarangel, do Rafael. Ele trabalha daqui (nuv
 - Na grafia é sempre "você", nunca "cê".
 - Escrever em português brasileiro.
 
+## Regra obrigatória dos episódios do AlumiaCast
+
+Os três formatos têm divisão de tempo obrigatória, e nenhum roteiro entra em `bau-de-ideias/alumia/episodios/` sem declarar os blocos no cabeçalho:
+
+- Episódio padrão: 21 minutos na divisão 3-5-4-9 (`formato-episodio.md`), retomando a prática no último minuto.
+- Travessia completa: 22 minutos na divisão 2-11-4-5 (`formato-travessia-completa.md`), com 11 minutos de narrativa sem interrupção e 5 de silêncio final.
+- Travessia pocket: 10 minutos na divisão 2-5-3 (`formato-travessia-pocket.md`), terminando em comando claro de retorno.
+
 ## Fluxo de trabalho
 
+- A skill `/travessia` (em `.claude/skills/travessia/`) é o roteirista das Sessões TRAVESSIA do Alumia, completa e pocket, com o playbook v3 e o DNA dos mestres da escrita.
 - A skill `/pauta` (em `.claude/skills/pauta/`) é o circuito de produção de conteúdo. Roteiros aprovados vão para `conteudo/roteiros/`, o banco de ideias em `conteudo/banco-de-ideias.md` acompanha o status.
 - Commit e push diretos na main, mensagens em português. O repositório é público de propósito: o método é open source.
 - Ativos visuais ficam na pasta do Canva "@orafarangel — Identidade Visual" (link no `marca/README.md`); as artes-mestras versionadas em `marca/templates/`.

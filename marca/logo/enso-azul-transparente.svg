@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="-130 -130 260 260">
+  <defs>
+    <mask id="corte">
+      <rect x="-130" y="-130" width="260" height="260" fill="white"/>
+      <polygon points="0,148 -38,24 38,24" fill="black"/>
+    </mask>
+  </defs>
+  <g mask="url(#corte)">
+    <circle cx="0" cy="0" r="100" fill="none" stroke="#0C2340" stroke-width="32"/>
+  </g>
+</svg>
