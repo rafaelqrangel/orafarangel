@@ -47,7 +47,7 @@ Definido por Rafael em 10/08/2026. Três referências regem a escrita, e cada um
 
 Vícios banidos: cadeia de "como se" decorativo, adjetivo dobrado, frases consecutivas com a mesma forma, doçura genérica em série. O encantamento é o conteúdo, e a secura é o estilo: a pessoa quer proteção e mágica, e a mágica convence mais quando é contada sem enfeite.
 
-Peça de referência: [`episodios/travessia-pocket-01-a-hora-que-tinha-nome.md`](episodios/travessia-pocket-01-a-hora-que-tinha-nome.md).
+A curva de cada episódio obedece ao [`framework-ritmico.md`](framework-ritmico.md), e todo roteiro é construído e julgado pelo [`gauntlet-loop.md`](gauntlet-loop.md) antes de ser salvo. Ainda não existe peça de referência: os rascunhos de agosto de 2026 foram descartados, e o primeiro episódio aprovado ocupará esse lugar.
 
 ## Relação com os outros formatos
 
