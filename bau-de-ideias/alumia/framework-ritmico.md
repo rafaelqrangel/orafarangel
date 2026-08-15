@@ -40,13 +40,21 @@ Coda = silêncio que começa depois da fase 5 concluída
 
 **3. Progressão sensorial, sempre nesta ordem.** Olfato ou audição, depois visão, depois tato, e por último sensação interna. Os dois primeiros ativam memória emocional sem acionar análise racional, e o último é o body scan implícito que instala o estado final.
 
-**4. Captura de identidade.** A presença de quem escuta cresce ao longo do episódio: nas fases 1 e 2 o ouvinte recebe o mundo, nas 3 e 4 age dentro dele, e na fase 5 é sujeito de quase toda frase.
+**4. Agência progressiva do você.** O pronome não muda, a agência sim. O diferencial do Alumia é o simulador imersivo: o ouvinte não observa o mundo, ele é o protagonista desde o frame zero. O "você" está presente do início ao fim, e o que escala é o papel dele dentro da narrativa.
+
+| Fases | Papel do "você" | O que acontece |
+|---|---|---|
+| 1 e 2 | Você **recebe** | O mundo chega até você. Você percebe. |
+| 3 e 4 | Você **age** | Você se move, escolhe e sente dentro do cenário. |
+| 5 | Você **é** | Você é o sujeito soberano de cada frase. |
+
+A escalada de agência cria imersão crescente sem quebrar o ponto de vista. É o que separa um narrador guiando o ouvinte de um mundo que o ouvinte habita.
 
 **5. Instalação de âncora, nos últimos 10 a 15% do tempo narrado.** Estrutura fixa: da próxima vez que o ouvinte tiver contato com um estímulo sensorial concreto do episódio, ele volta para a imagem central, e com ela vem o estado instalado. O estímulo precisa ser real e cotidiano, nunca abstrato.
 
 ## Como conviver com as regras da casa
 
-- **Segunda pessoa do começo ao fim continua valendo.** O mecanismo 4 é dosagem de agência, não troca de pronome. *Blue Gold* já se dirige a quem escuta na primeira linha e mesmo assim cumpre a progressão, porque no início o ouvinte só recebe o mundo.
+- **O ouvinte é protagonista desde o frame zero.** Segunda pessoa e presente da primeira linha à última. O que escala é a agência, nunca o pronome: o Alumia não é mindfulness com storytelling, é um simulador imersivo em segunda pessoa, e quebrar isso na abertura para descrever o mundo de fora custa a identidade do formato.
 - **A liberação de comando nas fases 4 e 5 não revoga o convite em vez de comando.** Na prática da casa isso aparece como dispensa do esforço, no padrão das negativas finais, e nunca como ordem de dormir ou de sentir.
 - **Processo lento no lugar de incidente.** *Blue Gold* não tem incidente nem virada: o movimento vem de um processo natural acompanhado de perto até o fim, e do ciclo que se fecha. Para a pocket noturna e para a completa, processo lento cumpre o papel que a prova dos três pedia ao incidente. A exigência que permanece é a mesma de sempre: cenário parado onde nada se transforma continua reprovado.
 - **Número sem dívida.** *Blue Gold* é cheio de datas e medidas, e nenhuma delas cobra coisa alguma de quem escuta. O antídoto para a cabeça cheia de horas não é a ausência de número, é a escala grande demais para caber num calendário.
@@ -57,5 +65,6 @@ Coda = silêncio que começa depois da fase 5 concluída
 - As pausas do fim são o dobro das do começo?
 - O primeiro movimento de relaxamento aparece depois dos 15% do tempo narrado?
 - Olfato ou audição vêm antes da visão, e a sensação interna vem por último?
-- A presença do ouvinte cresce fase a fase?
+- O "você" está presente desde o frame zero?
+- A agência do "você" escala de receber para agir e de agir para ser sujeito soberano?
 - A âncora sensorial está nos últimos 10 a 15% do tempo narrado, presa a um estímulo real e cotidiano?
