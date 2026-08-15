@@ -82,7 +82,7 @@ Adormecer antes do fim é o desenho funcionando. A métrica de sucesso é retorn
 
 Esta definição manda em todas as outras regras.
 
-A Travessia é **mindfulness dentro de storytelling**. A história existe para conduzir a atenção da pessoa para dentro do próprio corpo e devolver a ela a capacidade de deixar ir. A história é o veículo, e a experiência interna é o destino.
+A Travessia é **mindfulness dentro de storytelling**. A história existe para conduzir a atenção da pessoa para dentro do próprio corpo e devolver a ela a capacidade de deixar ir. A história é o veículo, e a experiência interna é o destino. **O ouvinte participa relaxando**: o gesto dele dentro da cena é sempre um gesto de soltar, e nunca de fazer, e a linguagem de permissão é o que o ajuda a se deixar entrar e relaxar até dormir.
 
 **Ela não é conto de ficção, não é audiolivro e não é podcast narrativo.** Se o texto puder ser publicado como conto numa revista literária, ele falhou, por melhor que esteja escrito.
 
