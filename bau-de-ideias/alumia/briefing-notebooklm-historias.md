@@ -78,23 +78,45 @@ Adormecer antes do fim é o desenho funcionando. A métrica de sucesso é retorn
 
 ---
 
-## 4. A prova dos três, antes de escrever a primeira linha
+## 4. O que a Travessia é, e o que ela nunca é
 
-Se qualquer uma falhar, não é uma Travessia. Reprova e volta para a prancheta. **Esta seção existe porque estes três erros produziram três rascunhos descartados.**
+Esta definição manda em todas as outras regras.
 
-**1. Tem incidente e virada?**
-Monte o esqueleto Pixar por escrito antes do roteiro: *Era uma vez [cenário]. Todo dia [rotina ou tensão]. Um dia [incidente]. Por causa disso [mudança]. Por causa disso [nova rota]. Até que no fim [o símbolo é integrado].*
-Se o resumo couber em "a pessoa vai a um lugar bonito e relaxa", não existe história, existe cenário. Precisa **acontecer alguma coisa**, e o ouvinte precisa **agir** dentro da cena. Este é o erro mais comum e o mais fatal.
+A Travessia é **mindfulness dentro de storytelling**. A história existe para conduzir a atenção da pessoa para dentro do próprio corpo e devolver a ela a capacidade de deixar ir. A história é o veículo, e a experiência interna é o destino.
 
-**2. O símbolo cabe na mão?**
+**Ela não é conto de ficção, não é audiolivro e não é podcast narrativo.** Se o texto puder ser publicado como conto numa revista literária, ele falhou, por melhor que esteja escrito.
+
+O teste mais rápido: **se em algum momento o ouvinte quiser saber o que acontece depois, o roteiro está errado.** Vontade de saber é vigília. Uma Travessia dissolve a curiosidade em vez de alimentá-la.
+
+### As cinco leis da cena
+
+1. **O ouvinte está sozinho.** Nenhum outro personagem com vontade própria. Ninguém fala com ele, entrega nada, espera por ele ou observa. Presença humana no escuro aciona processamento social, que é vigilância. O mundo pode ter vida (um animal se ajeitando longe, uma luz numa janela distante), mas nada que exija reação social.
+2. **Nada de expectativa.** Nenhum suspense, nenhuma revelação guardada, nenhum "e então". Cada momento se basta.
+3. **Nada precisa ser lembrado.** Se adormecer no minuto quatro fizer perder alguma coisa, o roteiro está errado.
+4. **A sensação do ouvinte é o acontecimento principal.** O peso, a temperatura e a textura são o enredo.
+5. **Nada para resolver, nada para aprender.** Nenhum problema, nenhuma tarefa, nenhuma lição dentro da cena.
+
+## 5. A prova dos quatro, antes de escrever a primeira linha
+
+Se qualquer uma falhar, não é uma Travessia. Reprova e volta para a prancheta.
+
+**1. O ouvinte está sozinho e faz um gesto simples, e o mundo responde?**
+Esta é a mecânica inteira. Ele esvazia os bolsos e o rio leva. Ele anda para o lado e o rastro acompanha. O que muda é o estado do corpo dele e o do ambiente imediato, e nunca o enredo.
+Use o esqueleto Pixar apenas para conferir que existe movimento e chegada, nunca para construir trama: *era uma vez [onde o ouvinte está], todo dia [o que o corpo dele carrega], um dia [a pequena mudança que ele percebe], por causa disso [o gesto simples que ele faz], por causa disso [como o mundo responde e o corpo solta], até que no fim [o símbolo aparece para ele].*
+Cenário parado onde ninguém faz nada reprova. Trama com personagem e reviravolta reprova igual.
+
+**2. Passa no teste da curiosidade?**
+Leia em voz alta e pergunte a cada parágrafo: isto faz querer saber o que vem depois? Se fizer, reescreva.
+
+**3. O símbolo cabe na mão?**
 Coisa palpável, com peso e temperatura, que a pessoa possa comprar, achar ou catar no dia seguinte e deixar na mesa de cabeceira: uma pedra lisa, um pedaço de vidro do mar, uma chave velha, uma semente. Palavra, nome de hora ou conceito **não são símbolo**. O bloco final instrui a instalação do objeto no mundo real, para o gatilho ficar disponível no escuro sem ligar tela nenhuma.
 
-**3. O alívio do corpo é consequência do gesto?**
+**4. O alívio do corpo é consequência do gesto?**
 Cada parte do corpo que relaxa precisa relaxar por causa de algo que aconteceu na cena, nunca porque o narrador pediu. O body scan existe e é completo, mas fica escondido dentro da ação.
 
 ---
 
-## 5. Como se escreve: o DNA dos mestres
+## 6. Como se escreve: o DNA dos mestres
 
 São duas camadas, e a maioria dos roteiros ruins tem só a segunda.
 
@@ -112,7 +134,7 @@ São duas camadas, e a maioria dos roteiros ruins tem só a segunda.
 
 ---
 
-## 6. Tiques que reprovam o texto na revisão
+## 7. Tiques que reprovam o texto na revisão
 
 Passe todo roteiro nesta varredura antes de entregar. São os padrões que denunciam texto gerado por máquina, e é aqui que a maioria dos roteiros cai:
 
@@ -122,12 +144,14 @@ Passe todo roteiro nesta varredura antes de entregar. São os padrões que denun
 - **Narrador comentando a própria cena.** "Não é coincidência", "sabia?", "você é que ainda não tinha visto". O narrador conduz e não aparece.
 - **Parágrafos todos do mesmo tamanho e da mesma forma.** Alterne período longo com vírgulas e frase seca de quatro palavras.
 - **Sentimento genérico.** Qualquer ocorrência de "você se sente calmo, leve, em paz" reprova na hora.
+- **Personagem com vontade própria.** Alguém que fala, entrega, espera ou observa o ouvinte. Reprova na hora.
+- **Gancho de curiosidade.** Frase que existe para fazer querer saber o que vem depois. Reprova na hora.
 - **Dicotomia fatiada.** "Não é X. É Y." Proibida. O contraste se liga por conjunção: "não é X, mas Y", "em vez de".
 - **Adjetivo dobrado e doçura em série.** "Mansinho", "com cuidado", "suavemente" repetidos.
 
 ---
 
-## 7. Regras de redação
+## 8. Regras de redação
 
 - **Segunda pessoa e tempo presente**, do início ao fim. O ouvinte é quem atravessa, nunca quem assiste.
 - **Convite no lugar de comando** na entrada da história: "se você se der permissão", "eu convido você a notar". Nunca "agora faça isto" nem "esvazie a mente".
@@ -142,7 +166,7 @@ Passe todo roteiro nesta varredura antes de entregar. São os padrões que denun
 
 ---
 
-## 8. Vocabulário
+## 9. Vocabulário
 
 **Banido:**
 - Jargão de coach: destrave, destravar, mindset, alta performance, próximo nível, sucesso garantido, procrastinação, vibes.
@@ -155,7 +179,7 @@ Passe todo roteiro nesta varredura antes de entregar. São os padrões que denun
 
 ---
 
-## 9. Guarda-corpos de honestidade, invioláveis
+## 10. Guarda-corpos de honestidade, invioláveis
 
 Estes vencem qualquer outra orientação em caso de conflito. São o que separa o Alumia do místico de rede social e do coach, e é neles que a confiança do público se sustenta.
 
@@ -170,7 +194,7 @@ Estes vencem qualquer outra orientação em caso de conflito. São o que separa 
 
 ---
 
-## 10. Peças de referência
+## 11. Peças de referência
 
 **Pocket 01, "O rio no corredor".** Momento: 2h da manhã, acordou e não volta a dormir. A pessoa escuta som de água na casa, encontra um rio no corredor que passa ali entre duas e quatro da manhã, e descobre que foi dormir com os bolsos cheios de pedra. Tira uma por uma e o rio leva sem barulho, e cada pedra que sai solta uma parte do corpo. No fim sobra uma pequena e quente, e o rio não leva essa. Símbolo: **a pedra que fica**.
 
@@ -180,7 +204,7 @@ Os dois compartilham a mecânica: incidente, ação do ouvinte, virada, símbolo
 
 ---
 
-## 11. Registro das divergências resolvidas
+## 12. Registro das divergências resolvidas
 
 Este briefing funde duas versões. Onde elas discordavam, prevaleceu o seguinte, e a razão fica registrada para não voltar atrás:
 
@@ -192,7 +216,7 @@ Este briefing funde duas versões. Onde elas discordavam, prevaleceu o seguinte,
 
 ---
 
-## 12. O que pedir ao notebook
+## 13. O que pedir ao notebook
 
 Ao solicitar uma história nova, informe sempre:
 
