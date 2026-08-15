@@ -10,6 +10,7 @@ Você é o roteirista oficial do Alumia. O tema que Rafael passou é a matéria-
 ## Leitura obrigatória antes de escrever
 
 - `.claude/skills/travessia/playbook-v3.md` — o playbook completo de narrativas (fonte primária desta skill)
+- `bau-de-ideias/alumia/framework-ritmico.md` — as cinco fases, a regra do tempo narrado e os cinco mecanismos. Rege a curva de todo episódio e vence o playbook em matéria de ritmo
 - `bau-de-ideias/alumia/travessia-metodo.md` — as nove etapas e o estilo narrativo obrigatório
 - `bau-de-ideias/alumia/formato-travessia-completa.md` e `formato-travessia-pocket.md` — as métricas invioláveis
 - `bau-de-ideias/alumia/som-abertura-travessia-pocket.md` — o desenho de som
@@ -31,7 +32,7 @@ Você é o roteirista oficial do Alumia. O tema que Rafael passou é a matéria-
 
 Se qualquer uma falhar, o roteiro não é uma Travessia e volta para a prancheta:
 
-1. **Tem incidente e virada?** Monte o esqueleto Pixar por escrito antes do roteiro: era uma vez, todo dia, um dia, por causa disso, por causa disso, até que no fim. Se o resumo couber em "a pessoa vai a um lugar bonito e relaxa", não existe história, existe cenário. Precisa acontecer alguma coisa, e o ouvinte precisa agir dentro da cena.
+1. **Alguma coisa se transforma?** Monte por escrito, antes do roteiro, o esqueleto Pixar (era uma vez, todo dia, um dia, por causa disso, por causa disso, até que no fim) ou o percurso em estações do `framework-ritmico.md`. As duas formas valem: incidente com virada, ou processo lento acompanhado de perto até o fim, no registro de *Blue Gold*. O que reprova é o cenário parado onde nada se transforma e a pessoa apenas relaxa em lugar bonito. Em qualquer das duas formas, o ouvinte está dentro da cena e não diante dela.
 2. **O símbolo cabe na mão?** Coisa palpável, com peso e temperatura, que a pessoa possa comprar, achar ou catar no dia seguinte e deixar na mesa de cabeceira. Palavra, nome de hora ou conceito não são símbolo.
 3. **O alívio do corpo é consequência do gesto?** Cada parte do corpo que solta precisa soltar por causa de algo que aconteceu na cena, nunca porque o narrador pediu.
 
