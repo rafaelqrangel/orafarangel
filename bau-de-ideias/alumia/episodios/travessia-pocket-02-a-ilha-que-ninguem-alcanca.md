@@ -68,7 +68,7 @@ De pé na grama, de madrugada, com o vento chegando do mar.
 
 (7s)
 
-Esse vento vem morno na pele e fica fresco quando entra.
+Esse vento encosta morno na pele, e fica fresco quando entra pelo nariz.
 
 (7s)
 
@@ -82,11 +82,11 @@ E traz o barulho da água subindo na pedra lá embaixo, e descendo, e subindo de
 
 [Fase DESCIDA: a visão abre e o mundo chega até você.]
 
-As colinas vêm baixas, uma atrás da outra, até onde a vista alcança, e do outro lado o vulcão apagado virou uma bacia funda de capim.
+As colinas vêm baixas, uma atrás da outra, até onde a vista alcança. Do outro lado, o vulcão apagado virou uma bacia funda de capim.
 
 (8s)
 
-O mar fecha em volta, e no horizonte não tem farol nem cidade nem luz de outra terra.
+O mar fecha em volta. No horizonte não tem farol nem cidade nem luz de outra terra.
 
 (9s)
 
@@ -108,7 +108,7 @@ Você dá o primeiro passo e a grama chega fria de orvalho debaixo do pé descal
 
 (9s)
 
-Sobe o morro contra o vento, sem pressa, porque não tem ninguém esperando você em lugar nenhum.
+Sobe o morro contra o vento, sem pressa, porque a subida não tem hora para acabar.
 
 (9s)
 
@@ -128,7 +128,7 @@ Você encosta a mão num deles. A pedra é áspera como lixa grossa, e ainda gua
 
 (10s)
 
-Você apoia o braço, o peso do corpo passa para a pedra, e a sua mandíbula solta.
+Você apoia o braço. O peso do corpo passa para a pedra, primeiro o ombro, depois o pescoço, até a mandíbula soltar.
 
 (10s)
 
@@ -150,29 +150,29 @@ Eles não dormem porque é a função deles, e agora tem alguém acordado por vo
 
 ### BLOCO 3 — CLAREZA E FOCO · 7:00 a 10:00 · vibração 3
 
-A ilha inteira dorme por causa disso. Os cavalos, as casas, a gente dentro delas.
+A ilha dorme debaixo deles: os cavalos, as casas, a gente dentro delas.
 
 (12s)
 
-Ninguém está de guarda, porque a guarda já foi feita há séculos.
+A guarda está sendo feita há séculos. Ninguém aqui espera que você faça a sua.
 
 (13s)
 
-Você se deita na grama, e o chão sobe contra o seu peso. Os ombros largam por último.
+Você se deita atrás deles, onde o vento não chega e a grama ficou seca. O chão sobe contra o seu peso. Os ombros largam.
 
 (14s)
 
 [Fase ANCORAGEM a partir de 8:30: você é sujeito de cada frase.]
 
-Você encontra, ao lado da sua mão, uma pedra preta cheia de furos, do tamanho da sua palma.
+Você encontra, ao lado da sua mão, uma pedra preta cheia de furos, do tamanho da palma.
 
 (14s)
 
-Você fecha os dedos nela e levanta, e falta peso. Veio do fogo, esfriou cheia de ar, e não afunda.
+Você fecha os dedos nela e levanta. Falta peso: veio do fogo, esfriou cheia de ar.
 
 (15s)
 
-Você conhece essa pedra. Você tem uma igual na sua cabeceira, ao alcance no escuro.
+O seu polegar acha o fundo de um furo, o mesmo da pedra da sua cabeceira.
 
 (15s)
 
@@ -180,7 +180,7 @@ Você não tenta dormir. Você não olha as horas. Você não confere se funcion
 
 (16s)
 
-Da próxima vez que você fechar a mão nela e sentir os furos com o polegar, você volta para esta grama, e vem junto o SONO de quem não está de guarda.
+Da próxima vez que você fechar a mão nela no escuro, você volta para esta grama, e vem junto o SONO de quem não está de guarda.
 
 (13s)
 
@@ -192,7 +192,7 @@ Boa noite.
 
 ## Notas de produção
 
-**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Contagem a 115 palavras por minuto de locução noturna: bloco 1 com 106 palavras e 68s de pausa, fechando em 123s; bloco 2 com 286 palavras e 146s de pausa, fechando em 295s; bloco 3 com 146 palavras e 112s de pausa, fechando em 188s. Total de 607 segundos contra a janela de 600. Cronometrar bloco a bloco: se estourar, encurtar pausa, nunca cortar imagem.
+**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Contagem a 115 palavras por minuto de locução noturna: bloco 1 com 108 palavras e 68s de pausa, fechando em 124s; bloco 2 com 288 palavras e 146s de pausa, fechando em 296s; bloco 3 com 145 palavras e 112s de pausa, fechando em 188s. Total de 608 segundos contra a janela de 600. Cronometrar bloco a bloco: se estourar, encurtar pausa, nunca cortar imagem.
 
 **A inversão que desarma o alarme.** O alarme das duas da manhã tem menos a ver com medo do que com ficar sozinho acordado enquanto a casa inteira dorme. Por isso a entrada instala a solidão logo na segunda linha, com a casa dormindo em volta e o ouvinte acordado dentro dela, e a deriva vira isso do avesso: existe alguém acordado por você, e é por isso que a ilha inteira pode dormir. A transformação precisa terminar em quem escuta, nunca na paisagem. O ouvinte deixa de ser o único acordado porque passa a ser mais um dos que dormem enquanto outro vela.
 
@@ -200,7 +200,11 @@ Boa noite.
 
 **O pulso de leading, e por que ele existe.** A respiração é conduzida no bloco 1 e nunca mais é mencionada, mas o ritmo continua sendo dado pelo cenário, em três aparições com intervalo crescente: a água que sobe na pedra e desce no fim da entrada, a barriga do cavalo que enche devagar e esvazia mais devagar ainda na descida, e a mesma água na deriva, agora num intervalo mais largo do que antes. Quem escuta acompanha sem receber instrução de contagem, e a expiração longa fica sugerida pela cena.
 
-**A instalação do símbolo, dentro da cena.** Uma versão anterior identificava a pedra-pomes pela pia do banheiro e pelo calcanhar, e isso arrancava o ouvinte da ilha e da madrugada aos nove minutos, além de trazer imagem de tarefa doméstica. A instalação agora é pressuposição de posse dita no registro noturno: você conhece essa pedra, você tem uma igual na cabeceira, ao alcance no escuro. Sem verbo de providência, sem amanhã e sem sair de Rapa Nui.
+**A instalação do símbolo, por pressuposição de verdade.** A posse nunca é afirmada em oração principal, porque afirmar que o ouvinte tem a pedra convida a mente a conferir, e às duas da manhã a resposta interna vira uma objeção. A existência do objeto entra em posição não asserida: o que a frase afirma é o gesto do polegar achando o fundo do furo, e a pedra da cabeceira aparece de passagem, como coisa já dada. Sem verbo de posse na principal, sem tarefa, sem amanhã e sem sair de Rapa Nui.
+
+**A contradição que quase passou.** Uma versão anterior dizia que ninguém estava de guarda porque a guarda já fora feita há séculos, duas falas depois de afirmar que existe alguém acordado por quem escuta. Isso derrubava a inversão inteira e ainda estragava a âncora, porque o sono de quem não está de guarda passava a significar sono de quem foi abandonado. A guarda agora está em curso, no presente, e o que se dispensa é o turno do ouvinte.
+
+**Onde o corpo se deita.** O roteiro estabelece grama fria de orvalho e vento constante no alto do morro, e entregar o corpo a esse chão no momento da rendição faria o ouvinte simular frio e exposição justamente quando precisa de abrigo. Por isso ele se deita atrás das pedras, onde o vento não chega e a grama ficou seca, o que resolve a física da cena e ainda faz os moai protegerem quem escuta pela segunda vez.
 
 **A âncora tátil.** Presa às três qualidades que a pedra real entrega no escuro, sem depender de luz nem de temperatura: a aspereza, os furos sob o polegar e a leveza que não bate com o tamanho. A tese mora no objeto e é dita em uma linha: veio do fogo, esfriou cheia de ar, e não afunda.
 
