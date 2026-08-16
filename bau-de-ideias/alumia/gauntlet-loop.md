@@ -6,6 +6,8 @@
 
 Nenhum agente escreve, julga o próprio trabalho e para por aí. O objetivo é quebrado em partes julgáveis separadamente, cada parte ganha um construtor especialista, e críticos cegos de contexto limpo julgam contra um mandato explícito. O que reprova volta, é reescrito e rejulgado, até passar.
 
+O prompt que dispara o circuito tem forma fixa, em três parágrafos: o que, objetivos principais e objetivo final. O modelo com lacunas para preencher está em [`gauntlet-prompt-modelo.md`](gauntlet-prompt-modelo.md).
+
 ## O que é blueprint e o que muda a cada episódio
 
 O circuito, os mandatos dos críticos, as regras de redação e o cálculo de tempo são fixos e valem para qualquer história. O que muda é só o briefing da etapa 1, que Rafael aprova antes de qualquer linha de roteiro ser escrita. O circuito mora em [`../../.claude/workflows/gauntlet-travessia.js`](../../.claude/workflows/gauntlet-travessia.js) e recebe o briefing como argumento.
