@@ -154,7 +154,10 @@ DNA DE ESTILO: Gaiman (a mágica dita como fato, sem cerimônia, nada se explica
 
 phase('Construir')
 
-const partes = await parallel(blocos.map(bl => () =>
+// Modo revisão: se o briefing trouxer um roteiro pronto (ou o caminho de um
+// arquivo já escrito), a fase de construção é pulada e o circuito entra direto
+// em julgar, reparar e verificar.
+const partes = b.roteiro ? [b.roteiro] : await parallel(blocos.map(bl => () =>
   agent(`Você é roteirista do Alumia e está escrevendo UMA PARTE de uma ${F.rotulo}.
 
 ${LEITURA}
@@ -174,6 +177,7 @@ Devolva APENAS o texto pronto para teleprompter, começando pela linha "### BLOC
 ))
 
 const roteiroV1 = partes.filter(Boolean).join('\n\n')
+if (!roteiroV1) throw new Error('Nenhum bloco foi construído e nenhum roteiro foi passado no briefing.')
 
 phase('Julgar')
 
@@ -312,9 +316,12 @@ ${roteiroFinal}`,
   rodada++
 }
 
+// Só reprovação bloqueia. Ajuste é preferência de crítico: entra no relatório e
+// vai junto no reparo da rodada, mas nunca segura o circuito. Um gauntlet que
+// espera zero preferências nunca aprova nada e roda até o teto sem convergir.
 function defeitosPendentes(historico, iniciais) {
   const ultimo = historico.length ? historico[historico.length - 1].defeitos : iniciais
-  return ultimo.filter(d => d.gravidade === 'reprova' || d.gravidade === 'ajuste')
+  return ultimo.filter(d => d.gravidade === 'reprova')
 }
 
 const ultimaRodada = rodadas.length ? rodadas[rodadas.length - 1] : { vereditos, defeitos }
