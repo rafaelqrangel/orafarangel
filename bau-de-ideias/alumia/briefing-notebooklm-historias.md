@@ -1,7 +1,7 @@
 # Briefing para o NotebookLM de construção de histórias do Alumia
 
-> Documento único e autossuficiente, versão 2. Suba este arquivo como fonte no NotebookLM dedicado à criação de narrativas das Sessões TRAVESSIA. Ele contém tudo que é necessário para escrever dentro do contexto, do formato e do estilo, sem depender de nenhum outro documento.
-> Atualizado em 11/08/2026. Funde o briefing do repositório com o briefing gerado pelo NotebookLM do Alumia, corrigindo os pontos divergentes registrados na seção 11.
+> Documento único e autossuficiente, versão 3. Suba este arquivo como fonte no NotebookLM dedicado à criação de narrativas das Sessões TRAVESSIA. Ele contém tudo que é necessário para escrever dentro do contexto, do formato e do estilo, sem depender de nenhum outro documento.
+> Atualizado em 16/08/2026. A versão 3 incorpora a frase de posicionamento do fundador (simulador imersivo em segunda pessoa), as cinco leis da cena e a prova dos quatro. Substitua no NotebookLM qualquer versão anterior por esta.
 
 ---
 
