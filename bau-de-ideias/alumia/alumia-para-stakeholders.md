@@ -81,7 +81,7 @@ Jobs To Be Done parte de uma ideia simples: as pessoas não compram produtos, el
 | Entender sem ser enganado | Episódio em quatro tempos: o mito, a fonte real, o insight, a prática | A fonte é sempre creditada e verificável, e a estrutura se repete, o que cria confiança de método |
 | Aplicar sem reorganizar a vida | Micro-hábito de trinta segundos, ancorado em um hábito existente | Método de design comportamental de BJ Fogg (Stanford): comportamento acontece quando motivação, capacidade e gatilho convergem, e a capacidade é a alavanca mais barata |
 | Aprofundar quando quiser | Biblioteca de livros comentados com link de compra | Trata o destilado como mapa que envia ao livro, não como substituto dele |
-| Desacelerar à noite | Travessia: narrativa imersiva em segunda pessoa, 22 minutos | Ocupa a mente com história em vez de exigir silêncio mental, que é onde a meditação guiada perde o iniciante |
+| Desacelerar à noite | Travessia: simulador imersivo em segunda pessoa, 22 minutos, com o ouvinte como protagonista desde o frame zero | Ocupa a mente com uma cena habitada em vez de exigir silêncio mental, que é onde a meditação guiada perde o iniciante |
 
 ## 5. A evidência que temos, e o que ainda é aposta
 
