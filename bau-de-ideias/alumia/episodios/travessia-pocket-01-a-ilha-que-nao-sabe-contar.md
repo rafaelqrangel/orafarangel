@@ -34,25 +34,13 @@ Marcações: (5s), (10s), (20s) são pausas com a duração indicada · MAIÚSCU
 
 ### BLOCO 1 — DESACELERAÇÃO EXPRESSA · 0:00 a 2:00 · vibração 2
 
-[Fase ENTRADA até 1:30: o mundo chega até você. Chega por ouvido e nariz, antes de qualquer imagem.]
+[Fase ENTRADA até 1:30: reconhecer o estado, respirar, e chegar. O cenário é nomeado antes de qualquer detalhe sensorial.]
 
-O seu corpo está parado. Atrás dos olhos fechados a conta continua rodando.
-
-(5s)
-
-Aqui tem água se mexendo devagar numa cova de pedra.
+A sua cabeça ainda está somando. O corpo já parou, ela não.
 
 (5s)
 
-Mais embaixo, uma onda quebra e volta.
-
-(6s)
-
-O ar tem SAL.
-
-(6s)
-
-Puxa esse ar pelo nariz.
+Puxa o ar pelo nariz, devagar.
 
 (5s)
 
@@ -72,17 +60,23 @@ Mais uma vez, até o fim.
 
 (8s)
 
-O sal fica na sua boca depois que o ar sai.
+Fica de olhos fechados. Eu te levo.
 
 (6s)
 
-Ninguém está te esperando em lugar nenhum.
+Você está numa ilha, no meio do mar. É noite, e você está de pé na areia.
 
 (6s)
 
-[Fase DESCIDA a partir de 1:30: a visão abre.]
+O que você ouve é o mar, quebrando lá embaixo e voltando.
 
-O mar está preto até onde o olho alcança. Do outro lado não tem margem.
+(6s)
+
+O ar aqui tem SAL.
+
+(6s)
+
+E a areia debaixo do seu pé descalço ainda guarda o calor do dia.
 
 (8s)
 
@@ -90,11 +84,17 @@ O mar está preto até onde o olho alcança. Do outro lado não tem margem.
 
 ### BLOCO 2 — O PONTO DE LUZ · 2:00 a 7:00 · vibração 5
 
-A pedra desta encosta já foi fogo. Desceu vermelha até a água, endureceu no ar salgado e ficou.
+[Fase DESCIDA: a visão abre.]
 
-(8s)
+Quando os seus olhos se acostumam com o escuro, o mar aparece preto até onde a vista alcança, e do outro lado não tem margem.
 
-A ilha subiu do fundo do mar sem pressa nenhuma, empurrando água por um tempo que não cabe em calendário, até furar a superfície e virar chão.
+(9s)
+
+Atrás de você sobe uma encosta escura. Aquela pedra já foi fogo: desceu vermelha até a água, endureceu no ar salgado e ficou.
+
+(9s)
+
+A ilha inteira subiu do fundo do mar sem pressa nenhuma, empurrando água por um tempo que não cabe em calendário, até furar a superfície e virar chão.
 
 (9s)
 
@@ -102,21 +102,17 @@ Ela não sabe há quanto tempo faz isso.
 
 (9s)
 
-Adiante tem uma faixa clara, que é praia. Aquela areia já foi montanha, e o mar moeu ela grão a grão, sem anotar nenhum.
+A areia onde você está já foi montanha. O mar moeu ela grão a grão, e não anotou nenhum.
 
 (9s)
 
-[Fase IMERSÃO a partir de 4:00: o tato entra e você age.]
+[Fase IMERSÃO a partir de 4:00: o tato assume e você age.]
 
-Você desce até lá. Debaixo do seu pé descalço a areia devolve o calor que guardou do dia.
-
-(9s)
-
-O calor sobe pela sola até o tornozelo. O seu peito descobre que pode ir mais fundo, e o ar desce até a barriga sozinho.
+O calor da areia sobe pela sola até o tornozelo. O seu peito descobre que pode ir mais fundo, e o ar desce até a barriga sozinho.
 
 (10s)
 
-Uma tartaruga vem pela areia, raspando devagar. O casco alto passa na sua frente, e o corpo velho para do seu lado.
+Uma tartaruga vem pela praia, raspando devagar. O casco alto passa na sua frente, e o corpo velho para do seu lado.
 
 (9s)
 
@@ -142,7 +138,7 @@ A sua mão continua no casco. O seu pé afunda um pouco mais na areia molhada, e
 
 [Fase DERIVA a partir de 6:30: a passividade assume.]
 
-A luz vai embora devagar. O casco embaixo da sua mão vira um vulto escuro.
+A última luz vai embora. O casco embaixo da sua mão vira um vulto escuro.
 
 (9s)
 
@@ -204,7 +200,9 @@ Boa noite.
 
 ## Notas de produção
 
-**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Alvos derivados a 115 palavras por minuto de locução noturna: bloco 1 com 92 palavras e 76s de pausa, fechando em 124s; bloco 2 com 300 palavras e 149s de pausa, fechando em 305s; bloco 3 com 135 palavras e 112s de pausa, fechando em 182s. Total de 611 segundos contra a janela de 600, dentro da tolerância. Cronometrar bloco a bloco na gravação: se sobrar tempo, alongar as pausas, nunca acrescentar texto.
+**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Alvos derivados a 115 palavras por minuto de locução noturna: bloco 1 com 94 palavras e 71s de pausa, fechando em 120s; bloco 2 com 310 palavras e 150s de pausa, fechando em 312s; bloco 3 com 134 palavras e 112s de pausa, fechando em 182s. Total de 614 segundos contra a janela de 600, dentro da tolerância. Cronometrar bloco a bloco na gravação: se sobrar tempo, alongar as pausas, nunca acrescentar texto.
+
+**A função do bloco 1: transportar, e não sensibilizar.** A entrada reconhece o estado de quem chegou, conduz as três respirações e diz com todas as letras onde a pessoa está: uma ilha, no meio do mar, à noite, de pé na areia. Só depois de nomear o lugar e a posição do corpo é que entram som, cheiro e temperatura. Uma versão anterior abria com sal e água em pedra sem nenhum cenário estabelecido, e as frases não se ligavam umas às outras: quem escuta era obrigado a procurar sentido em vez de descer. A orientação vem antes da sensação, sempre.
 
 **A curva de pausa.** As pausas crescem do começo ao fim, de 5 a 8 segundos no bloco 1 até 10 a 20 segundos no bloco 3, cumprindo o mecanismo das pausas crescentes. O pico do episódio inteiro são os 20 segundos imediatamente antes do boa noite, e não um pico no meio.
 

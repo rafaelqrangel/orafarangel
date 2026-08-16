@@ -40,6 +40,8 @@ Coda = silêncio que começa depois da fase 5 concluída
 
 **3. Progressão sensorial, sempre nesta ordem.** Olfato ou audição, depois visão, depois tato, e por último sensação interna. Os dois primeiros ativam memória emocional sem acionar análise racional, e o último é o body scan implícito que instala o estado final.
 
+**Orientação antes de sensação, e isso vence a ordem acima.** Antes do primeiro detalhe sensorial, quem escuta precisa saber onde está e em que posição: o lugar, a hora e o corpo. Cheiro de sal sem praia nomeada não é imersão, é frase solta, e cada frase que não se liga à anterior obriga a cabeça a procurar sentido, que é o oposto do trabalho. A regra prática da entrada é reconhecer o estado, respirar, e chegar num lugar dito com todas as letras. Só depois disso o mundo entra pelos sentidos, na ordem do mecanismo.
+
 **4. Agência progressiva do você.** O pronome não muda, a agência sim. O diferencial do Alumia é o simulador imersivo: o ouvinte não observa o mundo, ele é o protagonista desde o frame zero. O "você" está presente do início ao fim, e o que escala é o papel dele dentro da narrativa.
 
 | Fases | Papel do "você" | O que acontece |
