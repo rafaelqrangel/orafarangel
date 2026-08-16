@@ -40,7 +40,7 @@ Você está de olhos abertos no escuro sem ter decidido isso, e o coração vai 
 
 (5s)
 
-O mundo inteiro dorme. Você não.
+A casa dorme em volta de você, e dentro dela você está acordado sozinho.
 
 (6s)
 
@@ -142,7 +142,7 @@ A sua mão fica ali enquanto o vento bate nas suas costas e nas costas deles, e 
 
 (11s)
 
-Eles não dormem. É a função deles, e agora tem alguém acordado por você.
+Eles não dormem porque é a função deles, e agora tem alguém acordado por você.
 
 (12s)
 
@@ -192,9 +192,9 @@ Boa noite.
 
 ## Notas de produção
 
-**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Contagem a 115 palavras por minuto de locução noturna: bloco 1 com 98 palavras e 68s de pausa, fechando em 119s; bloco 2 com 287 palavras e 146s de pausa, fechando em 296s; bloco 3 com 145 palavras e 112s de pausa, fechando em 188s. Total de 603 segundos contra a janela de 600. Cronometrar bloco a bloco: se estourar, encurtar pausa, nunca cortar imagem.
+**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Contagem a 115 palavras por minuto de locução noturna: bloco 1 com 106 palavras e 68s de pausa, fechando em 123s; bloco 2 com 286 palavras e 146s de pausa, fechando em 295s; bloco 3 com 146 palavras e 112s de pausa, fechando em 188s. Total de 607 segundos contra a janela de 600. Cronometrar bloco a bloco: se estourar, encurtar pausa, nunca cortar imagem.
 
-**A inversão que desarma o alarme.** O alarme das duas da manhã não é medo, é ficar sozinho acordado enquanto todo mundo dorme. Por isso a entrada instala a solidão em duas frases secas, o mundo inteiro dorme e você não, e a deriva vira isso do avesso: existe alguém acordado por você, e é por isso que a ilha inteira pode dormir. A transformação precisa terminar em quem escuta, e não na paisagem. O ouvinte deixa de ser o único acordado porque passa a ser mais um dos que dormem enquanto outro vela.
+**A inversão que desarma o alarme.** O alarme das duas da manhã tem menos a ver com medo do que com ficar sozinho acordado enquanto a casa inteira dorme. Por isso a entrada instala a solidão logo na segunda linha, com a casa dormindo em volta e o ouvinte acordado dentro dela, e a deriva vira isso do avesso: existe alguém acordado por você, e é por isso que a ilha inteira pode dormir. A transformação precisa terminar em quem escuta, nunca na paisagem. O ouvinte deixa de ser o único acordado porque passa a ser mais um dos que dormem enquanto outro vela.
 
 **O lúdico afirmado como fato.** Que os moai vieram andando até onde estão é o que a tradição oral rapanui conta, e o roteiro afirma isso em uma frase, sem explicação, sem fonte e sem virar aula. É a transgressão do racional que o episódio pede, e ela não custa honestidade nenhuma porque não é apresentada como dado.
 

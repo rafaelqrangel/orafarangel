@@ -36,7 +36,7 @@ Marcações: (5s), (10s), (20s) são pausas com a duração indicada · MAIÚSCU
 
 [Fase ENTRADA até 1:30: reconhecer o estado, respirar, e chegar. O cenário é nomeado antes de qualquer detalhe sensorial.]
 
-A sua cabeça ainda está somando. O corpo já parou, ela não.
+O seu corpo já parou faz tempo, e a sua cabeça continua somando.
 
 (5s)
 
@@ -112,11 +112,11 @@ A areia onde você está já foi montanha. O mar moeu ela grão por grão e não
 
 [Fase IMERSÃO a partir de 4:00: o tato assume e você age.]
 
-O calor que a areia guardou do sol sobe pela sola do seu pé, passa no tornozelo, e o seu peito descobre que pode ir mais fundo. O ar desce até a barriga sozinho.
+O calor que a areia guardou do sol sobe pela sola do seu pé até o tornozelo. O seu peito descobre que pode ir mais fundo. O ar desce até a barriga sozinho.
 
 (7s)
 
-Uma tartaruga vem pela praia, raspando devagar, e o corpo velho para do seu lado. Você abaixa a mão e encontra uma placa áspera e morna, com sulcos onde os seus dedos encaixam sem procurar.
+Uma tartaruga vem pela praia, raspando devagar. O corpo velho para do seu lado. Você abaixa a mão sobre o casco: uma placa áspera e morna, com sulcos onde os seus dedos encaixam sem procurar.
 
 (7s)
 
@@ -124,11 +124,11 @@ Ninguém nunca contou a idade dela.
 
 (8s)
 
-Ela recomeça a andar e você vai junto. Do lado dela não existe andar depressa: o seu passo encurta, e os seus ombros descem um dedo.
+Ela recomeça a andar e você vai junto. Do lado dela não existe andar depressa. O seu passo encurta. Os seus ombros descem um dedo.
 
 (7s)
 
-O pescoço estica para alcançar uma folha baixa. A folha rasga com um estalo curto, e a boca trabalha aquilo num ritmo só.
+O pescoço estica para alcançar uma folha baixa. A folha rasga com um estalo curto. A boca trabalha aquilo num ritmo só, um pedaço de cada vez.
 
 (7s)
 
@@ -138,11 +138,11 @@ A sua mão continua no casco. O seu pé afunda na areia molhada, e a maré chega
 
 [Fase DERIVA a partir de 6:30: a passividade assume.]
 
-A última luz vai embora do céu, e o casco embaixo da sua mão vira um vulto escuro.
+A última luz vai embora do céu. O casco embaixo da sua mão vira um vulto escuro.
 
 (7s)
 
-A tartaruga para no meio do caminho. Não procura abrigo, não escolhe lugar melhor, não anda mais um pouco. Recolhe a cabeça, encosta o queixo na areia e dorme ali mesmo.
+A tartaruga para no meio do caminho, sem procurar abrigo nem lugar melhor. Recolhe a cabeça, encosta o queixo na areia e dorme ali mesmo.
 
 (8s)
 
@@ -172,11 +172,11 @@ Você encontra, na marca funda da pata dela, uma tartaruga de pedra do tamanho d
 
 (13s)
 
-Você fecha a mão. Ela é lisa, tem peso, e cabe inteira no seu punho.
+Você fecha a mão. Ela é lisa, tem peso, cabe inteira no seu punho.
 
 (14s)
 
-Você já tem uma dessas, e ela dorme na sua cabeceira, ao alcance no escuro.
+Você já tem uma dessas dormindo na sua cabeceira, ao alcance no escuro.
 
 (15s)
 
@@ -196,7 +196,7 @@ Boa noite.
 
 ## Notas de produção
 
-**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Contagem a 115 palavras por minuto de locução noturna: bloco 1 com 111 palavras e 67s de pausa, fechando em 125s; bloco 2 com 362 palavras e 116s de pausa, fechando em 305s; bloco 3 com 143 palavras e 112s de pausa, fechando em 187s. Total de 616 segundos contra a janela de 600, com 16 segundos a absorver nas pausas durante a gravação. Cronometrar bloco a bloco: se estourar, encurtar pausa, nunca cortar imagem.
+**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Contagem a 115 palavras por minuto de locução noturna: bloco 1 com 112 palavras e 67s de pausa, fechando em 125s; bloco 2 com 357 palavras e 116s de pausa, fechando em 302s; bloco 3 com 140 palavras e 112s de pausa, fechando em 185s. Total de 613 segundos contra a janela de 600, com 13 segundos a absorver nas pausas durante a gravação. Cronometrar bloco a bloco: se estourar, encurtar pausa, nunca cortar imagem.
 
 **O teto de densidade da pocket.** Dez minutos comportam cerca de 570 palavras faladas a 115 por minuto mais o que sobrar de pausa, e cada imagem nova custa silêncio. Este roteiro trabalha no limite: o bloco 2 desceu para pausas de 6 a 8 segundos para abrir espaço ao céu e à integração do corpo. Densidade maior que esta não cabe na pocket, e é para isso que existe a Travessia completa, cujos onze minutos de jornada comportam a encosta inteira, a subida até o alto, o mar visto de cima e o retorno em câmera lenta.
 

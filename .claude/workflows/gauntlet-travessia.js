@@ -147,7 +147,8 @@ TIQUES QUE REPROVAM:
 - Corrente de frases-fragmento usada como pontuação.
 - Narrador comentando a própria cena ("não é coincidência", "sabia?").
 - Parágrafos todos do mesmo tamanho e da mesma forma. Alterne período longo com vírgulas e frase seca de quatro palavras.
-- Cadeia de "como se" decorativo, adjetivo dobrado, dicotomia fatiada "Não é X. É Y.", staccato de IA.
+- DICOTOMIA FATIADA, o tique mais grave da lista e banido por decreto: contraste partido em duas frases curtas, em qualquer forma. "Isso não é X. É Y.", "Todo mundo X. Você Y.", "A casa dorme. Você não.", "Não é sobre X. É sobre Y." É a assinatura mais reconhecível de texto de máquina. A ideia se diz num período só, com conjunção no lugar do ponto. A única sequência de negativas permitida no roteiro inteiro são as três de dispensa do esforço do bloco final.
+- Cadeia de "como se" decorativo, adjetivo dobrado, staccato de IA.
 - Jargão de coach (destrave, mindset, próximo nível, alta performance) e misticismo gratiluz (vibrar na luz, energias do universo, limpar a aura).
 
 DNA DE ESTILO: Gaiman (a mágica dita como fato, sem cerimônia, nada se explica), Martin (materialidade: peso, temperatura, textura específica daquele mundo), Springsteen (franqueza de classe trabalhadora, verso curto que cai como soco depois da frase longa), King (detalhe físico honesto no lugar de sentimento genérico), McKee (curva de tensão que desce).
@@ -227,7 +228,8 @@ Verifique também: as pausas do último bloco são o dobro das do primeiro? A pr
   {
     id: 'voz',
     mandato: `Você é o crítico de VOZ E TIQUES. Rode a varredura de tiques da skill linha por linha e cite o trecho literal de cada ocorrência.
-Reprove se encontrar: tríade anafórica; a mesma fórmula de comparação mais de uma vez no roteiro inteiro; corrente de frases-fragmento usada como pontuação; narrador comentando a própria cena; parágrafos todos do mesmo tamanho e da mesma forma; sentimento genérico; cadeia de "como se" decorativo; adjetivo dobrado; dicotomia fatiada "Não é X. É Y."; staccato de IA; jargão de coach; misticismo gratiluz; qualquer emoji ou seta decorativa; a grafia "cê"; qualquer dia da semana ou data nomeada.
+PRIMEIRA COISA A FAZER, antes de qualquer outra: caçar dicotomia fatiada, frase por frase. Toda vez que uma frase curta contrastar com a anterior por oposição de sujeito ou por negação seca, é reprovação automática, sem discussão e sem atenuante. Formas a caçar: "Isso não é X. É Y.", "Todo mundo X. Você Y.", "A casa dorme. Você não.", "Não é sobre X. É sobre Y.", e qualquer variação que ponha o contraste num ponto final. A correção é sempre a mesma: dizer a ideia num período só, com conjunção no lugar do ponto. A única exceção do roteiro inteiro são as três negativas de dispensa do esforço do bloco final.
+Reprove também se encontrar: tríade anafórica; a mesma fórmula de comparação mais de uma vez no roteiro inteiro; corrente de frases-fragmento usada como pontuação; narrador comentando a própria cena; parágrafos todos do mesmo tamanho e da mesma forma; sentimento genérico; cadeia de "como se" decorativo; adjetivo dobrado; dicotomia fatiada "Não é X. É Y."; staccato de IA; jargão de coach; misticismo gratiluz; qualquer emoji ou seta decorativa; a grafia "cê"; qualquer dia da semana ou data nomeada.
 Verifique também se o texto soa como a voz do Rafael e se cumpre o DNA de estilo (Gaiman, Martin, Springsteen, King, McKee), mais a direção de estilo específica deste episódio, se houver. Reprove qualquer trecho que copie, parafraseie de perto ou cite frase de autor real: a influência é de textura, e o texto tem de ser original.`,
   },
   {
