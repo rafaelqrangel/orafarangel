@@ -4,7 +4,11 @@
 
 ## O que é
 
-Travessia é o quadro de mindfulness com storytelling do AlumiaCast. O ouvinte não escuta uma meditação guiada, ele atravessa uma experiência narrada em segunda pessoa, participando dela. Não se explica o ensinamento, se vive.
+Travessia é o quadro imersivo do AlumiaCast, e o posicionamento dela foi fechado por Rafael em 16/08/2026:
+
+> "Não é mindfulness com storytelling — é um **simulador imersivo em segunda pessoa**. O ouvinte não observa o mundo, ele é o protagonista desde o frame zero."
+
+O ouvinte não escuta uma meditação guiada nem um conto: ele está dentro de um mundo que responde ao que ele faz, do primeiro segundo ao último. Não se explica o ensinamento, se vive. Mindfulness e storytelling são o mecanismo de produção por dentro, e nunca a descrição pública da experiência.
 
 Dois usos, mesma estrutura:
 
@@ -47,7 +51,7 @@ Definido por Rafael em 10/08/2026. Três referências regem a escrita, e cada um
 
 Vícios banidos: cadeia de "como se" decorativo, adjetivo dobrado, frases consecutivas com a mesma forma, doçura genérica em série. O encantamento é o conteúdo, e a secura é o estilo: a pessoa quer proteção e mágica, e a mágica convence mais quando é contada sem enfeite.
 
-Peça de referência: [`episodios/travessia-pocket-01-a-hora-que-tinha-nome.md`](episodios/travessia-pocket-01-a-hora-que-tinha-nome.md).
+Peça de referência: [`episodios/travessia-pocket-01-o-rio-no-corredor.md`](episodios/travessia-pocket-01-o-rio-no-corredor.md).
 
 ## Relação com os outros formatos
 

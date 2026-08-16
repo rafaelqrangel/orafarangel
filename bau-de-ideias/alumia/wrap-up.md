@@ -13,7 +13,7 @@ A Única Coisa (Gary Keller): um único segmento, uma única proposta, dois mome
 O Alumia vive dentro do universo @orafarangel e se manifesta em quatro corpos:
 
 1. **AlumiaCast**, o podcast. Narração sem rosto, voz e desenho de som, estilo Corvo Seco. Aberto e gratuito para sempre, em Spotify, Apple Podcasts e YouTube. É a porta de entrada de todo o sistema.
-2. **Travessia**, o quadro imersivo. Uma história com um narrador que conduz a pessoa por dentro dela até o fim, em vez de meditação guiada. O nome é o próprio método: T de Tempo para si, R de Reconhecer-se, A de Atenção, V de Vivenciar, E de Experiência, S de Sentido, S de Simbolizar, I de Integrar, A de Autoria.
+2. **Travessia**, o quadro imersivo e o diferencial do Alumia: um simulador imersivo em segunda pessoa, onde o ouvinte não observa o mundo, ele é o protagonista desde o frame zero. O nome é o próprio método: T de Tempo para si, R de Reconhecer-se, A de Atenção, V de Vivenciar, E de Experiência, S de Sentido, S de Simbolizar, I de Integrar, A de Autoria.
 3. **O app**, onde o método vira rotina. Acervo completo, versões estendidas, personalização. É o produto pago.
 4. **Biblioteca Alumia**, as fontes por trás dos episódios com link de afiliado Amazon. Promessa invertida em relação ao Blinkist: em vez de resumir para você não ler, apresentamos para você querer ler o livro inteiro. Curadoria acima de comissão, sempre.
 

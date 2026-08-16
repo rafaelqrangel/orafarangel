@@ -17,7 +17,7 @@ Episódios de 21 minutos em quatro tempos fixos:
 3. **INSIGHT** (9:00 a 15:30) — o princípio destilado em uma frase repetível.
 4. **PROMPT** (15:30 a 21:00) — a micro-ação de 30 segundos ancorada em hábito existente (método BJ Fogg).
 
-Há uma segunda linha de episódios, o quadro **Travessia**: jornadas imersivas de mindfulness com storytelling em segunda pessoa, onde o ensinamento é vivido dentro da história em vez de explicado, fechando com uma âncora de 30 segundos. Mira a fresta de escuta longa noturna (validada com dados: alta demanda, competição baixa).
+Há uma segunda linha de episódios, o quadro **Travessia**: um simulador imersivo em segunda pessoa, onde o ouvinte é o protagonista desde o frame zero e o ensinamento é vivido dentro do mundo em vez de explicado, fechando com uma âncora de 30 segundos. Mira a fresta de escuta longa noturna (validada com dados: alta demanda, competição baixa).
 
 ## O pipeline de produção (etapas que a IA deve estruturar e automatizar)
 
