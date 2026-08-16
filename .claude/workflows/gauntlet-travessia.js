@@ -150,7 +150,14 @@ TIQUES QUE REPROVAM:
 - Cadeia de "como se" decorativo, adjetivo dobrado, dicotomia fatiada "Não é X. É Y.", staccato de IA.
 - Jargão de coach (destrave, mindset, próximo nível, alta performance) e misticismo gratiluz (vibrar na luz, energias do universo, limpar a aura).
 
-DNA DE ESTILO: Gaiman (a mágica dita como fato, sem cerimônia, nada se explica), Martin (materialidade: peso, temperatura, textura específica daquele mundo), Springsteen (franqueza de classe trabalhadora, verso curto que cai como soco depois da frase longa), King (detalhe físico honesto no lugar de sentimento genérico), McKee (curva de tensão que desce).`
+DNA DE ESTILO: Gaiman (a mágica dita como fato, sem cerimônia, nada se explica), Martin (materialidade: peso, temperatura, textura específica daquele mundo), Springsteen (franqueza de classe trabalhadora, verso curto que cai como soco depois da frase longa), King (detalhe físico honesto no lugar de sentimento genérico), McKee (curva de tensão que desce).
+
+TEXTURA DAS FASES DE ENTRADA E DESCIDA: densidade sensorial em camadas, acumulação rítmica que cresce até saturar e quebra num fragmento curto, e ambiente com intenção própria. Orientação antes de sensação: quem escuta precisa saber onde está e em que posição antes do primeiro detalhe sensorial.${b.estilo ? `
+
+DIREÇÃO DE ESTILO ESPECÍFICA DESTE EPISÓDIO, que convive com o DNA acima e vence em caso de conflito de textura:
+${b.estilo}
+
+Estilo é influência de escrita, nunca reprodução: jamais copiar, parafrasear de perto ou citar frases de qualquer autor. O texto é original.` : ''}`
 
 phase('Construir')
 
@@ -221,7 +228,7 @@ Verifique também: as pausas do último bloco são o dobro das do primeiro? A pr
     id: 'voz',
     mandato: `Você é o crítico de VOZ E TIQUES. Rode a varredura de tiques da skill linha por linha e cite o trecho literal de cada ocorrência.
 Reprove se encontrar: tríade anafórica; a mesma fórmula de comparação mais de uma vez no roteiro inteiro; corrente de frases-fragmento usada como pontuação; narrador comentando a própria cena; parágrafos todos do mesmo tamanho e da mesma forma; sentimento genérico; cadeia de "como se" decorativo; adjetivo dobrado; dicotomia fatiada "Não é X. É Y."; staccato de IA; jargão de coach; misticismo gratiluz; qualquer emoji ou seta decorativa; a grafia "cê"; qualquer dia da semana ou data nomeada.
-Verifique também se o texto soa como a voz do Rafael e se cumpre o DNA de estilo (Gaiman, Martin, Springsteen, King, McKee).`,
+Verifique também se o texto soa como a voz do Rafael e se cumpre o DNA de estilo (Gaiman, Martin, Springsteen, King, McKee), mais a direção de estilo específica deste episódio, se houver. Reprove qualquer trecho que copie, parafraseie de perto ou cite frase de autor real: a influência é de textura, e o texto tem de ser original.`,
   },
   {
     id: 'pnl',
