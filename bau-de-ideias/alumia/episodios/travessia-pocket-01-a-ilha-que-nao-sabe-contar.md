@@ -64,19 +64,15 @@ Fica de olhos fechados. Eu te levo.
 
 (6s)
 
-Você está numa ilha, no meio do mar. É noite, e você está de pé na areia.
+Você está numa ilha, no meio do mar, e é noite aqui: de pé na areia, com o vento chegando morno pelas costas e o mar trabalhando lá embaixo, quebrando e voltando, quebrando e voltando, sem nenhuma pressa de terminar.
 
-(6s)
-
-O que você ouve é o mar, quebrando lá embaixo e voltando.
-
-(6s)
+(8s)
 
 O ar aqui tem SAL.
 
 (6s)
 
-E a areia debaixo do seu pé descalço ainda guarda o calor do dia.
+E a areia, que passou o dia inteiro guardando sol, devolve esse calor agora, na sola do seu pé descalço.
 
 (8s)
 
@@ -102,7 +98,7 @@ Ela não sabe há quanto tempo faz isso.
 
 (9s)
 
-A areia onde você está já foi montanha. O mar moeu ela grão a grão, e não anotou nenhum.
+A areia onde você está já foi montanha. O mar levou um tempo sem nome para moer ela, grão por grão, e não anotou nenhum.
 
 (9s)
 
@@ -200,7 +196,9 @@ Boa noite.
 
 ## Notas de produção
 
-**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Alvos derivados a 115 palavras por minuto de locução noturna: bloco 1 com 94 palavras e 71s de pausa, fechando em 120s; bloco 2 com 310 palavras e 150s de pausa, fechando em 312s; bloco 3 com 134 palavras e 112s de pausa, fechando em 182s. Total de 614 segundos contra a janela de 600, dentro da tolerância. Cronometrar bloco a bloco na gravação: se sobrar tempo, alongar as pausas, nunca acrescentar texto.
+**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Contagem a 115 palavras por minuto de locução noturna: bloco 1 com 111 palavras e 67s de pausa, fechando em 125s; bloco 2 com 316 palavras e 150s de pausa, fechando em 315s; bloco 3 com 134 palavras e 112s de pausa, fechando em 182s. Total de 622 segundos contra a janela de 600, com folga de 22 segundos a absorver nas pausas durante a gravação. Cronometrar bloco a bloco: se estourar, encurtar pausa, nunca cortar imagem.
+
+**A textura das duas primeiras fases.** A entrada e a descida seguem os traços de narração levantados no framework: densidade sensorial em camadas, acumulação rítmica que cresce até saturar e quebra num fragmento curto, e ambiente com intenção própria. O período longo da chegada à ilha satura no mar que quebra e volta sem pressa de terminar, e quebra seco em "o ar aqui tem sal". A areia guarda sol o dia inteiro e devolve, o mar leva um tempo sem nome para moer a montanha, e a ilha não sabe há quanto tempo faz aquilo. O narrador, esse, não aparece nem comenta: quem escuta está dentro, e narrador visível expulsa da cena.
 
 **A função do bloco 1: transportar, e não sensibilizar.** A entrada reconhece o estado de quem chegou, conduz as três respirações e diz com todas as letras onde a pessoa está: uma ilha, no meio do mar, à noite, de pé na areia. Só depois de nomear o lugar e a posição do corpo é que entram som, cheiro e temperatura. Uma versão anterior abria com sal e água em pedra sem nenhum cenário estabelecido, e as frases não se ligavam umas às outras: quem escuta era obrigado a procurar sentido em vez de descer. A orientação vem antes da sensação, sempre.
 

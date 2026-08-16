@@ -54,6 +54,17 @@ A escalada de agência cria imersão crescente sem quebrar o ponto de vista. É 
 
 **5. Instalação de âncora, nos últimos 10 a 15% do tempo narrado.** Estrutura fixa: da próxima vez que o ouvinte tiver contato com um estímulo sensorial concreto do episódio, ele volta para a imagem central, e com ela vem o estado instalado. O estímulo precisa ser real e cotidiano, nunca abstrato.
 
+## A textura das fases 1 e 2: o que se aprende com Stephen Fry
+
+Análise de Rafael sobre a narração de *Blue Gold*, em 16/08/2026. Vale onde o ouvinte ainda recebe o mundo, e é ali que a nossa escrita costuma sair seca demais.
+
+- **Densidade sensorial em camadas.** O lugar nunca chega só pelos olhos. Primeiro cheiro ou temperatura, depois som, e só então imagem. Quem escuta entra na cena antes de vê-la.
+- **Acumulação rítmica.** Períodos longos que somam detalhe sobre detalhe, com cadência quase musical, crescendo até a saturação e quebrando num fragmento curto. É o contrário do staccato de frases isoladas.
+- **O ambiente age.** O cenário tem intenção: a maré trabalha, a areia guarda o sol, a ilha não sabe há quanto tempo faz aquilo. Nada é pano de fundo.
+- **O corpo como sensor.** Sensação física antes de emoção nomeada. Nunca dizer o que a pessoa sente: dizer o que acontece no estômago, na palma, na garganta, e deixar a emoção chegar por inferência.
+
+**O traço que não entra.** Fry mantém o narrador presente na cena, comentando, digredindo e antecipando, e isso cria cumplicidade com quem escuta de fora. Aqui o ouvinte está dentro, e narrador que aparece o expulsa da cena. A habitação faz o serviço que a cumplicidade faz lá, e por isso "narrador comentando a própria cena" continua sendo tique de reprovação.
+
 ## Como conviver com as regras da casa
 
 - **O ouvinte é protagonista desde o frame zero.** Segunda pessoa e presente da primeira linha à última. O que escala é a agência, nunca o pronome: o Alumia não é mindfulness com storytelling, é um simulador imersivo em segunda pessoa, e quebrar isso na abertura para descrever o mundo de fora custa a identidade do formato.
