@@ -1,0 +1,475 @@
+<title>Disparador do Gauntlet</title>
+
+<style>
+  :root {
+    --azul: #0C2340;
+    --azul-90: #1B3A5F;
+    --terracota: #C05C3E;
+    --terracota-escuro: #9A4832;
+    --terracota-15: rgba(192, 92, 62, 0.15);
+    --fundo: #FFFFFF;
+    --creme: #FFF8F1;
+    --slate: #E5E9EC;
+    --texto: #0C2340;
+    --texto-mudo: rgba(12, 35, 64, 0.72);
+    --campo: #FFF8F1;
+    --campo-borda: rgba(12, 35, 64, 0.10);
+    --saida-fundo: #0C2340;
+    --saida-texto: #FFF8F1;
+    --saida-mudo: rgba(255, 248, 241, 0.62);
+    --sombra: 0 4px 12px rgba(12, 35, 64, 0.08);
+
+    --serif: "Playfair Display", "Lora", Georgia, "Times New Roman", serif;
+    --sans: "Inter", "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --fundo: #081729;
+      --creme: #0F2740;
+      --slate: rgba(229, 233, 236, 0.14);
+      --texto: #FFF8F1;
+      --texto-mudo: rgba(255, 248, 241, 0.66);
+      --campo: #0F2740;
+      --campo-borda: rgba(255, 248, 241, 0.12);
+      --saida-fundo: #050F1C;
+      --saida-texto: #FFF8F1;
+      --saida-mudo: rgba(255, 248, 241, 0.58);
+      --terracota: #D2704F;
+      --terracota-escuro: #C05C3E;
+      --terracota-15: rgba(210, 112, 79, 0.18);
+      --sombra: 0 4px 12px rgba(0, 0, 0, 0.35);
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --fundo: #081729;
+    --creme: #0F2740;
+    --slate: rgba(229, 233, 236, 0.14);
+    --texto: #FFF8F1;
+    --texto-mudo: rgba(255, 248, 241, 0.66);
+    --campo: #0F2740;
+    --campo-borda: rgba(255, 248, 241, 0.12);
+    --saida-fundo: #050F1C;
+    --saida-texto: #FFF8F1;
+    --saida-mudo: rgba(255, 248, 241, 0.58);
+    --terracota: #D2704F;
+    --terracota-escuro: #C05C3E;
+    --terracota-15: rgba(210, 112, 79, 0.18);
+    --sombra: 0 4px 12px rgba(0, 0, 0, 0.35);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--fundo);
+    color: var(--texto);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .pagina {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  header { display: flex; flex-direction: column; gap: 12px; }
+
+  .marca {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--texto-mudo);
+  }
+
+  .funil { width: 10px; height: 9px; fill: var(--terracota); }
+
+  h1 {
+    font-family: var(--serif);
+    font-size: clamp(34px, 6vw, 52px);
+    font-weight: 700;
+    line-height: 1.12;
+    margin: 0;
+    text-wrap: balance;
+  }
+
+  .abertura { margin: 0; color: var(--texto-mudo); max-width: 62ch; }
+
+  .formato {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+  }
+
+  .formato legend {
+    padding: 0 0 10px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--texto-mudo);
+  }
+
+  .formato div { display: flex; flex-wrap: wrap; gap: 8px; }
+
+  .formato input { position: absolute; opacity: 0; pointer-events: none; }
+
+  .formato label {
+    display: inline-block;
+    padding: 9px 18px;
+    border-radius: 80px;
+    border: 1px solid var(--slate);
+    background: transparent;
+    color: var(--texto-mudo);
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+
+  .formato label:hover { background: var(--creme); color: var(--texto); }
+
+  .formato input:checked + label {
+    background: var(--azul);
+    border-color: var(--azul);
+    color: #FFFFFF;
+  }
+
+  :root[data-theme="dark"] .formato input:checked + label,
+  :root:not([data-theme="light"]) .formato input:checked + label {
+    background: var(--terracota);
+    border-color: var(--terracota);
+    color: #FFFFFF;
+  }
+
+  .formato input:focus-visible + label {
+    outline: 2px solid var(--terracota);
+    outline-offset: 3px;
+  }
+
+  .campos { display: flex; flex-direction: column; gap: 24px; }
+
+  .campo {
+    background: var(--creme);
+    border-radius: 24px;
+    padding: 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .campo h2 {
+    font-family: var(--serif);
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0;
+  }
+
+  .campo .ajuda { margin: 0; font-size: 15px; color: var(--texto-mudo); }
+
+  .campo textarea {
+    width: 100%;
+    min-height: 108px;
+    resize: vertical;
+    padding: 16px 18px;
+    border-radius: 16px;
+    border: 1px solid var(--campo-borda);
+    background: var(--fundo);
+    color: var(--texto);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .campo textarea::placeholder { color: var(--texto-mudo); opacity: 0.75; }
+
+  .campo textarea:focus-visible {
+    outline: 0;
+    border-color: var(--terracota);
+    box-shadow: 0 0 0 3px var(--terracota-15);
+  }
+
+  .saida {
+    background: var(--saida-fundo);
+    color: var(--saida-texto);
+    border-radius: 24px;
+    padding: 28px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .saida-topo {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .saida h2 {
+    font-family: var(--serif);
+    font-size: 23px;
+    font-weight: 700;
+    margin: 0;
+    color: var(--saida-texto);
+  }
+
+  .contagem {
+    font-size: 13px;
+    color: var(--saida-mudo);
+    font-variant-numeric: tabular-nums;
+  }
+
+  pre.prompt {
+    margin: 0;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    font-family: var(--sans);
+    font-size: 15px;
+    line-height: 1.65;
+    color: var(--saida-texto);
+    max-height: 460px;
+    overflow-y: auto;
+  }
+
+  pre.prompt .vazio {
+    color: var(--saida-mudo);
+    border-bottom: 1px dashed var(--saida-mudo);
+    padding-bottom: 1px;
+  }
+
+  .acoes { display: flex; gap: 12px; flex-wrap: wrap; }
+
+  button {
+    font-family: var(--sans);
+    font-size: 15px;
+    font-weight: 600;
+    padding: 13px 30px;
+    border-radius: 16px;
+    border: 0;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+
+  .btn-copiar { background: var(--terracota); color: #FFFFFF; }
+  .btn-copiar:hover { background: var(--terracota-escuro); }
+
+  .btn-limpar {
+    background: transparent;
+    color: var(--saida-texto);
+    border: 1px solid var(--saida-mudo);
+  }
+  .btn-limpar:hover { background: rgba(255, 248, 241, 0.10); }
+
+  button:focus-visible { outline: 2px solid var(--terracota); outline-offset: 3px; }
+
+  .nota {
+    border-top: 1px solid var(--slate);
+    padding-top: 24px;
+    font-size: 15px;
+    color: var(--texto-mudo);
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .nota strong { color: var(--texto); font-weight: 600; }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+  }
+
+  @media (max-width: 600px) {
+    .pagina { padding: 32px 16px 64px; gap: 32px; }
+    .campo, .saida { padding: 22px; border-radius: 20px; }
+  }
+</style>
+
+<div class="pagina">
+
+  <header>
+    <div class="marca">
+      <svg class="funil" viewBox="0 0 10 9" aria-hidden="true"><path d="M0 0h10L5 9z"/></svg>
+      <span>@orafarangel · Alumia</span>
+    </div>
+    <h1>Disparador do Gauntlet</h1>
+    <p class="abertura">Preencha os três campos e copie o prompt pronto. Ele monta a estrutura de três parágrafos que dispara o circuito de construtores e críticos cegos.</p>
+  </header>
+
+  <fieldset class="formato">
+    <legend>Formato</legend>
+    <div>
+      <input type="radio" name="formato" id="f-pocket" value="pocket" checked>
+      <label for="f-pocket">Travessia pocket</label>
+
+      <input type="radio" name="formato" id="f-completa" value="completa">
+      <label for="f-completa">Travessia completa</label>
+
+      <input type="radio" name="formato" id="f-livre" value="livre">
+      <label for="f-livre">Livre</label>
+    </div>
+  </fieldset>
+
+  <div class="campos">
+
+    <section class="campo">
+      <h2>1. A tarefa</h2>
+      <p class="ajuda">O que você quer construir, e qual é a referência de elite a ser igualada.</p>
+      <textarea id="tarefa" placeholder="Uma Travessia pocket sobre o corpo que não desliga depois do trabalho, no nível das melhores sleep stories que existem."></textarea>
+    </section>
+
+    <section class="campo">
+      <h2>2. O método de construção</h2>
+      <p class="ajuda">Quais micro-tarefas os sub-agentes devem atacar em paralelo, e o que cada crítico confere.</p>
+      <textarea id="metodo"></textarea>
+    </section>
+
+    <section class="campo">
+      <h2>3. O padrão de parada</h2>
+      <p class="ajuda">Contra o quê o crítico compara antes de aprovar, e o que faz o loop parar.</p>
+      <textarea id="parada"></textarea>
+    </section>
+
+  </div>
+
+  <section class="saida">
+    <div class="saida-topo">
+      <h2>O prompt</h2>
+      <span class="contagem" id="contagem">0 caracteres</span>
+    </div>
+    <pre class="prompt" id="prompt"></pre>
+    <div class="acoes">
+      <button type="button" class="btn-copiar" id="copiar">Copiar prompt</button>
+      <button type="button" class="btn-limpar" id="limpar">Limpar campos</button>
+    </div>
+  </section>
+
+  <div class="nota">
+    <p><strong>Antes de disparar:</strong> a etapa 1 precisa estar aprovada. Sem percurso em estações, símbolo físico nomeado, momento do mapa e alarme no corpo, os sub-agentes inventam cenário no meio do caminho.</p>
+    <p><strong>Sobre a comparação às cegas:</strong> o campo 3 só liga a trava de referência real quando existir um episódio nosso digno de servir de barra. Até lá, os críticos julgam contra o mandato e contra o briefing.</p>
+  </div>
+
+</div>
+
+<script>
+  const PADROES = {
+    pocket: {
+      tarefa: "Uma Travessia pocket de dez minutos sobre [TEMA], na métrica 2-5-3, com retorno para o sono.",
+      metodo: "Separe um sub-agente por bloco cronometrado: desaceleração, ponto de luz e clareza. Depois quatro críticos cegos, um para relaxamento e imersão, um para métrica e framework, um para voz e tiques, e um para PNL e honestidade.",
+      parada: "Não pare enquanto qualquer crítico apontar reprovação. Julgue contra o mandato e contra o briefing, sem comparar com nenhum episódio anterior."
+    },
+    completa: {
+      tarefa: "Uma Travessia completa de vinte e dois minutos sobre [TEMA], na métrica 2-11-4-5, com coda de silêncio de cinco minutos.",
+      metodo: "Separe um sub-agente por bloco cronometrado: preparação, jornada de onze minutos e ancoragem. Depois quatro críticos cegos, um para relaxamento e imersão, um para métrica e framework, um para voz e tiques, e um para PNL e honestidade.",
+      parada: "Não pare enquanto qualquer crítico apontar reprovação. Confira que as cinco fases foram calculadas sobre os dezessete minutos narrados, com a coda descontada."
+    },
+    livre: { tarefa: "", metodo: "", parada: "" }
+  };
+
+  const campos = {
+    tarefa: document.getElementById("tarefa"),
+    metodo: document.getElementById("metodo"),
+    parada: document.getElementById("parada")
+  };
+
+  const saida = document.getElementById("prompt");
+  const contagem = document.getElementById("contagem");
+  const botaoCopiar = document.getElementById("copiar");
+
+  const LACUNA = "________";
+
+  function escapar(texto) {
+    return texto.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  }
+
+  function preencher(valor) {
+    const limpo = valor.trim();
+    if (limpo) return { html: escapar(limpo), texto: limpo };
+    return { html: '<span class="vazio">' + LACUNA + "</span>", texto: LACUNA };
+  }
+
+  function montar() {
+    const t = preencher(campos.tarefa.value);
+    const m = preencher(campos.metodo.value);
+    const p = preencher(campos.parada.value);
+
+    const partes = [
+      ["Quero que você construa ", t, ". Precisa estar impecável, com cada parte feita em qualidade máxima, do primeiro detalhe ao último, e a qualquer outra coisa que você conseguir pensar."],
+      ["Distribua em sub-agentes e faça cada um atacar uma parte individualmente. ", m, " Rode em loop cada parte, e coloque um sub-agente separado, cego, para conferir o resultado. Esse crítico precisa ser duro de verdade, citando o trecho literal de cada defeito, e enquanto sobrar reprovação ele manda continuar."],
+      ["", p, " Não pare até que cada crítico esteja genuinamente convencido da qualidade. Rode em loop até ficar impecável."]
+    ];
+
+    let html = "";
+    let texto = "";
+
+    partes.forEach(function (parte, i) {
+      const [antes, campo, depois] = parte;
+      html += antes + campo.html + depois;
+      texto += antes + campo.texto + depois;
+      if (i < partes.length - 1) { html += "\n\n"; texto += "\n\n"; }
+    });
+
+    saida.innerHTML = html;
+    saida.dataset.texto = texto;
+    contagem.textContent = texto.length.toLocaleString("pt-BR") + " caracteres";
+  }
+
+  function aplicarFormato(formato) {
+    const padrao = PADROES[formato];
+    campos.metodo.value = padrao.metodo;
+    campos.parada.value = padrao.parada;
+    campos.tarefa.placeholder = padrao.tarefa || "Descreva o que construir e a referência a ser igualada.";
+    montar();
+  }
+
+  Object.values(campos).forEach(function (campo) {
+    campo.addEventListener("input", montar);
+  });
+
+  document.querySelectorAll('input[name="formato"]').forEach(function (radio) {
+    radio.addEventListener("change", function () { aplicarFormato(radio.value); });
+  });
+
+  botaoCopiar.addEventListener("click", async function () {
+    const texto = saida.dataset.texto || "";
+    try {
+      await navigator.clipboard.writeText(texto);
+      botaoCopiar.textContent = "Copiado";
+    } catch (erro) {
+      const area = document.createElement("textarea");
+      area.value = texto;
+      document.body.appendChild(area);
+      area.select();
+      document.execCommand("copy");
+      document.body.removeChild(area);
+      botaoCopiar.textContent = "Copiado";
+    }
+    setTimeout(function () { botaoCopiar.textContent = "Copiar prompt"; }, 1800);
+  });
+
+  document.getElementById("limpar").addEventListener("click", function () {
+    Object.values(campos).forEach(function (campo) { campo.value = ""; });
+    document.getElementById("f-livre").checked = true;
+    campos.tarefa.placeholder = "Descreva o que construir e a referência a ser igualada.";
+    montar();
+    campos.tarefa.focus();
+  });
+
+  aplicarFormato("pocket");
+</script>
