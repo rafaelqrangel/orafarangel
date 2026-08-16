@@ -84,71 +84,71 @@ E a areia, que passou o dia inteiro guardando sol, devolve esse calor agora, na 
 
 Quando os seus olhos se acostumam com o escuro, o mar aparece preto até onde a vista alcança, e do outro lado não tem margem.
 
-(9s)
+(6s)
 
-Atrás de você sobe uma encosta escura. Aquela pedra já foi fogo: desceu vermelha até a água, endureceu no ar salgado e ficou.
+Atrás de você sobe uma encosta escura, que segura o vento antes de ele chegar na praia. Aquela pedra já foi fogo.
 
-(9s)
+(6s)
 
-A ilha inteira subiu do fundo do mar sem pressa nenhuma, empurrando água por um tempo que não cabe em calendário, até furar a superfície e virar chão.
+Levanta o queixo.
 
-(9s)
+(7s)
 
-Ela não sabe há quanto tempo faz isso.
+O céu aqui não tem cidade competindo com ele, e as estrelas aparecem todas de uma vez, do horizonte até bem em cima de você. A luz que chega agora nos seus olhos saiu de lá antes de existir gente para olhar.
 
-(9s)
+(8s)
 
-A areia onde você está já foi montanha. O mar levou um tempo sem nome para moer ela, grão por grão, e não anotou nenhum.
+O alto da sua cabeça é a única parte do seu corpo que passou o dia inteiro sem encostar em nada.
 
-(9s)
+(7s)
+
+A ilha subiu do fundo do mar sem pressa nenhuma, por um tempo que não cabe em calendário, e não sabe há quanto tempo faz isso.
+
+(7s)
+
+A areia onde você está já foi montanha. O mar moeu ela grão por grão e não anotou nenhum.
+
+(7s)
 
 [Fase IMERSÃO a partir de 4:00: o tato assume e você age.]
 
-O calor da areia sobe pela sola até o tornozelo. O seu peito descobre que pode ir mais fundo, e o ar desce até a barriga sozinho.
+O calor que a areia guardou do sol sobe pela sola do seu pé, passa no tornozelo, e o seu peito descobre que pode ir mais fundo. O ar desce até a barriga sozinho.
 
-(10s)
+(7s)
 
-Uma tartaruga vem pela praia, raspando devagar. O casco alto passa na sua frente, e o corpo velho para do seu lado.
+Uma tartaruga vem pela praia, raspando devagar, e o corpo velho para do seu lado. Você abaixa a mão e encontra uma placa áspera e morna, com sulcos onde os seus dedos encaixam sem procurar.
 
-(9s)
-
-Você abaixa a mão. Encontra uma placa áspera e morna, com sulcos fundos onde os seus dedos encaixam.
-
-(10s)
+(7s)
 
 Ninguém nunca contou a idade dela.
 
-(10s)
+(8s)
 
-Ela recomeça a andar, você vai junto. Do lado dela não existe andar depressa, então o seu passo entra no passo dela.
+Ela recomeça a andar e você vai junto. Do lado dela não existe andar depressa: o seu passo encurta, e os seus ombros descem um dedo.
 
-(9s)
+(7s)
 
-O pescoço estica para alcançar uma folha baixa. A folha rasga com um estalo curto, e a boca trabalha aquilo num ritmo só, um pedaço de cada vez.
+O pescoço estica para alcançar uma folha baixa. A folha rasga com um estalo curto, e a boca trabalha aquilo num ritmo só.
 
-(9s)
+(7s)
 
-A sua mão continua no casco. O seu pé afunda um pouco mais na areia molhada, e a maré chega mais longe sem contar onda nenhuma.
+A sua mão continua no casco. O seu pé afunda na areia molhada, e a maré chega mais longe sem contar onda nenhuma.
 
-(10s)
+(8s)
 
 [Fase DERIVA a partir de 6:30: a passividade assume.]
 
-A última luz vai embora. O casco embaixo da sua mão vira um vulto escuro.
+A última luz vai embora do céu, e o casco embaixo da sua mão vira um vulto escuro.
 
-(9s)
+(7s)
 
-A tartaruga para no meio do caminho. Não procura abrigo, não escolhe lugar melhor, não anda mais um pouco.
+A tartaruga para no meio do caminho. Não procura abrigo, não escolhe lugar melhor, não anda mais um pouco. Recolhe a cabeça, encosta o queixo na areia e dorme ali mesmo.
 
-(9s)
-
-Recolhe a cabeça para dentro do casco, encosta o queixo na areia e dorme ali mesmo.
-
-(10s)
+(8s)
 
 Quem carrega a casa nas costas já chegou.
 
-(10s)
+(9s)
 
 ---
 
@@ -162,7 +162,7 @@ Você deita do lado dela. A areia morna fica com o peso do seu corpo.
 
 (11s)
 
-O escuro atrás das suas pálpebras é o mesmo escuro da ilha.
+O céu continua aberto em cima de você, e o escuro atrás das suas pálpebras é o mesmo escuro da ilha.
 
 (12s)
 
@@ -196,7 +196,9 @@ Boa noite.
 
 ## Notas de produção
 
-**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Contagem a 115 palavras por minuto de locução noturna: bloco 1 com 111 palavras e 67s de pausa, fechando em 125s; bloco 2 com 316 palavras e 150s de pausa, fechando em 315s; bloco 3 com 134 palavras e 112s de pausa, fechando em 182s. Total de 622 segundos contra a janela de 600, com folga de 22 segundos a absorver nas pausas durante a gravação. Cronometrar bloco a bloco: se estourar, encurtar pausa, nunca cortar imagem.
+**Métrica e cronometragem.** Segue a divisão 2-5-3 de [`../formato-travessia-pocket.md`](../formato-travessia-pocket.md) e a curva de cinco fases do [`../framework-ritmico.md`](../framework-ritmico.md), calculada sobre os 10 minutos narrados, sem coda. Contagem a 115 palavras por minuto de locução noturna: bloco 1 com 111 palavras e 67s de pausa, fechando em 125s; bloco 2 com 362 palavras e 116s de pausa, fechando em 305s; bloco 3 com 143 palavras e 112s de pausa, fechando em 187s. Total de 616 segundos contra a janela de 600, com 16 segundos a absorver nas pausas durante a gravação. Cronometrar bloco a bloco: se estourar, encurtar pausa, nunca cortar imagem.
+
+**O teto de densidade da pocket.** Dez minutos comportam cerca de 570 palavras faladas a 115 por minuto mais o que sobrar de pausa, e cada imagem nova custa silêncio. Este roteiro trabalha no limite: o bloco 2 desceu para pausas de 6 a 8 segundos para abrir espaço ao céu e à integração do corpo. Densidade maior que esta não cabe na pocket, e é para isso que existe a Travessia completa, cujos onze minutos de jornada comportam a encosta inteira, a subida até o alto, o mar visto de cima e o retorno em câmera lenta.
 
 **A textura das duas primeiras fases.** A entrada e a descida seguem os traços de narração levantados no framework: densidade sensorial em camadas, acumulação rítmica que cresce até saturar e quebra num fragmento curto, e ambiente com intenção própria. O período longo da chegada à ilha satura no mar que quebra e volta sem pressa de terminar, e quebra seco em "o ar aqui tem sal". A areia guarda sol o dia inteiro e devolve, o mar leva um tempo sem nome para moer a montanha, e a ilha não sabe há quanto tempo faz aquilo. O narrador, esse, não aparece nem comenta: quem escuta está dentro, e narrador visível expulsa da cena.
 
