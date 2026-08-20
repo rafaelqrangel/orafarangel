@@ -1,5 +1,7 @@
 # O oceano azul do Alumia: a investigação e o veredito
 
+> Dossiê bruto integral em [`oceano-azul-estudo-completo.md`](oceano-azul-estudo-completo.md).
+>
 > Investigação adversarial rodada em 19 e 20/08/2026, a pedido do Rafael, com a instrução expressa de ser adversarial com ele. Trinta e oito agentes em cinco etapas: nove frentes de evidência, um mapa consolidado, três painéis independentes gerando hipóteses por ângulos diferentes, um painel de refutação de três lentes por hipótese, e uma síntese final. Cento e noventa achados brutos, doze hipóteses geradas, oito julgadas.
 >
 > Este documento substitui `oceano-azul-primeira-travessia.md` como leitura de mercado. Onde os dois divergirem, vale este.
