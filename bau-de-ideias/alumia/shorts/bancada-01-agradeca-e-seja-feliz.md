@@ -8,6 +8,7 @@
 **Livro:** *Agradeça e Seja Feliz!*, de Robert Emmons, professor da Universidade da Califórnia em Davis. Edição brasileira de *Thanks!*. Pesquisa acadêmica, e é assim que entra
 **Momento do mapa:** 19h, o carro parado na garagem antes de entrar em casa, com o alarme ainda ligado
 **Função no ringue:** jab com gancho macio no quinto tempo (classificação /nocaute)
+**Áudio bruto:** `shorts-livro-agradeça-robert-emmons-01` (Gravador do iOS)
 **Data:** 22/08/2026
 **Formato:** Short vertical, topo de câmera travado, mãos e livro, sem corte
 
