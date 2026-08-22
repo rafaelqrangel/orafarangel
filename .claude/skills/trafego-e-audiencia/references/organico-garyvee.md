@@ -4,6 +4,8 @@ A tese central do GaryVee: atenção é o ativo, e ela se compra barato onde os 
 
 ## Jab, Jab, Jab, Right Hook
 
+> A camada operacional deste trilho virou skill própria: `/nocaute` classifica cada peça como jab ou gancho, faz a conta da proporção antes de qualquer pedido e entrega a estrutura por tamanho (curto, médio, grande). O que segue aqui é a filosofia; a execução mora lá.
+
 A gramática de toda presença social da marca: dar, dar, dar, e só então pedir. Jab é conteúdo que entrega valor completo sem pedir nada (um reel com os 4 tempos inteiros, um carrossel com o PROMPT de graça). Right hook é o pedido (segue o canal, entra na lista, compra). A proporção importa: três entregas genuínas para cada pedido, no mínimo. O @orafarangel tem vantagem estrutural aqui, porque o PROMPT torna cada jab uma ferramenta completa — ninguém sai de mãos vazias.
 
 Regra do soco: quando pedir, peça de verdade e sem vergonha. Right hook envergonhado ("se você quiser, talvez, quem sabe...") desperdiça os jabs que o precederam. O CTA da marca já é assim: "Me segue em @orafarangel."
