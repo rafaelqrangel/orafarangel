@@ -3,7 +3,7 @@
 **Título:** Sete anos no diário
 **Título de publicação:** O estudo das freiras que viveram 7 anos a mais | A Bancada
 **Duração alvo:** 58 segundos (6 · 9 · 26 · 11 · 6)
-**Tempos:** saída 0:00-0:06 · fonte 0:06-0:15 · insight 0:15-0:41 · prompt 0:41-0:52 · convocação 0:52-0:58
+**Tempos:** saída 0:00-0:06 · fonte 0:06-0:15 · insight 0:15-0:41 · prompt 0:41-0:50 · convocação 0:50-0:58
 **Gestos:** dedo no subtítulo em 0:06 · joinha em 0:55
 **Livro:** *Agradeça e Seja Feliz!*, de Robert Emmons, professor da Universidade da Califórnia em Davis. Edição brasileira de *Thanks!*. Pesquisa acadêmica, e é assim que entra
 **Momento do mapa:** 19h, o carro parado na garagem antes de entrar em casa, com o alarme ainda ligado
@@ -23,7 +23,7 @@
 | Soco de ciência | Um grupo listou gratidões, o outro listou aborrecimentos, e os resultados se separaram |
 | A peça que falta | Gratidão exige reconhecer que o bem veio de fora, senão vira inventário |
 | Micro-ação (chão da escada) | Depois de desligar o carro, dizer em voz alta uma coisa que deu certo e quem ajudou nela |
-| Convocação | O extrato aplicado, para quem não vai ler o livro |
+| Convocação | A prática do livro numa página só, pela palavra GRATIDÃO |
 
 ---
 
@@ -37,7 +37,7 @@ Marcações entre colchetes não se leem. A narração é gravada separada e cas
 
 [Topo de câmera. A mão pousa no livro e desliza até a capa ficar reta no quadro.]
 
-Cientistas leram os diários de um convento inteiro, e as freiras que mais agradeciam nos textos viveram, em média, sete anos a mais.
+Um grupo de freiras viveu sete anos a mais, e o segredo estava escrito nos diários delas.
 
 ---
 
@@ -45,7 +45,7 @@ Cientistas leram os diários de um convento inteiro, e as freiras que mais agrad
 
 [Em 0:06 exatos, o dedo corre por baixo do subtítulo. A legenda acompanha o dedo.]
 
-Esse estudo está aqui, e olha o subtítulo: a *ciência* da gratidão. Robert Emmons, professor da Universidade da Califórnia, é quem mais mediu isso no mundo.
+Quem explica é esse livro aqui, ó: a ciência da gratidão. Robert Emmons, professor na Califórnia, passou a vida medindo isso.
 
 ---
 
@@ -53,33 +53,31 @@ Esse estudo está aqui, e olha o subtítulo: a *ciência* da gratidão. Robert E
 
 [A mão abre o livro e folheia devagar, sem parar em página nenhuma.]
 
-No experimento mais famoso dele, um grupo listava cinco gratidões por semana, e o outro, cinco aborrecimentos. Quem agradecia dormiu melhor, se exercitou mais e ficou 25% mais feliz.
+Ele pegou dois grupos: um listava cinco motivos de gratidão por semana, o outro, cinco aborrecimentos. Mesma vida, lentes diferentes, e quem agradecia dormia melhor e ficou 25% mais feliz.
 
-Mesma vida, lentes diferentes.
+Mas presta atenção na parte que a gente pula: agradecer não é ver o lado bom, é reconhecer que o que deu certo veio de alguém, veio de fora.
 
-Só que tem a peça que quase todo mundo pula: gratidão não é olhar o lado bom, mas reconhecer que o que deu certo veio também de fora, de alguém que você não controlou. Sem essa parte, a lista vira inventário.
+Sem isso, a lista não funciona.
 
 ---
 
-### PROMPT · 0:41 a 0:52
+### PROMPT · 0:41 a 0:50
 
 [A mão fecha o livro e a palma pousa em cima da capa.]
 
-Então hoje, depois de desligar o carro na garagem, fala em voz alta uma coisa que deu certo e quem te ajudou nela. Trinta segundos, custa zero.
+Então hoje, quando desligar o carro na garagem, fala em voz alta uma coisa que deu certo e quem te ajudou nela.
 
 ---
 
-### CONVOCAÇÃO · 0:52 a 0:58
+### CONVOCAÇÃO · 0:50 a 0:58
 
-[A mão vira a capa para cima. Em 0:55, joinha com dois dedos.]
+[A mão vira a capa para cima. O joinha com os dois dedos cai em 0:55, junto com "que eu te mando".]
 
-E quem não vai ler o livro inteiro, comenta EXTRATO que eu mando o meu.
-
----
+E eu destilei a prática desse livro numa página só. Comenta GRATIDÃO que eu te mando.
 
 ## Notas de produção
 
-**Métrica.** Segue a divisão obrigatória 6-9-26-11-6 de [`../formato-bancada.md`](../formato-bancada.md). 165 palavras faladas, que a 170 por minuto fecham em 58 segundos. O ponto de sincronia inegociável é o dedo no subtítulo: a palavra "ciência" cai junto com o dedo, em 0:06.
+**Métrica.** 140 palavras faladas, que em ritmo de conversa, por volta de 150 por minuto, fecham em 56 segundos de fala e 58 com as respirações. Dois pontos de sincronia inegociáveis: a palavra "ciência" cai junto com o dedo no subtítulo em 0:06, e o joinha cai em 0:55 junto com "que eu te mando", que é a última frase. A convocação começa em 0:50 para a promessa ser dita antes do gesto, nunca depois.
 
 **Função no ringue (/nocaute).** Jab com gancho macio no quinto tempo. Os tempos 1 a 4 entregam valor completo, com a micro-ação de graça, e o pedido chega formulado como mais uma entrega, o extrato para quem não vai ler. Como a audiência ainda é fria, o extrato precisa ser entrega pura, sem oferta dentro: o direito a um gancho de verdade ainda está sendo pago por esta e pelas próximas peças. Um pedido só na peça inteira.
 
@@ -95,7 +93,7 @@ E quem não vai ler o livro inteiro, comenta EXTRATO que eu mando o meu.
 
 **B=MAP.** Motivação vem dos sete anos da SAÍDA e do 25% medido. Habilidade é máxima, uma frase em voz alta no carro. O Prompt é desligar o motor, que acontece todo dia.
 
-**Mecânica da convocação.** Palavra-chave EXTRATO no comentário, que dispara mensagem direta com o formulário: nome, e-mail e uma pergunta de segmentação, em que momento do dia o alarme mais aperta. Essa resposta é o que torna a lista útil depois, separando quem sofre de manhã de quem acorda às três. O extrato existe pronto antes de o vídeo subir, desdobra os três passos da reconnaissance em prática de trinta segundos, e aponta de volta para a leitura do livro.
+**Mecânica da convocação.** A palavra-chave é GRATIDÃO, e a troca do EXTRATO foi correção de erro: ninguém comenta palavra que nunca viu, e a peça não tinha dito o que o extrato era. Agora o presente é anunciado com todas as letras, a prática do livro numa página só, e a palavra pedida é a que o vídeo inteiro já plantou. O comentário dispara mensagem direta com o formulário: nome, e-mail e uma pergunta de segmentação, em que momento do dia o alarme mais aperta. A página existe pronta antes de o vídeo subir, desdobra os três passos da reconnaissance em prática de trinta segundos, e aponta de volta para a leitura do livro.
 
 **Direção de câmera.** Plongée total, câmera travada, vertical 9:16, sem corte e sem zoom. Luz lateral suave, bancada em tom neutro. As mãos entram e saem com calma, e folhear é gesto contínuo, sem parar em página nenhuma, porque parar convida a leitura do miolo e a peça não lê o miolo.
 
@@ -103,6 +101,6 @@ E quem não vai ler o livro inteiro, comenta EXTRATO que eu mando o meu.
 
 **Legendas queimadas.** Obrigatórias, com a fala do subtítulo aparecendo no mesmo instante do dedo. Os números 7 e 25% podem subir como texto na tela nos seus momentos, em tipografia da marca, sem seta e sem emoji.
 
-**Cortes derivados.** Para o corte de quinze segundos, do início até "sete anos a mais" e emenda em "comenta EXTRATO". O frame para thumbnail é o dedo no subtítulo.
+**Cortes derivados.** Para o corte de quinze segundos, do início até "sete anos a mais" e emenda na convocação. O frame para thumbnail é o dedo no subtítulo.
 
 **Descrição do vídeo.** Creditar autor, título original *Thanks!* e edição brasileira, citar Emmons e McCullough e o Nun Study pelo nome, e repetir a instrução da palavra-chave.

@@ -38,6 +38,8 @@ Regras do extrato, invioláveis:
 - **É camada de aplicação, nunca substituto do livro.** O extrato entrega o que fazer, quando fazer e como encaixar na rotina. Ele não reconta o livro capítulo a capítulo, não reproduz trechos e não dispensa a leitura, e isso é exigência jurídica e também de coerência, já que a peça inteira defende a leitura.
 - **Existe antes de ser prometido.** Nenhuma convocação vai ao ar sem o extrato pronto para entrega imediata.
 - **A entrega captura contato**, com o formulário pedindo nome, e-mail e uma pergunta de segmentação sobre o momento do dia em que o alarme aperta.
+- **A palavra-chave é do vocabulário de quem assiste, nunca do nosso.** Pede-se uma palavra que o vídeo inteiro já plantou (GRATIDÃO, SONO, FOCO), e o presente é anunciado com todas as letras antes do pedido. Palavra interna de processo, como extrato, não entra em convocação.
+- **A convocação começa cedo o bastante para a promessa vir antes do gesto.** O joinha de 0:55 cai na última frase, nunca no meio dela.
 
 ## Regras de escrita
 
