@@ -89,6 +89,65 @@ Quando for pedir, o pedido cumpre três coisas:
 2. **Feito para celular.** Toque grande, poucos campos no formulário, e nada que exija computador.
 3. **No tom da plataforma.** O pedido se veste de nativo, senão parece anúncio e é ignorado como anúncio.
 
+## O tom de voz do gancho: o registro Gary, filtrado pela nossa voz
+
+Análise de Rafael sobre uma fala de Gary Vaynerchuk, feita como copywriter, em 22/08/2026. O que segue é o banco de técnicas de tom e estrutura, cada uma com o mecanismo nomeado, o exemplo dele e a versão que passa pelo filtro de `marca/voz-e-tom.md`. Nenhuma entra sem passar pelo filtro: **o mecanismo é dele, a voz continua sendo a nossa.**
+
+### 1. Nomear o estado do leitor antes de ele admitir
+
+Gary abre confrontando: *"You're insecure. You don't like the feeling of having 313 followers when someone in your office has 50,000."* O mecanismo é interromper o padrão nomeando o sentimento não dito, e é isso que faz a pessoa parar de rolar o feed, porque alguém disse em voz alta o que ela só pensava.
+
+**O filtro da casa:** Gary confronta para envergonhar; a marca nomeia para depois dar permissão, na ordem exata que `voz-e-tom.md` já registra ("Permissão antes da cobrança"). O mecanismo de nomear primeiro é idêntico, o gesto seguinte é oposto.
+
+- Gary: *"Você é inseguro."* (confronto que humilha)
+- Casa: *"Você fecha o dia sentindo que faltou alguma coisa, e dá pra desligar isso."* (confronto que abre porta)
+
+### 2. Repetição rítmica como refrão
+
+*"It's free. It's free. Yes, you can run ads, but everyone here knows you could post content. It's free. People see it."* A frase martela, mas nunca é a mesma frase duas vezes seguidas sem variação.
+
+**O filtro da casa:** isso já está sancionado em `voz-e-tom.md`, no item "Repetição com variação como motor rítmico". Não é o staccato de IA proibido (que é o corte de contraste binário, a dicotomia fatiada), é repetição de uma ideia com leve mudança de roupa a cada volta. A diferença entre os dois: staccato de IA corta a frase para criar contraste lógico; repetição de Gary martela para criar ênfase emocional. A primeira é banida, a segunda já é nossa.
+
+### 3. A objeção nomeada antes que o público a diga
+
+*"You're not posting content because you're not educated about how to do it."* Gary lista, um por um, os motivos reais que o público usa para não agir, e nomeia cada um antes que a pessoa consiga se esconder atrás dele.
+
+**Uso na casa:** entra no INSIGHT de peças que vendem prática ("eu sei que você já tentou lista de gratidão e não sentiu nada mudar"), e é ferramenta pesada para o tamanho GRANDE, onde a sequência de jabs pode ir desmontando uma objeção por vez antes do gancho de direita.
+
+### 4. Autoexposição vulnerável para ganhar o direito de cobrar
+
+*"When it comes to health and wellness... I am not [disciplined]."* Gary admite a própria falha antes de cobrar disciplina do público em outra área, e isso funciona porque tira a cobrança do pedestal.
+
+**O filtro da casa:** já é traço do corpus do Rafael, em "Autorrevelação como evidência" ("eu sou flamenguista", "41 anos que eu tenho"). A técnica de Gary é a mesma, só que aplicada como abertura estratégica antes de um pedido, não como detalhe solto.
+
+### 5. Estrutura numerada para motivo de resistência
+
+*"One... Two... Three..."* Gary organiza os motivos da inação em lista numerada, o que torna o argumento fácil de seguir e de repetir para outra pessoa.
+
+**Uso na casa:** cabe no médio e no grande, nunca substitui a prosa do curto. Serve para desdobrar um mecanismo em partes, como os "três movimentos" da gratidão no Short da Bancada, técnica 3 desta lista.
+
+### 6. Janela de urgência com prazo real, não inventado
+
+*"We have another five to seven years... of the golden era of attention arbitrage for free."* A urgência vem de uma leitura honesta do mercado, com prazo aproximado e justificativa, não de contagem regressiva fabricada.
+
+**O filtro da casa:** urgência sem lastro é a "promessa vazia" que `voz-e-tom.md` já proíbe. A regra herdada de Gary: toda urgência cita o porquê e admite a imprecisão ("cinco a sete anos, talvez mais, talvez menos, esse é o meu palpite"), nunca finge certeza que não existe.
+
+### 7. Fechamento que exige decisão, não pede desculpa
+
+*"Are you ready to wake up this Sunday morning? Or are you just going to be hyped for a couple of minutes right now?"* Gary fecha perguntando o que a pessoa vai fazer de fato, sem suavizar.
+
+**Uso na casa:** é alternativa ao PROMPT quando a peça é de reflexão e não tem micro-ação filmável (raro, mas existe no médio). A pergunta força escolha binária real, no registro calmo da casa: sem sarcasmo, sem "vai ficar aí parado?".
+
+### 8. Personagem hipotético para provar ponto abstrato
+
+*"Janet in Atlanta... zero followers... first post could get hundreds of thousands of views."* Gary inventa uma pessoa para tornar concreta uma tese sobre democratização de alcance.
+
+**O filtro da casa, e aqui o filtro aperta:** personagem hipotético é permitido só quando marcado como hipotético sem ambiguidade ("imagina um corretor que..."), nunca apresentado como caso real. Isso não é frescura de estilo, é a mesma regra que a Travessia já tem contra testemunho inventado, estendida a qualquer peça de marca: ninguém pode ler "Janet em Atlanta" e achar que é uma cliente de verdade.
+
+### O que fica de fora, sem exceção
+
+O confronto que humilha (chamar o público de inseguro, hipócrita), o palavrão e a agressividade de tom, e a comparação depreciativa entre pessoas do público. `voz-e-tom.md` é claro: a marca é professor que respeita a inteligência de quem ouve, não um sargento. Toda técnica desta lista se filtra por essa régua antes de qualquer peça sair.
+
 ## O que fazer quando Rafael chamar
 
 1. **Classifique a peça:** jab ou gancho, e por quê, em uma linha.
@@ -106,3 +165,4 @@ Quando for pedir, o pedido cumpre três coisas:
 - [ ] O conteúdo é nativo da plataforma, e não repostado?
 - [ ] Existe um pedido só, e ele é inequívoco?
 - [ ] A voz continua a mesma de `marca/voz-e-tom.md`?
+- [ ] Se usou registro Gary, o filtro da casa foi aplicado (nomeia e dá permissão, nunca envergonha)?
