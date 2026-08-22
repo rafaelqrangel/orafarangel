@@ -1,51 +1,66 @@
 # Formato obrigatório do quadro A BANCADA
 
-> Criado em 22/08/2026. Quadro de Shorts e TikTok do Alumia. **Obrigatório para todo roteiro salvo em `shorts/`.**
+> Criado em 22/08/2026. Quadro de Shorts, TikTok e Reels. **Obrigatório para todo roteiro salvo em `shorts/`.**
 
 ## O que é
 
-Um livro na bancada, a câmera se aproximando enquanto Rafael narra, e no fim ele pega o livro e encosta a capa na lente. Um livro por episódio, sempre a mesma bancada, sempre o mesmo movimento.
+Topo de câmera, plongée total sobre a bancada. Só as mãos do Rafael e o livro. Ele manuseia, folheia, aponta, e a narração corre por cima. Um livro por episódio, sempre o mesmo enquadramento, sempre a mesma luz.
 
-## A ideia de direção que rege tudo
+O quadro existe para responder uma pergunta só: **por que você deveria ler este livro?** E, para quem não vai ler, ele abre a porta do extrato.
 
-**O movimento de câmera é a Escada da Abstração filmada.** A câmera abre longe, no princípio lá em cima, desce degrau por degrau à medida que a narração afunila, e termina no chão da escada: a capa preenchendo o quadro, o objeto na mão, a coisa que a pessoa pode comprar amanhã. Se a câmera parar de andar, o roteiro parou de descer, e um dos dois está errado.
+## As duas marcas de gesto
 
-O gesto final não é enfeite: entregar a capa à lente é dar a fonte na mão de quem assiste. É o único momento em que o livro é legível.
+Toda peça tem dois gestos obrigatórios, cronometrados:
 
-## A métrica 3 · 7 · 28 · 12
+- **O dedo no subtítulo, por volta de 10% do vídeo.** O dedo passa na linha da capa que carrega a credencial, e a narração precisa estar dizendo exatamente aquilo naquele instante. É o momento em que a fonte se prova sozinha, sem o narrador precisar defender nada.
+- **O joinha, a cerca de 95%.** Fecha a peça no gesto, enquanto a voz entrega a convocação. Nunca fechar em mão parada.
 
-Cinquenta segundos, mapeados nos quatro tempos de [`../../framework/template-4-tempos.md`](../../framework/template-4-tempos.md):
+## A métrica 6 · 9 · 26 · 11 · 6
 
-| Tempo | Duração | Câmera | Conteúdo |
+Cinquenta e oito segundos. Os quatro tempos de [`../../framework/template-4-tempos.md`](../../framework/template-4-tempos.md) mais um quinto, exclusivo deste quadro:
+
+| Tempo | Duração | Mão | Conteúdo |
 |---|---|---|---|
-| **SAÍDA** | 0:00 a 0:03 | Plano aberto da bancada, livro pequeno no quadro, foco ainda raso | A superação anunciada, com a dor dentro dela |
-| **FONTE** | 0:03 a 0:10 | Início do push, o livro entra em foco | O livro credenciado pelo que ele é de verdade |
-| **INSIGHT** | 0:10 a 0:38 | Push contínuo e lento, o livro cresce | O princípio descendo a escada |
-| **PROMPT** | 0:38 a 0:50 | Rafael entra em quadro, pega o livro, aproxima a capa da lente | A micro-ação de trinta segundos, e a capa legível no último frame |
+| **SAÍDA** | 0:00 a 0:06 | Mão pousa no livro | A superação anunciada, mirando o subtítulo |
+| **FONTE** | 0:06 a 0:15 | **Dedo corre no subtítulo** | A credencial lida na própria capa, e quem escreveu |
+| **INSIGHT** | 0:15 a 0:41 | Folheia devagar | O princípio descendo a escada, e por que vale ler |
+| **PROMPT** | 0:41 a 0:52 | Fecha o livro, palma em cima | A micro-ação de trinta segundos |
+| **CONVOCAÇÃO** | 0:52 a 0:58 | **Joinha em 0:55** | O extrato para quem não vai ler o livro |
 
-A soma é exata: 3 mais 7 mais 28 mais 12 são 50.
+A soma é exata: 6 mais 9 mais 26 mais 11 mais 6 são 58.
 
-## Regras de produção
+## O quinto tempo, e por que ele existe
 
-- **A câmera nunca para e nunca corta.** Plano-sequência único, push lento e constante, de preferência em slider ou gimbal. Corte no meio mata a metáfora da descida.
-- **A capa só fica legível no último frame.** Antes disso o livro aparece, mas sem virar leitura. A revelação é o pagamento do vídeo.
-- **A bancada é sempre a mesma**, com a mesma luz e o mesmo enquadramento inicial, para o quadro ser reconhecido em dois segundos no feed.
-- **Nada de trilha dramática.** Ambiente da casa, no máximo um bordão baixo. A marca não usa música de tensão.
-- **Legenda queimada obrigatória**, porque a maior parte assiste sem som.
+A CONVOCAÇÃO é a adição deste quadro ao template da casa. O vídeo defende que o livro vale ser lido, e seria incoerente terminar aí, porque a maioria não vai ler. Então se oferece o **extrato**: a síntese aplicada feita pelo Rafael, com a prática destilada para quem não tem tempo, ou para quem quer entender antes de comprar.
+
+Regras do extrato, invioláveis:
+
+- **É camada de aplicação, nunca substituto do livro.** O extrato entrega o que fazer, quando fazer e como encaixar na rotina. Ele não reconta o livro capítulo a capítulo, não reproduz trechos e não dispensa a leitura, e isso é exigência jurídica e também de coerência, já que a peça inteira defende a leitura.
+- **Existe antes de ser prometido.** Nenhuma convocação vai ao ar sem o extrato pronto para entrega imediata.
+- **A entrega captura contato**, com o formulário pedindo nome, e-mail e uma pergunta de segmentação sobre o momento do dia em que o alarme aperta.
 
 ## Regras de escrita
 
-- Os quatro tempos são obrigatórios, e o Prisma da Solução vence qualquer conflito: fala-se pelo ângulo da superação.
-- **O livro nunca é lido em voz alta.** Nenhum trecho, nenhuma paráfrase próxima. O que entra é a leitura do Rafael sobre a ideia, na voz dele, com o livro como objeto e o autor creditado na descrição. Isso é regra jurídica e também de marca: a fonte é evidência, nunca pregação.
-- **O livro é apresentado pelo que ele é.** Romance é romance, best-seller é best-seller, ciência é ciência. Nada de vestir de sabedoria milenar o que não é, nem de citar estudo sem dizer o limite dele.
+- Os quatro tempos são obrigatórios, e o Prisma da Solução vence qualquer conflito.
+- **O livro nunca é lido em voz alta.** Título e subtítulo da capa podem ser ditos, porque identificam a obra, mas nenhum trecho do miolo entra, nem paráfrase próxima. O que se narra é a leitura do Rafael sobre a ideia, e o autor é creditado na fala e na descrição.
+- **A fonte entra pelo que ela é.** Pesquisa é pesquisa, e se houver limite no que a evidência sustenta, o limite se declara. Vendagem não é prova de tese.
 - Nada de misticismo gratiluz, nada de sermão, nada de promessa de transformação.
 - O PROMPT fecha no formato Fogg, ancorado num momento do mapa de [`poco-de-ideias.md`](poco-de-ideias.md), com micro-ação de trinta segundos e filmável.
+
+## Regras de produção
+
+- **Plongée total, travado.** Câmera fixa no topo, sem push e sem corte. O movimento é da mão, nunca da câmera.
+- **Enquadramento e luz idênticos** em todo episódio, para o quadro ser reconhecido em dois segundos no feed.
+- A mão entra e sai do quadro com calma; nada de gesto nervoso, que contradiz a marca.
+- Legenda queimada obrigatória, com a fala do subtítulo aparecendo no mesmo instante do dedo.
+- Sem trilha dramática. Ambiente, no máximo um bordão baixo.
 
 ## O que declarar no cabeçalho
 
 ```
-**Duração alvo:** 50 segundos (3 · 7 · 28 · 12)
-**Tempos:** saída 0:00-0:03 · fonte 0:03-0:10 · insight 0:10-0:38 · prompt 0:38-0:50
-**Livro:** título, autor e o que ele é
+**Duração alvo:** 58 segundos (6 · 9 · 26 · 11 · 6)
+**Tempos:** saída 0:00-0:06 · fonte 0:06-0:15 · insight 0:15-0:41 · prompt 0:41-0:52 · convocação 0:52-0:58
+**Gestos:** dedo no subtítulo em 0:06 · joinha em 0:55
+**Livro:** título, autor, credencial e o que ele é
 **Momento do mapa:** a célula do relógio de 24 horas que o Prompt ancora
 ```

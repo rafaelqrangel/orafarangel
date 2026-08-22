@@ -1,13 +1,14 @@
 # A Bancada, episódio 1
 
-**Título:** A ordem das duas palavras
-**Título de publicação:** Por que a gratidão não funciona pra você | A Bancada
-**Duração alvo:** 50 segundos (3 · 7 · 28 · 12)
-**Tempos:** saída 0:00-0:03 · fonte 0:03-0:10 · insight 0:10-0:38 · prompt 0:38-0:50
-**Livro:** *Agradeça e Seja Feliz!*, de Zíbia Gasparetto. Romance brasileiro de enorme vendagem, e é assim que ele entra: não como ciência, nem como texto milenar
+**Título:** A parte que todo mundo pula
+**Título de publicação:** Por que agradecer nunca funcionou pra você | A Bancada
+**Duração alvo:** 58 segundos (6 · 9 · 26 · 11 · 6)
+**Tempos:** saída 0:00-0:06 · fonte 0:06-0:15 · insight 0:15-0:41 · prompt 0:41-0:52 · convocação 0:52-0:58
+**Gestos:** dedo no subtítulo em 0:06 · joinha em 0:55
+**Livro:** *Agradeça e Seja Feliz!*, de Robert Emmons, professor da Universidade da Califórnia em Davis. Edição brasileira de *Thanks!*. É pesquisa acadêmica de psicologia positiva, e é assim que entra
 **Momento do mapa:** 19h, o carro parado na garagem antes de entrar em casa, com o alarme ainda ligado
 **Data:** 22/08/2026
-**Formato:** Short vertical, plano-sequência único, sem corte
+**Formato:** Short vertical, topo de câmera travado, mãos e livro, sem corte
 
 ---
 
@@ -15,85 +16,92 @@
 
 | Item | Conteúdo |
 |---|---|
-| Dor reconhecível | Chegar em casa com o corpo ainda em estado de varredura, procurando o que falta |
-| Superação anunciada | O alarme desarma sem depender de nada melhorar antes |
-| Etimologia (motor do insight) | *Gratus*, do latim, a mesma raiz de gratuito e de graça: o que se recebe sem ter pago |
-| Insight em uma frase | Gratidão não é emoção, é trocar a busca que o cérebro está rodando |
-| Micro-ação | Antes de abrir a porta de casa, dizer em voz alta uma coisa que deu certo hoje |
-| Frame final | A capa do livro preenchendo o quadro, com o título legível |
+| Dor reconhecível | Já tentou a lista de gratidão e não sentiu nada mudar |
+| Superação anunciada | A prática falha por falta de uma peça específica, e a peça tem nome |
+| Credencial | Emmons mediu gratidão em estudo controlado, em vez de pregar sobre ela |
+| Etimologia (motor do insight) | *Gratus*, do latim, mesma raiz de gratuito e de graça: o que chegou sem você ter pagado, ou seja, veio de fora |
+| Insight em uma frase | Gratidão não é olhar o lado bom, que é otimismo, é reconhecer que o que deu certo veio em parte de fora de você |
+| Micro-ação | Antes de abrir a porta de casa, dizer em voz alta uma coisa que deu certo e quem ajudou nela |
+| Convocação | O extrato aplicado, para quem não vai ler o livro |
 
 ---
 
 ## Roteiro de narração
 
-Marcações entre colchetes não se leem.
-
-[Legenda queimada em todas as falas. Legenda do frame final acompanha a fala, sem antecipar.]
+Marcações entre colchetes não se leem. A narração é gravada separada e casada com a imagem nas marcas de gesto.
 
 ---
 
-### SAÍDA · 0:00 a 0:03
+### SAÍDA · 0:00 a 0:06
 
-[Plano aberto da bancada. O livro está lá, pequeno no quadro, foco raso. A câmera começa a andar.]
+[Topo de câmera. A mão pousa no livro e desliza até a capa ficar reta no quadro.]
 
-Dá para desarmar o alarme do fim do dia antes de qualquer coisa melhorar.
-
----
-
-### FONTE · 0:03 a 0:10
-
-[O push continua. O livro entra em foco, ainda sem dar para ler o título.]
-
-E o método está na ordem de duas palavras, na capa de um livro brasileiro que vendeu milhões.
+Se você já tentou lista de gratidão e não sentiu nada mudar, faltava uma peça.
 
 ---
 
-### INSIGHT · 0:10 a 0:38
+### FONTE · 0:06 a 0:15
 
-[Push lento e contínuo. O livro vai crescendo no quadro.]
+[Em 0:06 exatos, o dedo corre por baixo do subtítulo. A legenda acompanha o dedo.]
 
-Porque o teu cérebro passou o dia rodando uma busca só, procurar o que está faltando, e ele não desliga sozinho quando você estaciona o carro, então a busca continua na mesa do jantar.
-
-Gratidão vem de *gratus*, mesma raiz de gratuito, então não é emoção, é trocar a busca: em vez do que falta, o que já está aí de graça.
-
-E as duas não rodam ao mesmo tempo.
+E olha o subtítulo: a *ciência* da gratidão. Ciência mesmo, porque quem escreveu foi Robert Emmons, professor da Universidade da Califórnia, que mediu isso em vez de pregar.
 
 ---
 
-### PROMPT · 0:38 a 0:50
+### INSIGHT · 0:15 a 0:41
 
-[Rafael entra em quadro, pega o livro da bancada.]
+[A mão abre o livro e folheia devagar, sem pressa, sem parar em página nenhuma.]
 
-Então depois de desligar o carro na garagem, antes de abrir a porta de casa, fala em voz alta uma coisa que deu certo hoje. Trinta segundos.
+E a peça é essa: gratidão não é olhar o lado bom, porque isso é otimismo, e otimismo é outra coisa.
 
-[Ele vira a capa para a lente. A capa preenche o quadro e o título fica legível pela primeira e única vez.]
+Gratidão é reconhecer que o que deu certo hoje não veio só de você, veio também de fora, de alguém que você não controlou.
 
-Agradeça e seja feliz. Nessa ordem.
+Tanto que a palavra vem de *gratus*, mesma raiz de gratuito, o que chegou sem você ter pagado.
+
+E é essa parte que a gente pula na listinha, e sem ela vira inventário.
+
+---
+
+### PROMPT · 0:41 a 0:52
+
+[A mão fecha o livro e a palma pousa em cima da capa.]
+
+Então hoje, depois de desligar o carro na garagem, antes de abrir a porta de casa, fala em voz alta uma coisa que deu certo e quem te ajudou nela. Trinta segundos.
+
+---
+
+### CONVOCAÇÃO · 0:52 a 0:58
+
+[A mão vira a capa para cima. Em 0:55, joinha com dois dedos.]
+
+E quem não vai ler o livro, comenta EXTRATO que eu mando o meu.
 
 ---
 
 ## Notas de produção
 
-**Métrica.** Segue a divisão obrigatória 3-7-28-12 de [`../formato-bancada.md`](../formato-bancada.md). 134 palavras faladas, o que fecha entre 48 e 53 segundos dependendo do ritmo da locução. Cronometrar tempo a tempo: se estourar, encurtar o INSIGHT, nunca o PROMPT.
+**Métrica.** Segue a divisão obrigatória 6-9-26-11-6 de [`../formato-bancada.md`](../formato-bancada.md). 167 palavras faladas, que a 170 por minuto fecham em 59 segundos. O ponto de sincronia inegociável é o dedo no subtítulo: a palavra "ciência" precisa cair junto com o dedo, em 0:06.
 
-**A descida, e por que ela é filmada.** O movimento de câmera é a Escada da Abstração. A SAÍDA fala de "alarme do fim do dia", que é conceito; o INSIGHT desce para a busca que o cérebro está rodando; o PROMPT chega no chão, com carro, garagem, porta e voz alta. A câmera acompanha esse afunilamento sem cortar, e a capa na lente é o último degrau: o objeto que se pode ter na mão.
+**Por que a fonte é forte aqui.** Emmons não é autor de autoajuda que teve uma ideia boa, é o pesquisador que desenhou experimento sobre gratidão e mediu resultado. Isso resolve o maior risco do tema, que é escorregar para o misticismo gratiluz, e cumpre a promessa da marca de sabedoria agregada à ciência. A credencial não precisa ser defendida pelo narrador, porque está impressa na capa e o dedo mostra.
 
-**Por que a ordem das palavras é o coração da peça.** A maioria espera ficar feliz para então agradecer, e o título inverte isso, colocando o agradecimento como causa e não como consequência. Isso permite que o pagamento do vídeo seja visual: a frase final só faz sentido quando a capa aparece, o que amarra o insight ao gesto do formato.
+**O limite do que é afirmado.** O roteiro diz que Emmons mediu, e não diz o que os números deram. Isso é deliberado: os efeitos documentados de práticas de gratidão são reais porém modestos, e o campo tem debate de replicação, o que não cabe honestamente em nove segundos. Nenhuma promessa clínica é feita, nenhum número é citado, e nada é dito sobre o que a prática cura.
 
-**O livro entra pelo que ele é.** Romance brasileiro de vendagem enorme, e nada além disso. Nenhum trecho é lido, nenhuma paráfrase próxima é feita, e o autor é creditado na descrição do vídeo. A vendagem é usada como evidência de que a fome existe, jamais como prova de que a tese está certa.
+**O insight, e por que ele não é óbvio.** A distinção entre otimismo e gratidão é a virada da peça, e é fiel ao construto que a psicologia estuda: a gratidão tem um componente relacional, o reconhecimento de que o bem veio em parte de fora. É isso que separa esta peça de qualquer conteúdo genérico de gratidão, e é isso que justifica a leitura do livro.
 
-**O limite do que é afirmado.** A varredura por ameaça e a dificuldade de manter duas direções de atenção ao mesmo tempo entram como explicação do mecanismo, no vocabulário da casa, e não como resultado de estudo. O roteiro não promete efeito clínico, não cita frequência cerebral e não afirma que a prática cura coisa alguma. Existe pesquisa sobre diário de gratidão, com efeitos reais porém modestos, e ela não é citada aqui justamente porque não caberia com o limite declarado em sete segundos.
+**A etimologia como motor.** *Gratus* liga gratidão a gratuito e a graça, e faz o trabalho conceitual sozinha: o que chegou sem você ter pagado veio de outro lugar. A palavra prova o argumento, no padrão da casa.
 
-**A etimologia como motor.** *Gratus* liga gratidão a gratuito e a graça, e é isso que sustenta a virada do insight: o que se olha é o que já se recebeu sem ter pagado. A palavra faz o trabalho conceitual, no padrão da casa, em que a etimologia é o caminho do INSIGHT.
+**O Prompt carrega o insight dentro dele.** A micro-ação não é "diga uma coisa boa", é dizer a coisa boa **e quem ajudou nela**. Sem o segundo pedaço, o exercício vira o inventário que a peça acabou de criticar. É a descida da escada completa: o princípio abstrato reaparece como duas palavras ditas em voz alta dentro do carro.
 
-**O momento do mapa.** O PROMPT ancora nas 19h do mapa de [`../poco-de-ideias.md`](../poco-de-ideias.md), o carro parado na garagem com o alarme ainda ligado. É um momento de transição, que é justamente a fresta que a marca ocupa, e o gatilho já existe na rotina de quem dirige para casa.
+**O momento do mapa.** O PROMPT ancora nas 19h de [`../poco-de-ideias.md`](../poco-de-ideias.md), o carro parado na garagem com o alarme ainda ligado. Gatilho que já existe na rotina, custo zero, e é momento de transição, que é a fresta que a marca ocupa.
 
-**B=MAP.** Motivação vem do reconhecimento na SAÍDA. Habilidade é máxima, porque falar uma frase em voz alta dentro do carro não custa recurso nenhum. O Prompt é o gesto de desligar o motor, que já acontece todo dia.
+**B=MAP.** Motivação vem do reconhecimento da SAÍDA, que fala com quem já tentou e falhou. Habilidade é máxima, porque falar uma frase sozinho no carro não exige recurso nenhum. O Prompt é desligar o motor, que acontece todo dia.
 
-**Direção de câmera.** Plano-sequência único, vertical 9:16, push lento e constante do início ao fim, sem corte e sem zoom digital. A luz é a da casa, quente, com a bancada recebendo uma fonte lateral suave. O livro precisa estar levemente desalinhado, como coisa que foi largada ali, e nunca centralizado como produto.
+**Mecânica da convocação.** A palavra-chave é EXTRATO, no comentário. O comentário dispara mensagem direta com o link do formulário, que pede nome, e-mail e uma pergunta de segmentação: em que momento do dia o alarme mais aperta. Essa resposta é o que torna a lista vendável depois, porque separa quem sofre de manhã de quem sofre às três da manhã.
 
-**Som.** Ambiente de casa. Nenhuma trilha dramática, nenhuma batida. Se entrar bordão, entra baixo e sem melodia.
+**Direção de câmera.** Plongée total, câmera travada, vertical 9:16. Nenhum corte e nenhum zoom. A luz é lateral suave, com a bancada em tom neutro para a capa não competir. As mãos entram e saem com calma. Folhear é gesto contínuo, sem parar em página nenhuma, porque parar convida a leitura do miolo e a peça não lê o miolo.
 
-**Cortes derivados.** Para o corte de quinze segundos, começar em "gratidão vem de gratus" e terminar na capa. O trecho mais forte para thumbnail estático é o frame da capa com a mão segurando.
+**Som.** Ambiente. O som do livro folheando fica audível e é o único efeito. Sem trilha e sem batida.
 
-**Peça irmã.** Este quadro alimenta a mesma tese da Travessia sobre o alarme que não desliga, na versão de bolso e diurna. Se virar episódio do AlumiaCast, o mecanismo da varredura é o que se aprofunda.
+**Cortes derivados.** Para o corte de quinze segundos, começar em "gratidão não é olhar o lado bom" e terminar em "vira inventário". O frame para thumbnail é o dedo no subtítulo.
+
+**Descrição do vídeo.** Creditar autor, título original e edição brasileira, e repetir a instrução da palavra-chave.
