@@ -38,7 +38,7 @@ Marcações entre colchetes não se leem. A narração é gravada separada e cas
 
 [Topo de câmera. A mão pousa no livro e desliza até a capa ficar reta no quadro.]
 
-Um grupo de freiras viveu sete anos a mais, e o segredo estava no que elas escreveram aos vinte e poucos anos.
+Freiras que viviam agradecendo ganharam sete anos a mais de vida, e tem cientista que mediu isso.
 
 ---
 
@@ -46,7 +46,7 @@ Um grupo de freiras viveu sete anos a mais, e o segredo estava no que elas escre
 
 [Em 0:06 exatos, o dedo corre por baixo do subtítulo. A legenda acompanha o dedo.]
 
-O estudo é do neurologista David Snowdon, e está destrinchado aqui, ó: a ciência da gratidão, do Robert Emmons, que passou a carreira medindo isso.
+A história completa está aqui, ó: a ciência da gratidão. Trinta anos de pesquisa mostrando o que agradecer faz no teu corpo, no teu sono e na tua cabeça.
 
 ---
 
@@ -54,11 +54,11 @@ O estudo é do neurologista David Snowdon, e está destrinchado aqui, ó: a ciê
 
 [A mão abre o livro e folheia devagar, sem parar em página nenhuma.]
 
-E o Emmons somou a parte dele: dois grupos, um listando cinco gratidões por semana, o outro, cinco aborrecimentos. Mesma vida, lentes diferentes, e quem agradecia dormia melhor e ficou 25% mais feliz.
+E a descoberta que interessa é essa: gratidão não é fingir que está tudo bem, e sim perceber que o que deu certo no teu dia teve dedo de alguém.
 
-Mas presta atenção na parte que a gente pula: agradecer não é ver o lado bom, mas reconhecer que o que deu certo veio também de fora.
+Quando o teu cérebro registra isso, ele sai do modo falta.
 
-Sem isso, a lista não funciona.
+Gente que fez esse exercício uma vez por semana dormiu melhor, treinou mais e ficou 25% mais feliz, de graça.
 
 ---
 
@@ -66,7 +66,7 @@ Sem isso, a lista não funciona.
 
 [A mão fecha o livro e a palma pousa em cima da capa.]
 
-Então hoje, quando desligar o carro na garagem, fala em voz alta uma coisa que deu certo e quem te ajudou nela.
+Então hoje, quando desligar o carro na garagem, fala em voz alta uma coisa que deu certo e quem te ajudou. Trinta segundos.
 
 ---
 
@@ -74,15 +74,19 @@ Então hoje, quando desligar o carro na garagem, fala em voz alta uma coisa que 
 
 [A mão vira a capa para cima. O joinha com os dois dedos cai em 0:55, junto com "que eu te mando".]
 
-E eu destilei a prática desse livro numa página só. Comenta GRATIDÃO que eu te mando.
+E quem quiser a prática mastigada numa página, comenta GRATIDÃO que eu te mando agora.
+
+---
 
 ## Notas de produção
 
-**Métrica.** 140 palavras faladas, que em ritmo de conversa, por volta de 150 por minuto, fecham em 56 segundos de fala e 58 com as respirações. Dois pontos de sincronia inegociáveis: a palavra "ciência" cai junto com o dedo no subtítulo em 0:06, e o joinha cai em 0:55 junto com "que eu te mando", que é a última frase. A convocação começa em 0:50 para a promessa ser dita antes do gesto, nunca depois.
+**Métrica.** 145 palavras faladas, que em ritmo de conversa, por volta de 150 por minuto, fecham em 56 segundos de fala e 58 com as respirações. Dois pontos de sincronia inegociáveis: a palavra "ciência" cai junto com o dedo no subtítulo em 0:06, e o joinha cai em 0:55 junto com "que eu te mando", que é a última frase. A convocação começa em 0:50 para a promessa ser dita antes do gesto, nunca depois.
 
 **Função no ringue (/nocaute).** Jab com gancho macio no quinto tempo. Os tempos 1 a 4 entregam valor completo, com a micro-ação de graça, e o pedido chega formulado como mais uma entrega, o extrato para quem não vai ler. Como a audiência ainda é fria, o extrato precisa ser entrega pura, sem oferta dentro: o direito a um gancho de verdade ainda está sendo pago por esta e pelas próximas peças. Um pedido só na peça inteira.
 
 **A escada da abstração, degrau a degrau.** A SAÍDA abre no chão, numa cena filmável: diários de um convento sendo lidos. A FONTE sobe um degrau para credenciar. O INSIGHT ocupa o topo com o princípio (mesma vida, lentes diferentes) e começa a descer com a peça que falta, o reconhecimento do que veio de fora. O PROMPT aterrissa no último degrau: carro, garagem, voz alta, trinta segundos, com gatilho, duração e forma. Nenhum salto entre degraus.
+
+**Para quem o vídeo fala, e onde mora cada coisa.** Quem assiste é gente comum rolando um feed voraz, querendo entender o que a gratidão faz na vida dela, sem genealogia de estudo. Por decisão editorial de Rafael em 22/08/2026, nome de pesquisador não entra na fala: o vídeo vende a compreensão e o livro, a capa mostra o autor, e a descrição carrega os créditos completos. O rigor continua inteiro no que é afirmado, que passou pela /checagem; o que muda é a superfície, que fala de sono, cabeça e modo falta em vez de instituição e sobrenome.
 
 **A cadeia de atribuição, e o erro que ela corrige.** Uma versão anterior colava o achado das freiras no Emmons, e o estudo é de David Snowdon, neurologista da Universidade de Kentucky, publicado com Deborah Danner em 2001. A regra que fica: cada achado é dito com o dono ao lado, e o papel do livro é declarado como o que ele é, o lugar onde o Emmons destrincha o estudo dos outros e soma os experimentos dele próprios. Fonte trocada de dono derruba a credencial da peça inteira no primeiro comentário de quem conhece.
 
@@ -106,14 +110,14 @@ E eu destilei a prática desse livro numa página só. Comenta GRATIDÃO que eu 
 
 **Cortes derivados.** Para o corte de quinze segundos, do início até "sete anos a mais" e emenda na convocação. O frame para thumbnail é o dedo no subtítulo.
 
-**Descrição do vídeo.** Creditar autor, título original *Thanks!* e edição brasileira, citar Emmons e McCullough e o Nun Study pelo nome, e repetir a instrução da palavra-chave.
+**Descrição do vídeo.** É aqui que moram os créditos que saíram da fala: livro *Agradeça e Seja Feliz!* (*Thanks!*), de Robert Emmons, professor da Universidade da Califórnia em Davis; o achado das freiras é do Nun Study, de Danner e Snowdon (2001); o experimento dos dois grupos é de Emmons e McCullough (2003). Repetir a instrução da palavra-chave.
 ---
 
 ## Posts de publicação
 
 **TikTok:**
 
-Freiras que escreviam com mais gratidão e alegria viveram 7 anos a mais. O estudo é do neurologista David Snowdon, e o livro do professor que mais mediu gratidão no mundo destrincha ele inteiro. A prática cabe numa página, então comenta GRATIDÃO que eu te mando agora.
+Freiras que viviam agradecendo ganharam 7 anos a mais de vida, e tem ciência medindo isso. A prática cabe numa página, então comenta GRATIDÃO que eu te mando agora.
 
 Livro: Agradeça e Seja Feliz! (Thanks!), de Robert Emmons.
 
@@ -123,7 +127,7 @@ Livro: Agradeça e Seja Feliz! (Thanks!), de Robert Emmons.
 
 A ciência da gratidão e o estudo das freiras que viveram 7 anos a mais.
 
-O achado das freiras é do Nun Study, do neurologista David Snowdon, e Robert Emmons destrincha ele no livro antes de somar o experimento dele: separou dois grupos, um listava cinco motivos de gratidão por semana, o outro, cinco aborrecimentos. Mesma vida, lentes diferentes, e quem agradecia dormiu melhor e ficou 25% mais feliz.
+Num dos estudos do livro, um grupo listava cinco motivos de gratidão por semana e o outro, cinco aborrecimentos. Mesma vida, lentes diferentes, e quem agradecia dormiu melhor e ficou 25% mais feliz.
 
 O detalhe que quase todo mundo pula está no vídeo, e a prática inteira eu coloquei numa página, então comenta GRATIDÃO que eu te mando agora.
 
