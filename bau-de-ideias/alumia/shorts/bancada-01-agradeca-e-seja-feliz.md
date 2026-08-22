@@ -20,7 +20,7 @@
 |---|---|
 | Gancho de atenção | O estudo dos diários das freiras: sete anos a mais de vida |
 | Superação anunciada | O hábito é gratuito, cabe em trinta segundos e foi medido |
-| Credencial | Emmons mediu gratidão em estudo controlado com dois grupos |
+| Credencial | Snowdon assina o achado das freiras, e Emmons assina o experimento dos dois grupos: cada um com o seu |
 | Soco de ciência | Um grupo listou gratidões, o outro listou aborrecimentos, e os resultados se separaram |
 | A peça que falta | Gratidão exige reconhecer que o bem veio de fora, senão vira inventário |
 | Micro-ação (chão da escada) | Depois de desligar o carro, dizer em voz alta uma coisa que deu certo e quem ajudou nela |
@@ -38,7 +38,7 @@ Marcações entre colchetes não se leem. A narração é gravada separada e cas
 
 [Topo de câmera. A mão pousa no livro e desliza até a capa ficar reta no quadro.]
 
-Um grupo de freiras viveu sete anos a mais, e o segredo estava escrito nos diários delas.
+Um grupo de freiras viveu sete anos a mais, e o segredo estava no que elas escreveram aos vinte e poucos anos.
 
 ---
 
@@ -46,7 +46,7 @@ Um grupo de freiras viveu sete anos a mais, e o segredo estava escrito nos diár
 
 [Em 0:06 exatos, o dedo corre por baixo do subtítulo. A legenda acompanha o dedo.]
 
-Quem explica é esse livro aqui, ó: a ciência da gratidão. Robert Emmons, professor na Califórnia, passou a vida medindo isso.
+O estudo é do neurologista David Snowdon, e está destrinchado aqui, ó: a ciência da gratidão, do Robert Emmons, que passou a carreira medindo isso.
 
 ---
 
@@ -54,9 +54,9 @@ Quem explica é esse livro aqui, ó: a ciência da gratidão. Robert Emmons, pro
 
 [A mão abre o livro e folheia devagar, sem parar em página nenhuma.]
 
-Ele pegou dois grupos: um listava cinco motivos de gratidão por semana, o outro, cinco aborrecimentos. Mesma vida, lentes diferentes, e quem agradecia dormia melhor e ficou 25% mais feliz.
+E o Emmons somou a parte dele: dois grupos, um listando cinco gratidões por semana, o outro, cinco aborrecimentos. Mesma vida, lentes diferentes, e quem agradecia dormia melhor e ficou 25% mais feliz.
 
-Mas presta atenção na parte que a gente pula: agradecer não é ver o lado bom, é reconhecer que o que deu certo veio de alguém, veio de fora.
+Mas presta atenção na parte que a gente pula: agradecer não é ver o lado bom, mas reconhecer que o que deu certo veio também de fora.
 
 Sem isso, a lista não funciona.
 
@@ -83,6 +83,8 @@ E eu destilei a prática desse livro numa página só. Comenta GRATIDÃO que eu 
 **Função no ringue (/nocaute).** Jab com gancho macio no quinto tempo. Os tempos 1 a 4 entregam valor completo, com a micro-ação de graça, e o pedido chega formulado como mais uma entrega, o extrato para quem não vai ler. Como a audiência ainda é fria, o extrato precisa ser entrega pura, sem oferta dentro: o direito a um gancho de verdade ainda está sendo pago por esta e pelas próximas peças. Um pedido só na peça inteira.
 
 **A escada da abstração, degrau a degrau.** A SAÍDA abre no chão, numa cena filmável: diários de um convento sendo lidos. A FONTE sobe um degrau para credenciar. O INSIGHT ocupa o topo com o princípio (mesma vida, lentes diferentes) e começa a descer com a peça que falta, o reconhecimento do que veio de fora. O PROMPT aterrissa no último degrau: carro, garagem, voz alta, trinta segundos, com gatilho, duração e forma. Nenhum salto entre degraus.
+
+**A cadeia de atribuição, e o erro que ela corrige.** Uma versão anterior colava o achado das freiras no Emmons, e o estudo é de David Snowdon, neurologista da Universidade de Kentucky, publicado com Deborah Danner em 2001. A regra que fica: cada achado é dito com o dono ao lado, e o papel do livro é declarado como o que ele é, o lugar onde o Emmons destrincha o estudo dos outros e soma os experimentos dele próprios. Fonte trocada de dono derruba a credencial da peça inteira no primeiro comentário de quem conhece.
 
 **O soco de ciência, e o limite dele.** Dois estudos entram, e cada um pelo que é. O experimento dos dois grupos é de Emmons e McCullough, com números que o próprio livro reporta: sono, exercício e o marcador de 25% de felicidade. O estudo das freiras é o Nun Study, que analisou diários de noviças e encontrou sete anos a mais, em média, nas que escreviam com mais emoção positiva; a peça diz "viveram sete anos a mais", que é o achado, e nunca "agradecer te dá sete anos", que seria promessa causal que o estudo não sustenta. Ficaram de fora, por decisão: os números de cortisol e DHEA que circulam junto com o livro, porque vêm de pesquisa de outra instituição com evidência fraca, e a proporção de Gottman, que é peça de relacionamento e merece episódio próprio.
 
@@ -111,7 +113,7 @@ E eu destilei a prática desse livro numa página só. Comenta GRATIDÃO que eu 
 
 **TikTok:**
 
-Freiras que agradeciam no diário viveram 7 anos a mais, e quem provou isso foi o professor que mais mediu gratidão no mundo. A prática inteira cabe numa página, então comenta GRATIDÃO que eu te mando agora.
+Freiras que escreviam com mais gratidão e alegria viveram 7 anos a mais. O estudo é do neurologista David Snowdon, e o livro do professor que mais mediu gratidão no mundo destrincha ele inteiro. A prática cabe numa página, então comenta GRATIDÃO que eu te mando agora.
 
 Livro: Agradeça e Seja Feliz! (Thanks!), de Robert Emmons.
 
@@ -121,7 +123,7 @@ Livro: Agradeça e Seja Feliz! (Thanks!), de Robert Emmons.
 
 A ciência da gratidão e o estudo das freiras que viveram 7 anos a mais.
 
-Robert Emmons separou dois grupos: um listava cinco motivos de gratidão por semana, o outro, cinco aborrecimentos. Mesma vida, lentes diferentes, e quem agradecia dormiu melhor e ficou 25% mais feliz.
+O achado das freiras é do Nun Study, do neurologista David Snowdon, e Robert Emmons destrincha ele no livro antes de somar o experimento dele: separou dois grupos, um listava cinco motivos de gratidão por semana, o outro, cinco aborrecimentos. Mesma vida, lentes diferentes, e quem agradecia dormiu melhor e ficou 25% mais feliz.
 
 O detalhe que quase todo mundo pula está no vídeo, e a prática inteira eu coloquei numa página, então comenta GRATIDÃO que eu te mando agora.
 
