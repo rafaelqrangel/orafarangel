@@ -74,6 +74,10 @@ def dicotomia_fatiada(linhas):
     """
     achados = []
     for linha in linhas:
+        # variante com dois-pontos ou ponto e virgula dentro da mesma frase:
+        # "nao e autoajuda: e o estudo", "nao e X; e Y". Banida em 22/08/2026.
+        for m in re.finditer(r"n[a]o e [^.:;!?]{2,80}[:;]\s*e\s", sem_acento(linha)):
+            achados.append(linha[:120])
         fs = frases(linha)
         for a, b in zip(fs, fs[1:]):
             bn = sem_acento(b)

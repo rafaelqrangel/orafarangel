@@ -42,7 +42,7 @@ Se qualquer uma falhar, o roteiro não é uma Travessia e volta para a prancheta
 
 **Antes de salvar, rode `python3 bau-de-ideias/alumia/ferramentas/varredura.py <arquivo>`.** Ele conta a métrica e caça os tiques abaixo, e sai com erro se achar qualquer um. Roteiro que não passa limpo não entra em `episodios/`. A leitura de agente é opinião; a varredura é lei.
 
-**A dicotomia fatiada, banida por decreto do Rafael em 16/08/2026.** O contraste partido em duas frases curtas é a assinatura mais reconhecível de texto de máquina, e está proibido em qualquer forma: "Isso não é X. É Y.", "Todo mundo X. Você Y.", "A casa dorme. Você não.", "Não é sobre X. É sobre Y." A ideia continua sendo dita, num período só, com a conjunção no lugar do ponto. A única sequência de negativas permitida no roteiro inteiro são as três de dispensa do esforço que fecham o bloco final, e nada além delas.
+**A dicotomia fatiada, banida por decreto do Rafael em 16/08/2026.** O contraste partido em duas frases curtas é a assinatura mais reconhecível de texto de máquina, e está proibido em qualquer forma: "Isso não é X. É Y.", "não é X: é Y", "não é X; é Y", "Todo mundo X. Você Y.", "A casa dorme. Você não.", "Não é sobre X. É sobre Y." Dois-pontos e ponto e vírgula não disfarçam o corte. A ideia continua sendo dita, num período só, com conjunção coordenativa (mas, porém, e) no lugar da pontuação de corte. A única sequência de negativas permitida no roteiro inteiro são as três de dispensa do esforço que fecham o bloco final, e nada além delas.
 
 Além da varredura automática, confira à mão:
 

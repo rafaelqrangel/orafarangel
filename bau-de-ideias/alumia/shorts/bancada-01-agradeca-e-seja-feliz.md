@@ -105,3 +105,28 @@ E eu destilei a prática desse livro numa página só. Comenta GRATIDÃO que eu 
 **Cortes derivados.** Para o corte de quinze segundos, do início até "sete anos a mais" e emenda na convocação. O frame para thumbnail é o dedo no subtítulo.
 
 **Descrição do vídeo.** Creditar autor, título original *Thanks!* e edição brasileira, citar Emmons e McCullough e o Nun Study pelo nome, e repetir a instrução da palavra-chave.
+---
+
+## Posts de publicação
+
+**TikTok:**
+
+Freiras que agradeciam no diário viveram 7 anos a mais, e quem provou isso foi o professor que mais mediu gratidão no mundo. A prática inteira cabe numa página, então comenta GRATIDÃO que eu te mando agora.
+
+Livro: Agradeça e Seja Feliz! (Thanks!), de Robert Emmons.
+
+#gratidão #booktokbrasil #saudemental #ansiedade #livros
+
+**Instagram:**
+
+A ciência da gratidão e o estudo das freiras que viveram 7 anos a mais.
+
+Robert Emmons separou dois grupos: um listava cinco motivos de gratidão por semana, o outro, cinco aborrecimentos. Mesma vida, lentes diferentes, e quem agradecia dormiu melhor e ficou 25% mais feliz.
+
+O detalhe que quase todo mundo pula está no vídeo, e a prática inteira eu coloquei numa página, então comenta GRATIDÃO que eu te mando agora.
+
+Livro: Agradeça e Seja Feliz! (Thanks!), de Robert Emmons, professor da Universidade da Califórnia.
+
+#gratidão #estoicismo #saudemental #ansiedade #leitura
+
+**Nota de hashtag.** No TikTok a hashtag virou sinal de busca, então três a cinco específicas, com #booktokbrasil porque vídeo com livro na mão é o formato nativo da comunidade. No Instagram a primeira linha da legenda é o que trabalha a busca, e as tags acompanham. Um pedido só por post, o mesmo do vídeo.
