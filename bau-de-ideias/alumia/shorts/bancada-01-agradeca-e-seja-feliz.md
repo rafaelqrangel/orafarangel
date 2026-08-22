@@ -1,12 +1,13 @@
 # A Bancada, episódio 1
 
-**Título:** A parte que todo mundo pula
-**Título de publicação:** Por que agradecer nunca funcionou pra você | A Bancada
+**Título:** Sete anos no diário
+**Título de publicação:** O estudo das freiras que viveram 7 anos a mais | A Bancada
 **Duração alvo:** 58 segundos (6 · 9 · 26 · 11 · 6)
 **Tempos:** saída 0:00-0:06 · fonte 0:06-0:15 · insight 0:15-0:41 · prompt 0:41-0:52 · convocação 0:52-0:58
 **Gestos:** dedo no subtítulo em 0:06 · joinha em 0:55
-**Livro:** *Agradeça e Seja Feliz!*, de Robert Emmons, professor da Universidade da Califórnia em Davis. Edição brasileira de *Thanks!*. É pesquisa acadêmica de psicologia positiva, e é assim que entra
+**Livro:** *Agradeça e Seja Feliz!*, de Robert Emmons, professor da Universidade da Califórnia em Davis. Edição brasileira de *Thanks!*. Pesquisa acadêmica, e é assim que entra
 **Momento do mapa:** 19h, o carro parado na garagem antes de entrar em casa, com o alarme ainda ligado
+**Função no ringue:** jab com gancho macio no quinto tempo (classificação /nocaute)
 **Data:** 22/08/2026
 **Formato:** Short vertical, topo de câmera travado, mãos e livro, sem corte
 
@@ -16,12 +17,12 @@
 
 | Item | Conteúdo |
 |---|---|
-| Dor reconhecível | Já tentou a lista de gratidão e não sentiu nada mudar |
-| Superação anunciada | A prática falha por falta de uma peça específica, e a peça tem nome |
-| Credencial | Emmons mediu gratidão em estudo controlado, em vez de pregar sobre ela |
-| Etimologia (motor do insight) | *Gratus*, do latim, mesma raiz de gratuito e de graça: o que chegou sem você ter pagado, ou seja, veio de fora |
-| Insight em uma frase | Gratidão não é olhar o lado bom, que é otimismo, é reconhecer que o que deu certo veio em parte de fora de você |
-| Micro-ação | Antes de abrir a porta de casa, dizer em voz alta uma coisa que deu certo e quem ajudou nela |
+| Gancho de atenção | O estudo dos diários das freiras: sete anos a mais de vida |
+| Superação anunciada | O hábito é gratuito, cabe em trinta segundos e foi medido |
+| Credencial | Emmons mediu gratidão em estudo controlado com dois grupos |
+| Soco de ciência | Um grupo listou gratidões, o outro listou aborrecimentos, e os resultados se separaram |
+| A peça que falta | Gratidão exige reconhecer que o bem veio de fora, senão vira inventário |
+| Micro-ação (chão da escada) | Depois de desligar o carro, dizer em voz alta uma coisa que deu certo e quem ajudou nela |
 | Convocação | O extrato aplicado, para quem não vai ler o livro |
 
 ---
@@ -36,7 +37,7 @@ Marcações entre colchetes não se leem. A narração é gravada separada e cas
 
 [Topo de câmera. A mão pousa no livro e desliza até a capa ficar reta no quadro.]
 
-Se você já tentou lista de gratidão e não sentiu nada mudar, faltava uma peça.
+Cientistas leram os diários de um convento inteiro, e as freiras que mais agradeciam nos textos viveram, em média, sete anos a mais.
 
 ---
 
@@ -44,21 +45,19 @@ Se você já tentou lista de gratidão e não sentiu nada mudar, faltava uma pe�
 
 [Em 0:06 exatos, o dedo corre por baixo do subtítulo. A legenda acompanha o dedo.]
 
-E olha o subtítulo: a *ciência* da gratidão. Ciência mesmo, porque quem escreveu foi Robert Emmons, professor da Universidade da Califórnia, que mediu isso em vez de pregar.
+Esse estudo está aqui, e olha o subtítulo: a *ciência* da gratidão. Robert Emmons, professor da Universidade da Califórnia, é quem mais mediu isso no mundo.
 
 ---
 
 ### INSIGHT · 0:15 a 0:41
 
-[A mão abre o livro e folheia devagar, sem pressa, sem parar em página nenhuma.]
+[A mão abre o livro e folheia devagar, sem parar em página nenhuma.]
 
-E a peça é essa: gratidão não é olhar o lado bom, porque isso é otimismo, e otimismo é outra coisa.
+No experimento mais famoso dele, um grupo listava cinco gratidões por semana, e o outro, cinco aborrecimentos. Quem agradecia dormiu melhor, se exercitou mais e ficou 25% mais feliz.
 
-Gratidão é reconhecer que o que deu certo hoje não veio só de você, veio também de fora, de alguém que você não controlou.
+Mesma vida, lentes diferentes.
 
-Tanto que a palavra vem de *gratus*, mesma raiz de gratuito, o que chegou sem você ter pagado.
-
-E é essa parte que a gente pula na listinha, e sem ela vira inventário.
+Só que tem a peça que quase todo mundo pula: gratidão não é olhar o lado bom, mas reconhecer que o que deu certo veio também de fora, de alguém que você não controlou. Sem essa parte, a lista vira inventário.
 
 ---
 
@@ -66,7 +65,7 @@ E é essa parte que a gente pula na listinha, e sem ela vira inventário.
 
 [A mão fecha o livro e a palma pousa em cima da capa.]
 
-Então hoje, depois de desligar o carro na garagem, antes de abrir a porta de casa, fala em voz alta uma coisa que deu certo e quem te ajudou nela. Trinta segundos.
+Então hoje, depois de desligar o carro na garagem, fala em voz alta uma coisa que deu certo e quem te ajudou nela. Trinta segundos, custa zero.
 
 ---
 
@@ -74,34 +73,36 @@ Então hoje, depois de desligar o carro na garagem, antes de abrir a porta de ca
 
 [A mão vira a capa para cima. Em 0:55, joinha com dois dedos.]
 
-E quem não vai ler o livro, comenta EXTRATO que eu mando o meu.
+E quem não vai ler o livro inteiro, comenta EXTRATO que eu mando o meu.
 
 ---
 
 ## Notas de produção
 
-**Métrica.** Segue a divisão obrigatória 6-9-26-11-6 de [`../formato-bancada.md`](../formato-bancada.md). 167 palavras faladas, que a 170 por minuto fecham em 59 segundos. O ponto de sincronia inegociável é o dedo no subtítulo: a palavra "ciência" precisa cair junto com o dedo, em 0:06.
+**Métrica.** Segue a divisão obrigatória 6-9-26-11-6 de [`../formato-bancada.md`](../formato-bancada.md). 165 palavras faladas, que a 170 por minuto fecham em 58 segundos. O ponto de sincronia inegociável é o dedo no subtítulo: a palavra "ciência" cai junto com o dedo, em 0:06.
 
-**Por que a fonte é forte aqui.** Emmons não é autor de autoajuda que teve uma ideia boa, é o pesquisador que desenhou experimento sobre gratidão e mediu resultado. Isso resolve o maior risco do tema, que é escorregar para o misticismo gratiluz, e cumpre a promessa da marca de sabedoria agregada à ciência. A credencial não precisa ser defendida pelo narrador, porque está impressa na capa e o dedo mostra.
+**Função no ringue (/nocaute).** Jab com gancho macio no quinto tempo. Os tempos 1 a 4 entregam valor completo, com a micro-ação de graça, e o pedido chega formulado como mais uma entrega, o extrato para quem não vai ler. Como a audiência ainda é fria, o extrato precisa ser entrega pura, sem oferta dentro: o direito a um gancho de verdade ainda está sendo pago por esta e pelas próximas peças. Um pedido só na peça inteira.
 
-**O limite do que é afirmado.** O roteiro diz que Emmons mediu, e não diz o que os números deram. Isso é deliberado: os efeitos documentados de práticas de gratidão são reais porém modestos, e o campo tem debate de replicação, o que não cabe honestamente em nove segundos. Nenhuma promessa clínica é feita, nenhum número é citado, e nada é dito sobre o que a prática cura.
+**A escada da abstração, degrau a degrau.** A SAÍDA abre no chão, numa cena filmável: diários de um convento sendo lidos. A FONTE sobe um degrau para credenciar. O INSIGHT ocupa o topo com o princípio (mesma vida, lentes diferentes) e começa a descer com a peça que falta, o reconhecimento do que veio de fora. O PROMPT aterrissa no último degrau: carro, garagem, voz alta, trinta segundos, com gatilho, duração e forma. Nenhum salto entre degraus.
 
-**O insight, e por que ele não é óbvio.** A distinção entre otimismo e gratidão é a virada da peça, e é fiel ao construto que a psicologia estuda: a gratidão tem um componente relacional, o reconhecimento de que o bem veio em parte de fora. É isso que separa esta peça de qualquer conteúdo genérico de gratidão, e é isso que justifica a leitura do livro.
+**O soco de ciência, e o limite dele.** Dois estudos entram, e cada um pelo que é. O experimento dos dois grupos é de Emmons e McCullough, com números que o próprio livro reporta: sono, exercício e o marcador de 25% de felicidade. O estudo das freiras é o Nun Study, que analisou diários de noviças e encontrou sete anos a mais, em média, nas que escreviam com mais emoção positiva; a peça diz "viveram sete anos a mais", que é o achado, e nunca "agradecer te dá sete anos", que seria promessa causal que o estudo não sustenta. Ficaram de fora, por decisão: os números de cortisol e DHEA que circulam junto com o livro, porque vêm de pesquisa de outra instituição com evidência fraca, e a proporção de Gottman, que é peça de relacionamento e merece episódio próprio.
 
-**A etimologia como motor.** *Gratus* liga gratidão a gratuito e a graça, e faz o trabalho conceitual sozinha: o que chegou sem você ter pagado veio de outro lugar. A palavra prova o argumento, no padrão da casa.
+**O insight, e por que ele não é óbvio.** "Mesma vida, lentes diferentes" resume o experimento em cinco palavras: os dois grupos viveram as mesmas semanas e a diferença foi o que listaram. A peça que falta é o componente relacional da gratidão, fiel ao construto que Emmons estuda com o conceito de reconnaissance: reconhecer, admitir que veio de fora, apreciar. O Short entrega o segundo passo, que é o que separa gratidão de otimismo, e o extrato desdobra os três.
 
-**O Prompt carrega o insight dentro dele.** A micro-ação não é "diga uma coisa boa", é dizer a coisa boa **e quem ajudou nela**. Sem o segundo pedaço, o exercício vira o inventário que a peça acabou de criticar. É a descida da escada completa: o princípio abstrato reaparece como duas palavras ditas em voz alta dentro do carro.
+**O Prompt carrega o insight dentro dele.** A micro-ação não é dizer uma coisa boa, é dizer a coisa boa e quem ajudou nela. Sem o segundo pedaço, o exercício vira o inventário que a peça acabou de criticar.
 
-**O momento do mapa.** O PROMPT ancora nas 19h de [`../poco-de-ideias.md`](../poco-de-ideias.md), o carro parado na garagem com o alarme ainda ligado. Gatilho que já existe na rotina, custo zero, e é momento de transição, que é a fresta que a marca ocupa.
+**O momento do mapa.** O PROMPT ancora nas 19h de [`../poco-de-ideias.md`](../poco-de-ideias.md), o carro parado na garagem com o alarme ainda ligado. Gatilho que já existe, custo zero, momento de transição, que é a fresta que a marca ocupa.
 
-**B=MAP.** Motivação vem do reconhecimento da SAÍDA, que fala com quem já tentou e falhou. Habilidade é máxima, porque falar uma frase sozinho no carro não exige recurso nenhum. O Prompt é desligar o motor, que acontece todo dia.
+**B=MAP.** Motivação vem dos sete anos da SAÍDA e do 25% medido. Habilidade é máxima, uma frase em voz alta no carro. O Prompt é desligar o motor, que acontece todo dia.
 
-**Mecânica da convocação.** A palavra-chave é EXTRATO, no comentário. O comentário dispara mensagem direta com o link do formulário, que pede nome, e-mail e uma pergunta de segmentação: em que momento do dia o alarme mais aperta. Essa resposta é o que torna a lista vendável depois, porque separa quem sofre de manhã de quem sofre às três da manhã.
+**Mecânica da convocação.** Palavra-chave EXTRATO no comentário, que dispara mensagem direta com o formulário: nome, e-mail e uma pergunta de segmentação, em que momento do dia o alarme mais aperta. Essa resposta é o que torna a lista útil depois, separando quem sofre de manhã de quem acorda às três. O extrato existe pronto antes de o vídeo subir, desdobra os três passos da reconnaissance em prática de trinta segundos, e aponta de volta para a leitura do livro.
 
-**Direção de câmera.** Plongée total, câmera travada, vertical 9:16. Nenhum corte e nenhum zoom. A luz é lateral suave, com a bancada em tom neutro para a capa não competir. As mãos entram e saem com calma. Folhear é gesto contínuo, sem parar em página nenhuma, porque parar convida a leitura do miolo e a peça não lê o miolo.
+**Direção de câmera.** Plongée total, câmera travada, vertical 9:16, sem corte e sem zoom. Luz lateral suave, bancada em tom neutro. As mãos entram e saem com calma, e folhear é gesto contínuo, sem parar em página nenhuma, porque parar convida a leitura do miolo e a peça não lê o miolo.
 
-**Som.** Ambiente. O som do livro folheando fica audível e é o único efeito. Sem trilha e sem batida.
+**Som.** Ambiente. O som do livro folheando é o único efeito. Sem trilha e sem batida.
 
-**Cortes derivados.** Para o corte de quinze segundos, começar em "gratidão não é olhar o lado bom" e terminar em "vira inventário". O frame para thumbnail é o dedo no subtítulo.
+**Legendas queimadas.** Obrigatórias, com a fala do subtítulo aparecendo no mesmo instante do dedo. Os números 7 e 25% podem subir como texto na tela nos seus momentos, em tipografia da marca, sem seta e sem emoji.
 
-**Descrição do vídeo.** Creditar autor, título original e edição brasileira, e repetir a instrução da palavra-chave.
+**Cortes derivados.** Para o corte de quinze segundos, do início até "sete anos a mais" e emenda em "comenta EXTRATO". O frame para thumbnail é o dedo no subtítulo.
+
+**Descrição do vídeo.** Creditar autor, título original *Thanks!* e edição brasileira, citar Emmons e McCullough e o Nun Study pelo nome, e repetir a instrução da palavra-chave.
