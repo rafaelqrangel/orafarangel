@@ -8,6 +8,12 @@ Topo de câmera, plongée total sobre a bancada. Só as mãos do Rafael e o livr
 
 O quadro existe para responder uma pergunta só: **por que você deveria ler este livro?** E, para quem não vai ler, ele abre a porta do extrato.
 
+## A versão longa, quando o material pede
+
+Quando o livro tem material rico demais para 58 segundos, o quadro roda em **80 segundos, na proporção 8 · 10 · 40 · 17 · 5**, dentro do teto de 90 segundos que `/nocaute` reserva ao tamanho CURTO. A escala cresce, a proporção entre os tempos não muda, e as duas marcas de gesto continuam obrigatórias, reposicionadas para os novos instantes (dedo perto dos 10%, joinha perto dos 95%).
+
+Decisão de quando usar a versão longa: se o INSIGHT dos 58 segundos só consegue entregar um benefício sem espaço para o mecanismo por trás dele, o material pede a versão longa.
+
 ## A abertura fixa
 
 Todo episódio abre com a mesma pergunta, dita antes de qualquer outra coisa: **"Por que você deveria ler esse livro?"** É a assinatura falada do quadro, o que faz a pessoa reconhecer a série em dois segundos, e a resposta que vem logo depois é o gancho daquele episódio. A pergunta nunca varia; o que varia é a resposta.

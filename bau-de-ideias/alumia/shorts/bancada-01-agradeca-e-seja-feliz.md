@@ -2,9 +2,9 @@
 
 **Título:** A régua que aceita ajuste
 **Título de publicação:** Por que você deveria ler Agradeça e Seja Feliz | A Bancada
-**Duração alvo:** 58 segundos (6 · 9 · 26 · 11 · 6)
-**Tempos:** saída 0:00-0:06 · fonte 0:06-0:15 · insight 0:15-0:41 · prompt 0:41-0:52 · convocação 0:52-0:58
-**Gestos:** dedo no subtítulo em 0:06 · joinha em 0:55
+**Duração alvo:** 80 segundos (8 · 10 · 40 · 17 · 5), versão longa do quadro
+**Tempos:** saída 0:00-0:08 · fonte 0:08-0:18 · insight 0:18-0:58 · prompt 0:58-1:15 · convocação 1:15-1:20
+**Gestos:** dedo no subtítulo em 0:08 · joinha em 1:16
 **Livro:** *Agradeça e Seja Feliz!*, de Robert Emmons, professor da Universidade da Califórnia em Davis. Edição brasileira de *Thanks!*. Pesquisa acadêmica, e é assim que entra
 **Momento do mapa:** 23h30, deitar na cama com o dia ainda rodando na cabeça
 **Função no ringue:** jab com gancho macio no quinto tempo (classificação /nocaute)
@@ -18,12 +18,12 @@
 
 | Item | Conteúdo |
 |---|---|
-| Gancho de atenção | A pergunta fixa do quadro, seguida da régua da felicidade que parecia fixa |
-| Superação anunciada | A gratidão praticada empurra a régua pra cima |
+| Gancho de atenção | A pergunta fixa do quadro, seguida da régua da felicidade que a ciência achava travada |
+| Superação anunciada | A gratidão praticada empurra a régua pra cima e segura ela lá |
 | Credencial | Trinta anos de pesquisa de Robert Emmons sobre gratidão |
-| A virada da peça | O pedágio que o ego odeia pagar: admitir que o melhor veio também de outras pessoas |
-| Por que incomoda | Agradecer desmonta o mito do self-made man, e é por isso que tanta gente evita |
-| Micro-ação (chão da escada) | Na cama, escolher alguém invisível que facilitou o dia e agradecer por trinta segundos |
+| Os dois benefícios | Sono melhor, porque o corpo sai do alerta; e relação melhor, porque nasce vontade de devolver |
+| O mecanismo | O cérebro puxa o humor de volta ao padrão depois de qualquer coisa boa ou ruim, e gratidão é o que trava esse patamar mais alto |
+| Micro-ação (chão da escada) | Na cama, escolher alguém invisível que facilitou o dia e agradecer de verdade por um minuto |
 | Convocação | A prática inteira numa página, pela palavra GRATIDÃO |
 
 ---
@@ -34,51 +34,53 @@ Marcações entre colchetes não se leem. A narração é gravada separada e cas
 
 ---
 
-### SAÍDA · 0:00 a 0:06
+### SAÍDA · 0:00 a 0:08
 
 [Topo de câmera. A mão pousa no livro e desliza até a capa ficar reta no quadro.]
 
-Por que você deveria ler esse livro? Porque ele mexe numa régua que todo mundo jurava ser fixa.
+Por que você deveria ler esse livro? Porque ele mostra como resetar sua felicidade, de um jeito que a ciência achava impossível.
 
 ---
 
-### FONTE · 0:06 a 0:15
+### FONTE · 0:08 a 0:18
 
-[Em 0:06 exatos, o dedo corre por baixo do subtítulo, junto com "tá escrito aqui".]
+[Em 0:08, o dedo corre por baixo do subtítulo, junto com "tá escrito aqui".]
 
-Tá escrito aqui: a ciência da gratidão. Trinta anos de pesquisa mostrando que essa régua, a da tua felicidade, aceita ajuste.
+Tá escrito aqui: a ciência da gratidão. Trinta anos de pesquisa provando que dá pra levantar o patamar da tua felicidade, e levantar de verdade.
 
 ---
 
-### INSIGHT · 0:15 a 0:41
+### INSIGHT · 0:18 a 0:58
 
 [A mão abre o livro e folheia devagar, sem parar em página nenhuma.]
 
-Funciona assim: ganhou na loteria ou quebrou a perna, em poucos meses o teu humor volta pro mesmo lugar, porque o cérebro tem uma gravidade própria.
+Repara: quando você ganha na loteria ou quebra a perna, em poucos meses o teu humor volta pro mesmo lugar, porque o cérebro sempre puxa de volta pro padrão dele.
 
-E a gratidão praticada é o que empurra essa régua pra cima, só que ela cobra um pedágio que o ego odeia pagar: admitir que o melhor da tua vida veio também de outras pessoas, e é exatamente por isso que agradecer incomoda tanta gente.
+Gratidão praticada é o único hábito que empurra esse patamar pra cima e segura ele lá, e o primeiro efeito já é bom: você dorme melhor, porque o corpo sai do alerta e entra de vez no descanso.
+
+E quando você reconhece que parte do teu dia bom veio de outra pessoa, liga dentro de você uma vontade de devolver sem cobrar nada, e é isso que muda como as pessoas voltam a te tratar.
 
 ---
 
-### PROMPT · 0:41 a 0:52
+### PROMPT · 0:58 a 1:15
 
 [A mão fecha o livro e a palma pousa em cima da capa.]
 
-Então faz o teste hoje na cama: escolhe alguém que facilitou o teu dia sem aparecer, quem fez a tua comida, quem limpou a tua rua, e agradece por trinta segundos.
+Então hoje à noite, antes de dormir, escolhe uma pessoa que ajudou o teu dia sem aparecer, quem fez a tua comida ou quem limpou a tua rua, e agradece de verdade por um minuto, sentindo o que isso muda no teu corpo.
 
 ---
 
-### CONVOCAÇÃO · 0:52 a 0:58
+### CONVOCAÇÃO · 1:15 a 1:20
 
-[A mão vira a capa para cima. O joinha com os dois dedos cai em 0:55, junto com "te mando agora".]
+[A mão vira a capa para cima. O joinha com os dois dedos cai em 1:16, junto com "te mando agora".]
 
-E se você quiser a prática inteira explicada numa página, comenta GRATIDÃO que eu te mando agora.
+E se você quiser a prática completa, com todos os benefícios explicados direitinho, comenta GRATIDÃO que eu te mando agora.
 
 ---
 
 ## Notas de produção
 
-**Métrica.** 158 palavras faladas, que no ritmo do Rafael, entre 155 e 165 por minuto, fecham entre 57 e 61 segundos; a folga sai da pausa entre INSIGHT e PROMPT, nunca da frase longa. Dois pontos de sincronia inegociáveis: a palavra "ciência" cai junto com o dedo no subtítulo em 0:06, e o joinha cai em 0:55 junto com "que eu te mando", que é a última frase.
+**Métrica.** Versão longa do quadro, decidida por Rafael em 22/08/2026 porque o material do livro é rico demais para 58 segundos. 215 palavras faladas, que no ritmo do Rafael, entre 150 e 160 por minuto, fecham entre 81 e 86 segundos, dentro do teto de 90 segundos que `/nocaute` reserva ao tamanho CURTO. Proporção mantida do formato base (8 · 10 · 40 · 17 · 5), só a escala que cresce. Dois pontos de sincronia inegociáveis: a palavra "ciência" cai junto com o dedo no subtítulo em 0:06, e o joinha cai em 0:55 junto com "que eu te mando", que é a última frase.
 
 **Função no ringue (/nocaute).** Jab com gancho macio no quinto tempo. Os tempos 1 a 4 entregam valor completo, com a micro-ação de graça, e o pedido chega formulado como mais uma entrega: os três movimentos mastigados, para quem não vai ler o livro inteiro. Como a audiência ainda é fria, a entrega precisa ser pura, sem oferta dentro. Um pedido só na peça inteira.
 
@@ -88,9 +90,9 @@ E se você quiser a prática inteira explicada numa página, comenta GRATIDÃO q
 
 **Decisão editorial: o vídeo vende gratidão, não o estudo.** Em 22/08/2026, Rafael cortou toda menção a caso de pesquisa específico (o Nun Study, os nomes de pesquisador) da narração. Quem assiste é gente comum num feed voraz, e ela quer entender o que fazer com a própria vida, não a genealogia acadêmica. O livro é mais profundo e abrangente do que um estudo isolado, e por isso a peça vende o método inteiro dele, os três movimentos, em vez de um dado solto que pode ser confundido com o assunto principal. A credencial (trinta anos de pesquisa, professor na Califórnia) entra sem nome de estudo, e os créditos completos moram na descrição.
 
-**O ângulo, e por que ele vende o livro.** Dois achados do livro sustentam a peça. Primeiro, a adaptação hedônica: o humor volta à linha de base depois de loteria ou lesão, e o livro sustenta que a gratidão praticada é o comportamento intencional que desloca essa linha, tese central de Emmons que a peça apresenta como argumento do livro, sem número na fala e sem promessa de cura. Segundo, o pedágio do ego: a gratidão genuína exige admitir dependência de outras pessoas, o que desmonta o mito do self-made man e explica o desconforto que muita gente sente ao agradecer. É insight que dá riqueza de verdade a quem assiste, porque nomeia um incômodo que ninguém tinha explicado para ela.
+**O ângulo, e por que ele foi trocado.** A primeira versão desta peça abria no pedágio que o ego paga, e ficava presa no desconforto de agradecer em vez de mostrar o que a pessoa ganha com isso. Rafael cortou esse caminho: quem assiste precisa sair com benefício concreto na mão, não com um espelho desconfortável. A peça agora entrega dois. O primeiro é a adaptação hedônica, tese central de Emmons: o humor volta à linha de base depois de loteria ou lesão, e a gratidão praticada é o comportamento intencional que desloca essa linha e a segura lá, com o sono melhorando como consequência direta do corpo saindo do estado de alerta. O segundo é relacional: reconhecer o que veio de outra pessoa liga uma vontade de devolver, e isso muda como as pessoas tratam quem pratica. Os dois ficam sem número solto e sem promessa de cura, mas com o resultado nomeado com todas as letras: dormir melhor, ser tratado melhor.
 
-**O Prompt carrega o insight dentro dele.** A micro-ação é pagar o pedágio em miniatura: escolher alguém invisível que sustentou o teu dia, quem fez a comida, quem limpou a rua, e agradecer de verdade. É a quebra da autossuficiência aplicada, e não uma lista de coisas boas.
+**O Prompt carrega os dois benefícios dentro dele.** A micro-ação escolhe alguém invisível que sustentou o dia, o que aciona o benefício relacional, e pede um minuto inteiro de verdade, não trinta segundos de lista, porque o benefício do sono e da regulação do corpo precisa de tempo sentido, não de tarefa marcada.
 
 **O momento do mapa.** O PROMPT ancora nas 23h30 de [`../poco-de-ideias.md`](../poco-de-ideias.md), o deitar com o corpo parado e a cabeça ainda andando. O gatilho é deitar na cama, que acontece todo dia, e a prática ainda prepara o sono, o que conversa com o território do Alumia.
 
