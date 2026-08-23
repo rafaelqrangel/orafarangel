@@ -1,12 +1,12 @@
 # A Bancada, episódio 1
 
-**Título:** Os três movimentos
-**Título de publicação:** Por que sua lista de gratidão nunca funcionou | A Bancada
+**Título:** A régua que aceita ajuste
+**Título de publicação:** Por que você deveria ler Agradeça e Seja Feliz | A Bancada
 **Duração alvo:** 58 segundos (6 · 9 · 26 · 11 · 6)
 **Tempos:** saída 0:00-0:06 · fonte 0:06-0:15 · insight 0:15-0:41 · prompt 0:41-0:52 · convocação 0:52-0:58
 **Gestos:** dedo no subtítulo em 0:06 · joinha em 0:55
 **Livro:** *Agradeça e Seja Feliz!*, de Robert Emmons, professor da Universidade da Califórnia em Davis. Edição brasileira de *Thanks!*. Pesquisa acadêmica, e é assim que entra
-**Momento do mapa:** 19h, o carro parado na garagem antes de entrar em casa, com o alarme ainda ligado
+**Momento do mapa:** 23h30, deitar na cama com o dia ainda rodando na cabeça
 **Função no ringue:** jab com gancho macio no quinto tempo (classificação /nocaute)
 **Áudio bruto:** `shorts-livro-agradeça-robert-emmons-01` (Gravador do iOS)
 **Data:** 22/08/2026
@@ -18,13 +18,13 @@
 
 | Item | Conteúdo |
 |---|---|
-| Gancho de atenção | A sensação do fim do dia de que sempre falta alguma coisa |
-| Superação anunciada | O livro é um método de três movimentos, não uma listinha |
+| Gancho de atenção | A pergunta fixa do quadro, seguida da régua da felicidade que parecia fixa |
+| Superação anunciada | A gratidão praticada empurra a régua pra cima |
 | Credencial | Trinta anos de pesquisa de Robert Emmons sobre gratidão |
-| Objeção antecipada | "Já tentei lista de gratidão e não mudou nada" |
-| A peça que falta | Reconhecer, admitir que veio de fora, e deixar tocar de verdade |
-| Micro-ação (chão da escada) | Depois de desligar o carro, dizer em voz alta uma coisa que deu certo e quem ajudou nela |
-| Convocação | Os três movimentos mastigados numa página, pela palavra GRATIDÃO |
+| A virada da peça | O pedágio que o ego odeia pagar: admitir que o melhor veio também de outras pessoas |
+| Por que incomoda | Agradecer desmonta o mito do self-made man, e é por isso que tanta gente evita |
+| Micro-ação (chão da escada) | Na cama, escolher alguém invisível que facilitou o dia e agradecer por trinta segundos |
+| Convocação | A prática inteira numa página, pela palavra GRATIDÃO |
 
 ---
 
@@ -38,15 +38,15 @@ Marcações entre colchetes não se leem. A narração é gravada separada e cas
 
 [Topo de câmera. A mão pousa no livro e desliza até a capa ficar reta no quadro.]
 
-Essa sensação de fechar o dia devendo alguma coisa tem conserto, e o conserto cabe em trinta segundos.
+Por que você deveria ler esse livro? Porque ele mexe numa régua que todo mundo jurava ser fixa.
 
 ---
 
 ### FONTE · 0:06 a 0:15
 
-[Em 0:06 exatos, o dedo corre por baixo do subtítulo. A legenda acompanha o dedo.]
+[Em 0:06 exatos, o dedo corre por baixo do subtítulo, junto com "tá escrito aqui".]
 
-Tá escrito aqui: a ciência da gratidão. São trinta anos de pesquisa dentro de um livro que vai muito além de fazer listinha.
+Tá escrito aqui: a ciência da gratidão. Trinta anos de pesquisa mostrando que essa régua, a da tua felicidade, aceita ajuste.
 
 ---
 
@@ -54,9 +54,9 @@ Tá escrito aqui: a ciência da gratidão. São trinta anos de pesquisa dentro d
 
 [A mão abre o livro e folheia devagar, sem parar em página nenhuma.]
 
-E eu sei o que você está pensando, que você já tentou agradecer e não mudou nada, porque ninguém te contou que a gratidão que funciona tem três movimentos: reconhecer o que deu certo, admitir que uma parte veio de outra pessoa, e deixar isso te alcançar de verdade.
+Funciona assim: ganhou na loteria ou quebrou a perna, em poucos meses o teu humor volta pro mesmo lugar, porque o cérebro tem uma gravidade própria.
 
-Quem pula um dos três fica fazendo lista, e quem faz os três tira o cérebro do modo falta.
+E a gratidão praticada é o que empurra essa régua pra cima, só que ela cobra um pedágio que o ego odeia pagar: admitir que o melhor da tua vida veio também de outras pessoas, e é exatamente por isso que agradecer incomoda tanta gente.
 
 ---
 
@@ -64,21 +64,21 @@ Quem pula um dos três fica fazendo lista, e quem faz os três tira o cérebro d
 
 [A mão fecha o livro e a palma pousa em cima da capa.]
 
-Então faz o teste hoje: quando desligar o carro na garagem, fala em voz alta uma coisa que deu certo e o nome de quem te ajudou.
+Então faz o teste hoje na cama: escolhe alguém que facilitou o teu dia sem aparecer, quem fez a tua comida, quem limpou a tua rua, e agradece por trinta segundos.
 
 ---
 
 ### CONVOCAÇÃO · 0:52 a 0:58
 
-[A mão vira a capa para cima. O joinha com os dois dedos cai em 0:55, junto com "que eu te mando".]
+[A mão vira a capa para cima. O joinha com os dois dedos cai em 0:55, junto com "te mando agora".]
 
-E se você quiser os três movimentos explicados numa página, comenta GRATIDÃO que eu te mando agora.
+E se você quiser a prática inteira explicada numa página, comenta GRATIDÃO que eu te mando agora.
 
 ---
 
 ## Notas de produção
 
-**Métrica.** 147 palavras faladas, que no ritmo do Rafael, entre 150 e 160 por minuto, fecham entre 55 e 59 segundos. Dois pontos de sincronia inegociáveis: a palavra "ciência" cai junto com o dedo no subtítulo em 0:06, e o joinha cai em 0:55 junto com "que eu te mando", que é a última frase.
+**Métrica.** 158 palavras faladas, que no ritmo do Rafael, entre 155 e 165 por minuto, fecham entre 57 e 61 segundos; a folga sai da pausa entre INSIGHT e PROMPT, nunca da frase longa. Dois pontos de sincronia inegociáveis: a palavra "ciência" cai junto com o dedo no subtítulo em 0:06, e o joinha cai em 0:55 junto com "que eu te mando", que é a última frase.
 
 **Função no ringue (/nocaute).** Jab com gancho macio no quinto tempo. Os tempos 1 a 4 entregam valor completo, com a micro-ação de graça, e o pedido chega formulado como mais uma entrega: os três movimentos mastigados, para quem não vai ler o livro inteiro. Como a audiência ainda é fria, a entrega precisa ser pura, sem oferta dentro. Um pedido só na peça inteira.
 
@@ -88,11 +88,11 @@ E se você quiser os três movimentos explicados numa página, comenta GRATIDÃO
 
 **Decisão editorial: o vídeo vende gratidão, não o estudo.** Em 22/08/2026, Rafael cortou toda menção a caso de pesquisa específico (o Nun Study, os nomes de pesquisador) da narração. Quem assiste é gente comum num feed voraz, e ela quer entender o que fazer com a própria vida, não a genealogia acadêmica. O livro é mais profundo e abrangente do que um estudo isolado, e por isso a peça vende o método inteiro dele, os três movimentos, em vez de um dado solto que pode ser confundido com o assunto principal. A credencial (trinta anos de pesquisa, professor na Califórnia) entra sem nome de estudo, e os créditos completos moram na descrição.
 
-**O mecanismo, e por que ele é a venda certa do livro.** Reconhecer, admitir que veio de fora, apreciar de verdade: é o conceito de *reconnaissance* que Emmons usa no livro, e é isso que separa a prática que funciona da lista que não funciona. A objeção mais comum ("já tentei e não mudou nada") é nomeada antes de a pessoa pensar nela, e a resposta é estrutural: faltava o segundo e o terceiro movimento, não faltava disciplina.
+**O ângulo, e por que ele vende o livro.** Dois achados do livro sustentam a peça. Primeiro, a adaptação hedônica: o humor volta à linha de base depois de loteria ou lesão, e o livro sustenta que a gratidão praticada é o comportamento intencional que desloca essa linha, tese central de Emmons que a peça apresenta como argumento do livro, sem número na fala e sem promessa de cura. Segundo, o pedágio do ego: a gratidão genuína exige admitir dependência de outras pessoas, o que desmonta o mito do self-made man e explica o desconforto que muita gente sente ao agradecer. É insight que dá riqueza de verdade a quem assiste, porque nomeia um incômodo que ninguém tinha explicado para ela.
 
-**O Prompt carrega o insight dentro dele.** A micro-ação não é dizer uma coisa boa, é dizer a coisa boa e quem ajudou nela, que é o segundo movimento em miniatura. Sem essa parte, o exercício vira o primeiro movimento sozinho, que é exatamente o que a peça acabou de dizer que não funciona.
+**O Prompt carrega o insight dentro dele.** A micro-ação é pagar o pedágio em miniatura: escolher alguém invisível que sustentou o teu dia, quem fez a comida, quem limpou a rua, e agradecer de verdade. É a quebra da autossuficiência aplicada, e não uma lista de coisas boas.
 
-**O momento do mapa.** O PROMPT ancora nas 19h de [`../poco-de-ideias.md`](../poco-de-ideias.md), o carro parado na garagem com o alarme ainda ligado. Gatilho que já existe, custo zero, momento de transição, que é a fresta que a marca ocupa.
+**O momento do mapa.** O PROMPT ancora nas 23h30 de [`../poco-de-ideias.md`](../poco-de-ideias.md), o deitar com o corpo parado e a cabeça ainda andando. O gatilho é deitar na cama, que acontece todo dia, e a prática ainda prepara o sono, o que conversa com o território do Alumia.
 
 **B=MAP.** Motivação vem de nomear o estado da SAÍDA e a objeção do INSIGHT, que fazem a pessoa se sentir vista antes de qualquer pedido. Habilidade é máxima, uma frase em voz alta no carro. O Prompt é desligar o motor, que acontece todo dia.
 
@@ -104,7 +104,7 @@ E se você quiser os três movimentos explicados numa página, comenta GRATIDÃO
 
 **Legendas queimadas.** Obrigatórias, com a fala do subtítulo aparecendo no mesmo instante do dedo. Os três movimentos podem subir como texto na tela, um por vez, em tipografia da marca, sem seta e sem emoji.
 
-**Cortes derivados.** Para o corte de quinze segundos, do início do INSIGHT ("eu sei que você já tentou") até o fim ("modo falta"). O frame para thumbnail é o dedo no subtítulo.
+**Cortes derivados.** Para o corte de quinze segundos, o pedágio do ego: de "a gratidão praticada é o que empurra essa régua" até "incomoda tanta gente". O frame para thumbnail é o dedo no subtítulo.
 
 **Descrição do vídeo.** É aqui que moram os créditos completos: livro *Agradeça e Seja Feliz!* (*Thanks!*), de Robert Emmons, professor da Universidade da Califórnia em Davis, com o conceito de *reconnaissance* que o vídeo resume em três movimentos. Para quem quiser a referência acadêmica específica citada no livro, ela está detalhada no material que a palavra-chave desbloqueia. Repetir a instrução da palavra-chave.
 

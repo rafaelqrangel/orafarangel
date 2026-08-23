@@ -8,6 +8,10 @@ Topo de câmera, plongée total sobre a bancada. Só as mãos do Rafael e o livr
 
 O quadro existe para responder uma pergunta só: **por que você deveria ler este livro?** E, para quem não vai ler, ele abre a porta do extrato.
 
+## A abertura fixa
+
+Todo episódio abre com a mesma pergunta, dita antes de qualquer outra coisa: **"Por que você deveria ler esse livro?"** É a assinatura falada do quadro, o que faz a pessoa reconhecer a série em dois segundos, e a resposta que vem logo depois é o gancho daquele episódio. A pergunta nunca varia; o que varia é a resposta.
+
 ## As duas marcas de gesto
 
 Toda peça tem dois gestos obrigatórios, cronometrados:
