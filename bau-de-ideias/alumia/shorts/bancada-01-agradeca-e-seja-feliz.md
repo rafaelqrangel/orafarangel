@@ -38,7 +38,7 @@ Marcações entre colchetes não se leem. A narração é gravada separada e cas
 
 [Topo de câmera. A mão pousa no livro e desliza até a capa ficar reta no quadro.]
 
-Você fecha o dia sentindo que faltou alguma coisa, e dá pra desligar isso.
+Essa sensação de fechar o dia devendo alguma coisa tem conserto, e o conserto cabe em trinta segundos.
 
 ---
 
@@ -46,7 +46,7 @@ Você fecha o dia sentindo que faltou alguma coisa, e dá pra desligar isso.
 
 [Em 0:06 exatos, o dedo corre por baixo do subtítulo. A legenda acompanha o dedo.]
 
-Olha o subtítulo, ó: a ciência da gratidão. Trinta anos de pesquisa, e esse livro é bem mais fundo do que uma listinha.
+Tá escrito aqui: a ciência da gratidão. São trinta anos de pesquisa dentro de um livro que vai muito além de fazer listinha.
 
 ---
 
@@ -54,13 +54,9 @@ Olha o subtítulo, ó: a ciência da gratidão. Trinta anos de pesquisa, e esse 
 
 [A mão abre o livro e folheia devagar, sem parar em página nenhuma.]
 
-Eu sei que você já tentou fazer lista de gratidão e não sentiu nada mudar, porque falta o resto do método.
+E eu sei o que você está pensando, que você já tentou agradecer e não mudou nada, porque ninguém te contou que a gratidão que funciona tem três movimentos: reconhecer o que deu certo, admitir que uma parte veio de outra pessoa, e deixar isso te alcançar de verdade.
 
-Ele mapeia três movimentos: reconhecer o que deu certo, admitir que parte veio de fora, de alguém, e só então deixar aquilo te tocar de verdade.
-
-Pula qualquer um dos três, e a prática não pega.
-
-Faz os três direito, e teu cérebro sai do modo falta.
+Quem pula um dos três fica fazendo lista, e quem faz os três tira o cérebro do modo falta.
 
 ---
 
@@ -68,7 +64,7 @@ Faz os três direito, e teu cérebro sai do modo falta.
 
 [A mão fecha o livro e a palma pousa em cima da capa.]
 
-Então hoje, quando desligar o carro na garagem, fala em voz alta uma coisa que deu certo e quem te ajudou. Trinta segundos.
+Então faz o teste hoje: quando desligar o carro na garagem, fala em voz alta uma coisa que deu certo e o nome de quem te ajudou.
 
 ---
 
@@ -76,17 +72,19 @@ Então hoje, quando desligar o carro na garagem, fala em voz alta uma coisa que 
 
 [A mão vira a capa para cima. O joinha com os dois dedos cai em 0:55, junto com "que eu te mando".]
 
-E se você quiser os três movimentos certinhos, mastigados, comenta GRATIDÃO que eu te mando agora.
+E se você quiser os três movimentos explicados numa página, comenta GRATIDÃO que eu te mando agora.
 
 ---
 
 ## Notas de produção
 
-**Métrica.** 144 palavras faladas, que em ritmo de conversa, por volta de 150 por minuto, fecham em 58 segundos. Dois pontos de sincronia inegociáveis: a palavra "ciência" cai junto com o dedo no subtítulo em 0:06, e o joinha cai em 0:55 junto com "que eu te mando", que é a última frase.
+**Métrica.** 147 palavras faladas, que no ritmo do Rafael, entre 150 e 160 por minuto, fecham entre 55 e 59 segundos. Dois pontos de sincronia inegociáveis: a palavra "ciência" cai junto com o dedo no subtítulo em 0:06, e o joinha cai em 0:55 junto com "que eu te mando", que é a última frase.
 
 **Função no ringue (/nocaute).** Jab com gancho macio no quinto tempo. Os tempos 1 a 4 entregam valor completo, com a micro-ação de graça, e o pedido chega formulado como mais uma entrega: os três movimentos mastigados, para quem não vai ler o livro inteiro. Como a audiência ainda é fria, a entrega precisa ser pura, sem oferta dentro. Um pedido só na peça inteira.
 
 **A escada da abstração, degrau a degrau.** A SAÍDA abre no chão, num estado que qualquer pessoa reconhece: fechar o dia sentindo que faltou algo. A FONTE sobe um degrau para credenciar. O INSIGHT ocupa o topo com o mecanismo (os três movimentos) e desce nomeando o erro mais comum, que é fazer só o primeiro movimento e parar. O PROMPT aterrissa no chão: carro, garagem, voz alta, trinta segundos, com gatilho, duração e forma. Nenhum salto entre degraus.
+
+**A prova da boca.** Regra de fluidez tirada do estudo da fala do Gary em 22/08/2026: toda frase do roteiro precisa sair numa respiração natural, sem quebra de vírgula no meio de uma ideia, e o texto se testa lendo em voz alta antes de aprovar. Os cacoetes de falsa intimidade ("ó", "olha só") ficam de fora, porque o Gary não usa gracinha, ele usa diretiva de atenção ("presta atenção", "escuta") e frase que anda para a frente empilhando oração até aterrissar curta. O período longo do INSIGHT é isso: uma frase só da objeção até os três movimentos, montada para ser dita num fôlego.
 
 **Decisão editorial: o vídeo vende gratidão, não o estudo.** Em 22/08/2026, Rafael cortou toda menção a caso de pesquisa específico (o Nun Study, os nomes de pesquisador) da narração. Quem assiste é gente comum num feed voraz, e ela quer entender o que fazer com a própria vida, não a genealogia acadêmica. O livro é mais profundo e abrangente do que um estudo isolado, e por isso a peça vende o método inteiro dele, os três movimentos, em vez de um dado solto que pode ser confundido com o assunto principal. A credencial (trinta anos de pesquisa, professor na Califórnia) entra sem nome de estudo, e os créditos completos moram na descrição.
 
