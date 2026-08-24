@@ -7,6 +7,8 @@ conteudo/
 ├── banco-de-ideias.md      ← ideias capturadas, uma linha cada, com território e status
 ├── roteiros/               ← um arquivo por reel/vídeo, usando o modelo
 │   └── _modelo-roteiro.md  ← modelo de roteiro nos 4 tempos (copie e renomeie)
+├── livros/                 ← packshots e vídeos de livros (Instagram/TikTok) — foto real → imagem → vídeo
+│   └── moldes/              ← moldes de cenário em JSON, reutilizáveis entre livros
 └── calendario.md           ← o que sai quando (meta: 3 reels/semana no Instagram)
 ```
 
