@@ -78,6 +78,11 @@ def dicotomia_fatiada(linhas):
         # "nao e autoajuda: e o estudo", "nao e X; e Y". Banida em 22/08/2026.
         for m in re.finditer(r"n[a]o e [^.:;!?]{2,80}[:;]\s*e\s", sem_acento(linha)):
             achados.append(linha[:120])
+        # variante com virgula, no texto original com acento, porque sem acento
+        # "e" e "é" se confundem: "não é o fracasso, é o conforto". A forma com
+        # conjunção ("não é X, mas Y", "não é X, e sim Y") passa. Banida em 23/08/2026.
+        for m in re.finditer(r"[Nn]ão (é|são|foi|era|tem) [^,.;:!?]{2,80}, (é|são|foi|era|tem)\b", linha):
+            achados.append(linha[:120])
         fs = frases(linha)
         for a, b in zip(fs, fs[1:]):
             bn = sem_acento(b)
